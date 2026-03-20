@@ -30,8 +30,8 @@ jobs:
     - name: Commit and push
       if: success() || failure()
       run: |-
-        git config --global user.name "${{ github.actor }}"
-        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        git config --global user.name 8781820+Gargamelism
+        git config --global user.email 8781820+Gargamelism@users.noreply.github.com
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
