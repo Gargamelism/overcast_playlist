@@ -18,6 +18,8 @@ jobs:
     - uses: actions/checkout@v4
       with:
         lfs: true
+        token: ${{ secrets.COMMIT_PRIVATE_ACCESS_TOKEN }}
+        ref: ${{ github.ref }}
     - run: ls -l
     - uses: actions/setup-python@v5
       with:
