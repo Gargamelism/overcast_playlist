@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <omny:organizationId>23f697a0-7e6a-4e96-a223-a82c00962b12</omny:organizationId>
+    <omny:networkId>5fb0c26a-e27a-4490-afe8-aa4000126221</omny:networkId>
+    <omny:programId>9b324804-bcd9-463d-ab19-b2b000abf007</omny:programId>
+    <omny:playlistId>3206c721-3784-415a-ac51-b2b000abf60e</omny:playlistId>
+    <language>he</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/3206c721-3784-415a-ac51-b2b000abf60e/podcast.rss" />
+    <atom:link rel="first" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/3206c721-3784-415a-ac51-b2b000abf60e/podcast.rss?page=1" />
+    <atom:link rel="last" type="application/rss+xml" href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/3206c721-3784-415a-ac51-b2b000abf60e/podcast.rss?page=1" />
+    <title>חיי מדף Shelf Life</title>
+    <link>https://www.kan.org.il/</link>
+    <description><![CDATA[<p dir="RTL">ד"ר אורי מאיר צ'יזיק יוצא לגלות איך התרחקנו כל כך מהאוכל שלנו. בכל פרק הוא בוחר מוצר אחד בסופר, ועושה איתו את כל המסע מהשדה או החווה לצלחת. בדרך נגלה למה אנחנו לא יכולים לקנות בסופר דגים מהכנרת, איך זה שאין בישראל תקן לקמח מלא, למה יש על טחינה מדבקה אדומה, איך חומוס עושה אותנו מאושרים וכמה אנטיביוטיקה באמת יש בעוף שלנו. סיבוב הקניות הבא כבר לא ייראה לכם אותו דבר</p>]]></description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>ד"ר אורי מאיר צ'יזיק יוצא לגלות איך התרחקנו כל כך מהאוכל שלנו. בכל פרק הוא בוחר מוצר אחד בסופר, ועושה איתו את כל המסע מהשדה או החווה לצלחת. בדרך נגלה למה אנחנו לא יכולים לקנות בסופר דגים מהכנרת, איך זה שאין בישראל תקן לקמח מלא, למה יש על טחינה מדבקה אדומה, איך חומוס עושה אותנו מאושרים וכמה אנטיביוטיקה באמת יש בעוף שלנו. סיבוב הקניות הבא כבר לא ייראה לכם אותו דבר</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Kan Podcasts</itunes:name>
+      <itunes:email>podcast@kan.org.il</itunes:email>
+    </itunes:owner>
+    <itunes:author>כאן | Kan</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Food" />
+    </itunes:category>
+    <itunes:category text="Health &amp; Fitness"></itunes:category>
+    <itunes:category text="History"></itunes:category>
+    <itunes:image href="https://www.omnycontent.com/d/programs/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/image.jpg?t=1743330372&amp;size=Large" />
+    <image>
+      <url>https://www.omnycontent.com/d/programs/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/image.jpg?t=1743330372&amp;size=Large</url>
+      <title>חיי מדף Shelf Life</title>
+      <link>https://www.kan.org.il/</link>
+    </image>
+    <item>
+      <title>פצצת אנרגיה צהובה</title>
+      <itunes:title>פצצת אנרגיה צהובה</itunes:title>
+      <description><![CDATA[<p dir="rtl">הבננה היא הפרי הנצרך ביותר בעולם &mdash; אז למה בניגוד לתפוחים אנחנו מכירים רק זן אחד שלה, איך הפרי התמים הזה הפך לסמל של אימפריאליזם ואלימות, ומה כל כך מיוחד בבננות הישראליות שגורם להן להיות שונות כמעט מכל בננה אחרת בעולם</p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת, סייע בהפקה: טל נורונסקי, עריכת סאונד: רוני קלדרון</p> <p dir="rtl">&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">הבננה היא הפרי הנצרך ביותר בעולם &mdash; אז למה בניגוד לתפוחים אנחנו מכירים רק זן אחד שלה, איך הפרי התמים הזה הפך לסמל של אימפריאליזם ואלימות, ומה כל כך מיוחד בבננות הישראליות שגורם להן להיות שונות כמעט מכל בננה אחרת בעולם</p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת, סייע בהפקה: טל נורונסקי, עריכת סאונד: רוני קלדרון</p> <p dir="rtl">&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/cee6604d-00d0-47e4-8477-b40700d7676f/image.jpg?t=1773300342&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/cee6604d-00d0-47e4-8477-b40700d7676f/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/cee6604d-00d0-47e4-8477-b40700d7676f/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/cee6604d-00d0-47e4-8477-b40700d7676f/image.jpg?t=1773300342&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">cee6604d-00d0-47e4-8477-b40700d7676f</guid>
+      <omny:clipId>cee6604d-00d0-47e4-8477-b40700d7676f</omny:clipId>
+      <pubDate>Mon, 09 Mar 2026 03:00:00 +0000</pubDate>
+      <itunes:duration>1374</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/cee6604d-00d0-47e4-8477-b40700d7676f/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="22044129" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/cee6604d-00d0-47e4-8477-b40700d7676f</link>
+    </item>
+    <item>
+      <title>זהב שחור</title>
+      <itunes:title>זהב שחור</itunes:title>
+      <description><![CDATA[<p dir="rtl">אין כמעט מנה במטבחים האסייתיים ללא רוטב הסויה המלוח והממכר. אבל מאיפה מגיע הטעם העמוק הזה שאנחנו מכנים אוממי, מה באמת יש ברוטב שאנחנו קונים בסופר (רמז: לא סויה לרוב), ואיך זה שבמזרח התיכון היה פעם רוטב דומה - שנכח כמעט בכל מתכון - ונעלם בלי להשאיר אחריו זכר</p> <p dir="rtl"><a href="https://mazon-izun.com/recipes/moldy-tomatos/">לינק למתכון של מיסו עגבניות</a></p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עריכת סאונד: רוני קלדרון</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">אין כמעט מנה במטבחים האסייתיים ללא רוטב הסויה המלוח והממכר. אבל מאיפה מגיע הטעם העמוק הזה שאנחנו מכנים אוממי, מה באמת יש ברוטב שאנחנו קונים בסופר (רמז: לא סויה לרוב), ואיך זה שבמזרח התיכון היה פעם רוטב דומה - שנכח כמעט בכל מתכון - ונעלם בלי להשאיר אחריו זכר</p> <p dir="rtl"><a href="https://mazon-izun.com/recipes/moldy-tomatos/">לינק למתכון של מיסו עגבניות</a></p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עריכת סאונד: רוני קלדרון</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d/image.jpg?t=1771840952&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d/image.jpg?t=1771840952&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d</guid>
+      <omny:clipId>f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d</omny:clipId>
+      <pubDate>Mon, 23 Feb 2026 03:00:00 +0000</pubDate>
+      <itunes:duration>1381</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="22170497" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/f69ddceb-1f5e-49cc-99c6-b3f9011c5c3d</link>
+    </item>
+    <item>
+      <title>הקרב על החלב</title>
+      <itunes:title>הקרב על החלב</itunes:title>
+      <description><![CDATA[<p dir="rtl">מדפי חלב ריקים, רפורמה דרמטית והבטחה להורדת יוקר המחיה - אורי מאיר-צ'יזיק צולל לשוק החלב הישראלי כדי להבין מי אחראי לכך שלא יחסר חלב במדפים, האם הרפורמה של שר האוצר באמת תוזיל את המחיר, ולמה שוב מבטיחים לנו שיבוא הוא הפתרון להכל</p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עריכת סאונד: רוני קלדרון; תמונה: GEMINI</p> <p dir="rtl">&nbsp;</p> <p dir="rtl">ממשרד האוצר נמסר בתגובה:</p> <p dir="rtl">רפורמת החלב תוזיל לאזרחי ישראל את החלב ובעיקר את הגבינות. אין הצדקה שמשפחה ישראלית תרכוש גבינה במחיר שיכול להגיע לפי שלושה מאשר המחיר באירופה. הרפורמה יצאה לדרך אחרי עבודה מעמיקה שלקחה בחשבון את המאבק למען הגברת התחרות וצמצום כוחן של המחלבות השולטות בשוק באופן בלעדי. הרפורמה מקצה השקעות ממשלה בהיקף של מליונים רבים לרפתות כדי שיוכלו להתפתח ולהתייעל כדי למכור יותר חלב ביותר זול. רפתות שיבחרו לא להתמודד במצב המחירים החדש יוכלו לפדות את המכסות שלהם והממשלה תקנה מהם בתעריף מוגדל. בממוצע, רפתן יקבל למעלה ממיליון ש"ח על פדיון המכסות.</p> <p dir="rtl">ההיסטוריה מוכיחה כי ייבוא מוריד מחירים ובמקביל פותר את בעיית המחסור במדפים. בשוק פתוח ולא מתוכנן וסגור כמו בחלב ומוצריו, ההוזלה במחיר מחלחלת לצרכן בקצה. בפעם הבאה נשמח לטובת העניין שעמדת משרד האוצר תבוא כחלק מההסכת על מנת לתת לשומעים נקודת מבט מלאה, ולא להסתפק בתגובה בלבד בשולי התכנית.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">מדפי חלב ריקים, רפורמה דרמטית והבטחה להורדת יוקר המחיה - אורי מאיר-צ'יזיק צולל לשוק החלב הישראלי כדי להבין מי אחראי לכך שלא יחסר חלב במדפים, האם הרפורמה של שר האוצר באמת תוזיל את המחיר, ולמה שוב מבטיחים לנו שיבוא הוא הפתרון להכל</p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עריכת סאונד: רוני קלדרון; תמונה: GEMINI</p> <p dir="rtl">&nbsp;</p> <p dir="rtl">ממשרד האוצר נמסר בתגובה:</p> <p dir="rtl">רפורמת החלב תוזיל לאזרחי ישראל את החלב ובעיקר את הגבינות. אין הצדקה שמשפחה ישראלית תרכוש גבינה במחיר שיכול להגיע לפי שלושה מאשר המחיר באירופה. הרפורמה יצאה לדרך אחרי עבודה מעמיקה שלקחה בחשבון את המאבק למען הגברת התחרות וצמצום כוחן של המחלבות השולטות בשוק באופן בלעדי. הרפורמה מקצה השקעות ממשלה בהיקף של מליונים רבים לרפתות כדי שיוכלו להתפתח ולהתייעל כדי למכור יותר חלב ביותר זול. רפתות שיבחרו לא להתמודד במצב המחירים החדש יוכלו לפדות את המכסות שלהם והממשלה תקנה מהם בתעריף מוגדל. בממוצע, רפתן יקבל למעלה ממיליון ש"ח על פדיון המכסות.</p> <p dir="rtl">ההיסטוריה מוכיחה כי ייבוא מוריד מחירים ובמקביל פותר את בעיית המחסור במדפים. בשוק פתוח ולא מתוכנן וסגור כמו בחלב ומוצריו, ההוזלה במחיר מחלחלת לצרכן בקצה. בפעם הבאה נשמח לטובת העניין שעמדת משרד האוצר תבוא כחלק מההסכת על מנת לתת לשומעים נקודת מבט מלאה, ולא להסתפק בתגובה בלבד בשולי התכנית.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/5aa304a0-cdd5-4570-b0d2-b3ee01190e7d/image.jpg?t=1770829509&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/5aa304a0-cdd5-4570-b0d2-b3ee01190e7d/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/5aa304a0-cdd5-4570-b0d2-b3ee01190e7d/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/5aa304a0-cdd5-4570-b0d2-b3ee01190e7d/image.jpg?t=1770829509&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">5aa304a0-cdd5-4570-b0d2-b3ee01190e7d</guid>
+      <omny:clipId>5aa304a0-cdd5-4570-b0d2-b3ee01190e7d</omny:clipId>
+      <pubDate>Thu, 12 Feb 2026 03:00:00 +0000</pubDate>
+      <itunes:duration>1478</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/5aa304a0-cdd5-4570-b0d2-b3ee01190e7d/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="23733770" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/5aa304a0-cdd5-4570-b0d2-b3ee01190e7d</link>
+    </item>
+    <item>
+      <title>מהרפת אל קערת הקורנפלקס</title>
+      <itunes:title>מהרפת אל קערת הקורנפלקס</itunes:title>
+      <description><![CDATA[<p dir="rtl">עונה חדשה! אורי מאיר-צ&rsquo;יזיק חוזר לסופר ומפרק את קרטון החלב לגורמים: למה בני אדם התחילו לשתות חלב פרה, מה באמת קורה לו במחלבה, וכיצד הפך למוצר בסיסי כל כך בתזונה הישראלית - למרות שלרובנו אין בכלל סבילות ללקטוז.</p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עריכת סאונד: רוני קלדרון, תמונה: Gemini</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">עונה חדשה! אורי מאיר-צ&rsquo;יזיק חוזר לסופר ומפרק את קרטון החלב לגורמים: למה בני אדם התחילו לשתות חלב פרה, מה באמת קורה לו במחלבה, וכיצד הפך למוצר בסיסי כל כך בתזונה הישראלית - למרות שלרובנו אין בכלל סבילות ללקטוז.</p> <p dir="rtl">מגיש: אורי מאיר-צ'יזיק; עורכת: ליהיא צדוק; מפיק: עדי אפרת; עריכת סאונד: רוני קלדרון, תמונה: Gemini</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/987bece9-dd49-4713-b104-b3eb00fdd6f1/image.jpg?t=1770564384&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/987bece9-dd49-4713-b104-b3eb00fdd6f1/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/987bece9-dd49-4713-b104-b3eb00fdd6f1/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/987bece9-dd49-4713-b104-b3eb00fdd6f1/image.jpg?t=1770564384&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">987bece9-dd49-4713-b104-b3eb00fdd6f1</guid>
+      <omny:clipId>987bece9-dd49-4713-b104-b3eb00fdd6f1</omny:clipId>
+      <pubDate>Tue, 10 Feb 2026 03:00:00 +0000</pubDate>
+      <itunes:duration>1403</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/987bece9-dd49-4713-b104-b3eb00fdd6f1/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="22530070" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/987bece9-dd49-4713-b104-b3eb00fdd6f1</link>
+    </item>
+    <item>
+      <title>פרק בונוס: אוכל מלחמה</title>
+      <itunes:title>פרק בונוס: אוכל מלחמה</itunes:title>
+      <description><![CDATA[<p>ברגע שמתחיל בישראל מצב חירום כולנו יודעים בדיוק מה לעשות: לאפות לחם מחמצת. פרק בונוס זריז על מה השבועיים האחרונים עשו לתזונה שלנו, מי נפל למתוקים וחטיפים ומי ניצל את הזמן כדי להכין אוכל ביתי מושקע, איך להכין חטיפים למקלט ומה הופך אוכל לנחמה. לגזור ולשמור, למקרה שתהיה פעם עוד מלחמה</p> <p>מגישים: אורי מאיר צ'יזיק וצליל אברהם, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p>ברגע שמתחיל בישראל מצב חירום כולנו יודעים בדיוק מה לעשות: לאפות לחם מחמצת. פרק בונוס זריז על מה השבועיים האחרונים עשו לתזונה שלנו, מי נפל למתוקים וחטיפים ומי ניצל את הזמן כדי להכין אוכל ביתי מושקע, איך להכין חטיפים למקלט ומה הופך אוכל לנחמה. לגזור ולשמור, למקרה שתהיה פעם עוד מלחמה</p> <p>מגישים: אורי מאיר צ'יזיק וצליל אברהם, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/fca63c38-a815-4e05-a664-b30701288ba1/image.jpg?t=1750876923&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/fca63c38-a815-4e05-a664-b30701288ba1/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/fca63c38-a815-4e05-a664-b30701288ba1/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/fca63c38-a815-4e05-a664-b30701288ba1/image.jpg?t=1750876923&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">fca63c38-a815-4e05-a664-b30701288ba1</guid>
+      <omny:clipId>fca63c38-a815-4e05-a664-b30701288ba1</omny:clipId>
+      <pubDate>Thu, 26 Jun 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1824</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/fca63c38-a815-4e05-a664-b30701288ba1/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="29265599" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/fca63c38-a815-4e05-a664-b30701288ba1</link>
+    </item>
+    <item>
+      <title>מה הקשר בין עוגה לבית?</title>
+      <itunes:title>מה הקשר בין עוגה לבית?</itunes:title>
+      <description><![CDATA[<p dir="rtl">בסופר אפשר למצוא עוגה שנקראת "הבית" ומבטיחים לנו שהיא ממש כמו בבית. מה ההבדל בין עוגה שמכינים בבית לבין עוגה שמכינים במפעל, והאם נצליח להכין עוגה שתהיה בריאה באמת? פרק אחרון לעונה</p> <p dir="rtl"><strong>המתכון לעוגה של שני:</strong></p> <p dir="rtl"><strong>מרכיבים:</strong></p> <ul dir="rtl"> <li>2 ביצים</li> <li>90 גרם חמאה מומסת</li> <li>220 גרם סילאן</li> <li>105 גרם מים</li> <li>40 גרם קפה (אספרסו / מקינטה)</li> <li>2 כפות חומץ תפוחים (או כל חומץ אחר שיש בבית)</li> <li>220 גרם קמח כוסמין מלא</li> <li>חצי כפית סודה לשתייה</li> <li>קורט מלח&nbsp;</li> <li>16 גרם קקאו</li> </ul> <p dir="rtl"><strong>הוראות הכנה:</strong></p> <ol dir="rtl"> <li>מחממים תנור ל-170 מעלות.</li> <li>מערבבים את כל החומרים הרטובים ביחד בקערה (ביצים, חמאה מומסת, סילאן, מים, קפה, חומץ)</li> <li>מוסיפים לקערה את היבשים בלי הקקאו (!) (קמח , סודה לשתייה ומלח) ומערבבים הכי קצת שאפשר רק עד שהקמח נעלם.</li> <li>⅔ מהבלילה שופכים לתבנית.</li> <li>ל ⅓ הבלילה שנותרה מוסיפים את הקקאו ומערבבים (גם כמה שפחות) עד שנוצרת בלילה חומה.</li> <li>את הבלילה החומה יוצקים מעל זו שכבר בתבנית ואז מתחילים לצייר&hellip;עם המוט של הכפית / מזלג או עם סכין, מה שנוח לכם, מערבבים תחילה מלמטה למעלה לכל האורך ואח"כ מקשקשים ויוצרים מערבולות.</li> <li>מכניסים לתנור שחומם מראש ואופים במשך כ-35 דקות, עד שסכין / קיסם יוצא עם פירורים לחים.</li> </ol> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">בסופר אפשר למצוא עוגה שנקראת "הבית" ומבטיחים לנו שהיא ממש כמו בבית. מה ההבדל בין עוגה שמכינים בבית לבין עוגה שמכינים במפעל, והאם נצליח להכין עוגה שתהיה בריאה באמת? פרק אחרון לעונה</p> <p dir="rtl"><strong>המתכון לעוגה של שני:</strong></p> <p dir="rtl"><strong>מרכיבים:</strong></p> <ul dir="rtl"> <li>2 ביצים</li> <li>90 גרם חמאה מומסת</li> <li>220 גרם סילאן</li> <li>105 גרם מים</li> <li>40 גרם קפה (אספרסו / מקינטה)</li> <li>2 כפות חומץ תפוחים (או כל חומץ אחר שיש בבית)</li> <li>220 גרם קמח כוסמין מלא</li> <li>חצי כפית סודה לשתייה</li> <li>קורט מלח&nbsp;</li> <li>16 גרם קקאו</li> </ul> <p dir="rtl"><strong>הוראות הכנה:</strong></p> <ol dir="rtl"> <li>מחממים תנור ל-170 מעלות.</li> <li>מערבבים את כל החומרים הרטובים ביחד בקערה (ביצים, חמאה מומסת, סילאן, מים, קפה, חומץ)</li> <li>מוסיפים לקערה את היבשים בלי הקקאו (!) (קמח , סודה לשתייה ומלח) ומערבבים הכי קצת שאפשר רק עד שהקמח נעלם.</li> <li>⅔ מהבלילה שופכים לתבנית.</li> <li>ל ⅓ הבלילה שנותרה מוסיפים את הקקאו ומערבבים (גם כמה שפחות) עד שנוצרת בלילה חומה.</li> <li>את הבלילה החומה יוצקים מעל זו שכבר בתבנית ואז מתחילים לצייר&hellip;עם המוט של הכפית / מזלג או עם סכין, מה שנוח לכם, מערבבים תחילה מלמטה למעלה לכל האורך ואח"כ מקשקשים ויוצרים מערבולות.</li> <li>מכניסים לתנור שחומם מראש ואופים במשך כ-35 דקות, עד שסכין / קיסם יוצא עם פירורים לחים.</li> </ol> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/6d0c6645-10fe-4731-a9d0-b2e900a487c4/image.jpg?t=1748253611&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/6d0c6645-10fe-4731-a9d0-b2e900a487c4/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/6d0c6645-10fe-4731-a9d0-b2e900a487c4/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/6d0c6645-10fe-4731-a9d0-b2e900a487c4/image.jpg?t=1748253611&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">6d0c6645-10fe-4731-a9d0-b2e900a487c4</guid>
+      <omny:clipId>6d0c6645-10fe-4731-a9d0-b2e900a487c4</omny:clipId>
+      <pubDate>Tue, 27 May 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1722</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/6d0c6645-10fe-4731-a9d0-b2e900a487c4/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="27634305" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/6d0c6645-10fe-4731-a9d0-b2e900a487c4</link>
+    </item>
+    <item>
+      <title>קשר השתיקה של הפסטרמה</title>
+      <itunes:title>קשר השתיקה של הפסטרמה</itunes:title>
+      <description><![CDATA[<p dir="rtl">הבשר המעושן שנמכר במעדניות בניו-יורק התגלגל בארץ למוצר אחר לגמרי, שהקשר בינו לבין פסטרמה מקרי למדי. למה יש מים בפסטרמה שבסופר, מה עוד מוסיפים לשם, ולמה זה הבשר שהכי פחות כדאי לאכול. הפרק שאף אחד לא הסכים להתראיין אליו</p> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד ומיקס: רחל רפאלי; קריינות נוספת: מיה סלע</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">הבשר המעושן שנמכר במעדניות בניו-יורק התגלגל בארץ למוצר אחר לגמרי, שהקשר בינו לבין פסטרמה מקרי למדי. למה יש מים בפסטרמה שבסופר, מה עוד מוסיפים לשם, ולמה זה הבשר שהכי פחות כדאי לאכול. הפרק שאף אחד לא הסכים להתראיין אליו</p> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד ומיקס: רחל רפאלי; קריינות נוספת: מיה סלע</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/adc8c7d7-8848-4b76-a0ae-b2e2009f619e/image.jpg?t=1747647674&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/adc8c7d7-8848-4b76-a0ae-b2e2009f619e/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/adc8c7d7-8848-4b76-a0ae-b2e2009f619e/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/adc8c7d7-8848-4b76-a0ae-b2e2009f619e/image.jpg?t=1747647674&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">adc8c7d7-8848-4b76-a0ae-b2e2009f619e</guid>
+      <omny:clipId>adc8c7d7-8848-4b76-a0ae-b2e2009f619e</omny:clipId>
+      <pubDate>Tue, 20 May 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1567</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/adc8c7d7-8848-4b76-a0ae-b2e2009f619e/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="25144941" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/adc8c7d7-8848-4b76-a0ae-b2e2009f619e</link>
+    </item>
+    <item>
+      <title>כנפיים שבורות</title>
+      <itunes:title>כנפיים שבורות</itunes:title>
+      <description><![CDATA[<p dir="rtl">בישראל נשחטים בכל יום מיליון עופות. לכל אחד מהם היו חיים קצרים, קשים, ועמוסים בתרופות. מה בדיוק עבר על העוף בדרך לשולחן שלנו, האם טרי הוא באמת בריא יותר, ואיך אפשר לאכול עוף יותר איכותי ופחות יקר?</p> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד ומיקס: רחל רפאלי</p> <p dir="rtl">&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">בישראל נשחטים בכל יום מיליון עופות. לכל אחד מהם היו חיים קצרים, קשים, ועמוסים בתרופות. מה בדיוק עבר על העוף בדרך לשולחן שלנו, האם טרי הוא באמת בריא יותר, ואיך אפשר לאכול עוף יותר איכותי ופחות יקר?</p> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד ומיקס: רחל רפאלי</p> <p dir="rtl">&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/a81c845c-86a4-4eb5-9bec-b2da00a4be20/image.jpg?t=1746957644&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/a81c845c-86a4-4eb5-9bec-b2da00a4be20/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/a81c845c-86a4-4eb5-9bec-b2da00a4be20/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/a81c845c-86a4-4eb5-9bec-b2da00a4be20/image.jpg?t=1746957644&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">a81c845c-86a4-4eb5-9bec-b2da00a4be20</guid>
+      <omny:clipId>a81c845c-86a4-4eb5-9bec-b2da00a4be20</omny:clipId>
+      <pubDate>Tue, 13 May 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1401</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/a81c845c-86a4-4eb5-9bec-b2da00a4be20/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="22495901" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/a81c845c-86a4-4eb5-9bec-b2da00a4be20</link>
+    </item>
+    <item>
+      <title>חומוס, סיפור אהבה</title>
+      <itunes:title>חומוס, סיפור אהבה</itunes:title>
+      <description><![CDATA[<p dir="rtl">מבין כל הקטניות, החומוס זוכה למעמד מיוחד. ספרים נכתבים עליו, כל שלב בהכנתו מעורר פולמוס, ולכל סגנון יש מעריצים ושונאים. אבל - למה דווקא חומוס? איך בני האדם התאהבו בקטניה, מה מקור התחושה הנעימה שאנחנו מרגישים כשאנחנו אוכלים חומוס, ומה הקשר בין חומוס בחומוסיה לבין הממרח שקונים בסופר?</p> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="rtl">מבין כל הקטניות, החומוס זוכה למעמד מיוחד. ספרים נכתבים עליו, כל שלב בהכנתו מעורר פולמוס, ולכל סגנון יש מעריצים ושונאים. אבל - למה דווקא חומוס? איך בני האדם התאהבו בקטניה, מה מקור התחושה הנעימה שאנחנו מרגישים כשאנחנו אוכלים חומוס, ומה הקשר בין חומוס בחומוסיה לבין הממרח שקונים בסופר?</p> <p dir="rtl">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/1342e45f-39ee-472e-881e-b2d40078093e/image.jpg?t=1746443475&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/1342e45f-39ee-472e-881e-b2d40078093e/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/1342e45f-39ee-472e-881e-b2d40078093e/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/1342e45f-39ee-472e-881e-b2d40078093e/image.jpg?t=1746443475&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">1342e45f-39ee-472e-881e-b2d40078093e</guid>
+      <omny:clipId>1342e45f-39ee-472e-881e-b2d40078093e</omny:clipId>
+      <pubDate>Tue, 06 May 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1229</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/1342e45f-39ee-472e-881e-b2d40078093e/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="19734869" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/1342e45f-39ee-472e-881e-b2d40078093e</link>
+    </item>
+    <item>
+      <title>אלופי העולם בטחינה</title>
+      <itunes:title>אלופי העולם בטחינה</itunes:title>
+      <description><![CDATA[<p dir="RTL">הישראלים הם שיאנים עולמיים בצריכת טחינה - אבל רובנו אפילו לא נדע לזהות שומשום אם נראה אותו. צ'יזיק יצא לבדוק למה במעצמת הטחינה לא מגדלים שומשום, מה ההבדל בין טחינה מלאה לטחינה רגילה, ואיך יכול להיות שיש טחינה גולמית עם מדבקה אדומה</p> <p dir="RTL">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עורכת סאונד: רחל רפאלי, קריינות: קובי ברקאי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="RTL">הישראלים הם שיאנים עולמיים בצריכת טחינה - אבל רובנו אפילו לא נדע לזהות שומשום אם נראה אותו. צ'יזיק יצא לבדוק למה במעצמת הטחינה לא מגדלים שומשום, מה ההבדל בין טחינה מלאה לטחינה רגילה, ואיך יכול להיות שיש טחינה גולמית עם מדבקה אדומה</p> <p dir="RTL">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עורכת סאונד: רחל רפאלי, קריינות: קובי ברקאי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec/image.jpg?t=1745842620&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec/image.jpg?t=1745842620&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec</guid>
+      <omny:clipId>02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec</omny:clipId>
+      <pubDate>Tue, 29 Apr 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1425</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="22877098" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/02d0f8e2-6a59-42b7-8b8c-b2cd00c9d1ec</link>
+    </item>
+    <item>
+      <title>לחם של פעם</title>
+      <itunes:title>לחם של פעם</itunes:title>
+      <description><![CDATA[<p dir="RTL">איך זה שכל הלחמים על המדף מיוצרים באותן שלוש מאפיות ענק? למה אין על המדפים בסופר לחם אחד בריא באמת? ומי קבע שהלחם שהמחיר שלו מפוקח הוא דווקא הלחם הכי לא בריא שיש? צ'יזיק צולל לשרשרת הייצור של המוצר הכי בסיסי בתפריט שלנו</p> <p dir="RTL">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: ליהיא צדוק וצליל אברהם, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="RTL">איך זה שכל הלחמים על המדף מיוצרים באותן שלוש מאפיות ענק? למה אין על המדפים בסופר לחם אחד בריא באמת? ומי קבע שהלחם שהמחיר שלו מפוקח הוא דווקא הלחם הכי לא בריא שיש? צ'יזיק צולל לשרשרת הייצור של המוצר הכי בסיסי בתפריט שלנו</p> <p dir="RTL">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: ליהיא צדוק וצליל אברהם, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/e6577559-af4d-4dd2-8e56-b2c6014965cd/image.jpg?t=1745265613&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/e6577559-af4d-4dd2-8e56-b2c6014965cd/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/e6577559-af4d-4dd2-8e56-b2c6014965cd/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/e6577559-af4d-4dd2-8e56-b2c6014965cd/image.jpg?t=1745265613&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">e6577559-af4d-4dd2-8e56-b2c6014965cd</guid>
+      <omny:clipId>e6577559-af4d-4dd2-8e56-b2c6014965cd</omny:clipId>
+      <pubDate>Tue, 22 Apr 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1957</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/e6577559-af4d-4dd2-8e56-b2c6014965cd/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="31397180" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/e6577559-af4d-4dd2-8e56-b2c6014965cd</link>
+    </item>
+    <item>
+      <title>תעלומת הקמח המלא</title>
+      <itunes:title>תעלומת הקמח המלא</itunes:title>
+      <description><![CDATA[<p dir="RTL">פעם, לא כל כך מזמן, לא היה "קמח לבן" ו"קמח מלא" - היה פשוט קמח. אז למה יצרני המזון טורחים בכלל לפרק את הקמח המלא ולייצר קמח לבן? למה רוב המאפים שאנחנו אוכלים עשויים מקמח לבן? ואיך זה שבישראל כל אחד יכול לכתוב על האריזה של הקמח שלו - "קמח מלא"? <br>הפרק הבא יתפרסם אחרי החג, ב-22.4.25</p> <p dir="RTL">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עיצוב סאונד ומיקס: רחל רפאלי, סייעה בהפקה: עמית ויסוצקי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="RTL">פעם, לא כל כך מזמן, לא היה "קמח לבן" ו"קמח מלא" - היה פשוט קמח. אז למה יצרני המזון טורחים בכלל לפרק את הקמח המלא ולייצר קמח לבן? למה רוב המאפים שאנחנו אוכלים עשויים מקמח לבן? ואיך זה שבישראל כל אחד יכול לכתוב על האריזה של הקמח שלו - "קמח מלא"? <br>הפרק הבא יתפרסם אחרי החג, ב-22.4.25</p> <p dir="RTL">יוצר ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עיצוב סאונד ומיקס: רחל רפאלי, סייעה בהפקה: עמית ויסוצקי</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/2ea5c992-c3fa-4b67-92f0-b2b700bfaed4/image.jpg?t=1743939656&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/2ea5c992-c3fa-4b67-92f0-b2b700bfaed4/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/2ea5c992-c3fa-4b67-92f0-b2b700bfaed4/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/2ea5c992-c3fa-4b67-92f0-b2b700bfaed4/image.jpg?t=1743939656&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">2ea5c992-c3fa-4b67-92f0-b2b700bfaed4</guid>
+      <omny:clipId>2ea5c992-c3fa-4b67-92f0-b2b700bfaed4</omny:clipId>
+      <pubDate>Tue, 08 Apr 2025 02:00:00 +0000</pubDate>
+      <itunes:duration>1927</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/2ea5c992-c3fa-4b67-92f0-b2b700bfaed4/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="30917375" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/2ea5c992-c3fa-4b67-92f0-b2b700bfaed4</link>
+    </item>
+    <item>
+      <title>לאן נעלמו סרדיני הכנרת?</title>
+      <itunes:title>לאן נעלמו סרדיני הכנרת?</itunes:title>
+      <description><![CDATA[<p dir="RTL">פעם אפשר היה למצוא בכל מכולת וסופר קופסת שימורים של סרדינים מהכנרת. היום מוכרים בסופר סרדינים מסין ומאינדונזיה, והדגים שלנו נשארים באגם. לאן נעלמו סרדיני הכנרת, מה קרה לדייגים שנהגו לדוג אותם, איך זה קשור לתנובה ולמכס, ולמה זה בכלל משנה מאיפה הדגים שאנחנו אוכלים?</p> <p dir="RTL">כותב ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי, קריינות נוספת: אריה גולן ועומר בן רובי, טכנאי הקלטה: יובל יסוד</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p dir="RTL">פעם אפשר היה למצוא בכל מכולת וסופר קופסת שימורים של סרדינים מהכנרת. היום מוכרים בסופר סרדינים מסין ומאינדונזיה, והדגים שלנו נשארים באגם. לאן נעלמו סרדיני הכנרת, מה קרה לדייגים שנהגו לדוג אותם, איך זה קשור לתנובה ולמכס, ולמה זה בכלל משנה מאיפה הדגים שאנחנו אוכלים?</p> <p dir="RTL">כותב ומגיש: אורי מאיר צ'יזיק, עורכות: צליל אברהם וליהיא צדוק, הפקה: ליהיא צדוק, עריכת סאונד: רחל רפאלי, קריינות נוספת: אריה גולן ועומר בן רובי, טכנאי הקלטה: יובל יסוד</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/d7da59fe-3541-4ad4-b096-b2b000ac222f/image.jpg?t=1743330516&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/d7da59fe-3541-4ad4-b096-b2b000ac222f/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/shelf-life/d7da59fe-3541-4ad4-b096-b2b000ac222f/embed?media=Audio" />
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/d7da59fe-3541-4ad4-b096-b2b000ac222f/image.jpg?t=1743330516&amp;size=Large" type="image/jpeg" />
+      <guid isPermaLink="false">d7da59fe-3541-4ad4-b096-b2b000ac222f</guid>
+      <omny:clipId>d7da59fe-3541-4ad4-b096-b2b000ac222f</omny:clipId>
+      <pubDate>Mon, 31 Mar 2025 10:31:31 +0000</pubDate>
+      <itunes:duration>1590</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/9b324804-bcd9-463d-ab19-b2b000abf007/d7da59fe-3541-4ad4-b096-b2b000ac222f/audio.mp3?utm_source=Podcast&amp;in_playlist=3206c721-3784-415a-ac51-b2b000abf60e" length="25514846" type="audio/mpeg" />
+      <link>https://omny.fm/shows/shelf-life/d7da59fe-3541-4ad4-b096-b2b000ac222f</link>
+    </item>
+  </channel>
+</rss>
