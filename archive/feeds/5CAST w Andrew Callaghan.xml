@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://rss.buzzsprout.com/2498614.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>5CAST w/ Andrew Callaghan</title>
+
+  <lastBuildDate>Thu, 23 Apr 2026 14:37:47 -0700</lastBuildDate>
+  <link>https://www.buzzsprout.com/2498614</link>
+  <language>en-us</language>
+  <copyright>© 2026 5CAST w/ Andrew Callaghan</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>c4c850b7-6cb8-503b-864b-1a6b13b32549</podcast:guid>
+  <podcast:txt purpose="verify">liam@channel5.news</podcast:txt>
+  <itunes:author>Andrew Callaghan</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>true</itunes:explicit>
+  <description><![CDATA[<p>This is the official audio feed of Andrew Callaghan's weekly broadcast '5CAST' featuring a wide cast of illustrious guests.</p>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>Andrew Callaghan</itunes:name>
+    <itunes:email>liam@channel5.news</itunes:email>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/qx96s4q8tne5gx9de31kdw15i14c?.jpg</url>
+     <title>5CAST w/ Andrew Callaghan</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/qx96s4q8tne5gx9de31kdw15i14c?.jpg" />
+  <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Documentary" />
+  </itunes:category>
+  <itunes:category text="News">
+    <itunes:category text="Politics" />
+  </itunes:category>
+  <itunes:category text="News">
+    <itunes:category text="Entertainment News" />
+  </itunes:category>
+  <item>
+    <itunes:title>How Billionaires Captured the Media - 5CAST (#21) Ft. Steven Renderos </itunes:title>
+    <title>How Billionaires Captured the Media - 5CAST (#21) Ft. Steven Renderos </title>
+    <itunes:summary><![CDATA[Here is a really great interview we shot with Stephen Renderos, Executive Director of MediaJustice, which is a Chicago-based nonprofit that focuses on news-media transparency and accountability. We had this back-and-forth shortly after his organization released a bombshell report on media capture. ]]></itunes:summary>
+    <description><![CDATA[<p>Here is a really great interview we shot with Stephen Renderos, Executive Director of MediaJustice, which is a Chicago-based nonprofit that focuses on news-media transparency and accountability. We had this back-and-forth shortly after his organization released a bombshell report on media capture.</p>]]></description>
+    <content:encoded><![CDATA[<p>Here is a really great interview we shot with Stephen Renderos, Executive Director of MediaJustice, which is a Chicago-based nonprofit that focuses on news-media transparency and accountability. We had this back-and-forth shortly after his organization released a bombshell report on media capture.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/19067892-how-billionaires-captured-the-media-5cast-21-ft-steven-renderos.mp3" length="77865313" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-19067892</guid>
+    <pubDate>Thu, 23 Apr 2026 14:00:00 -0700</pubDate>
+    <itunes:duration>6480</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How the U.S. Engineered a Civil War Between Cartels in Mexico - 5CAST (#20) Ft. Stefano Ritondale</itunes:title>
+    <title>How the U.S. Engineered a Civil War Between Cartels in Mexico - 5CAST (#20) Ft. Stefano Ritondale</title>
+    <itunes:summary><![CDATA[Here's our interview with Stefano Ritondale, founder and operator of All Source News, an investigative platform on X dedicated to monitoring and analyzing Mexican cartel activity and cross-border security trends. ]]></itunes:summary>
+    <description><![CDATA[<p>Here&apos;s our interview with Stefano Ritondale, founder and operator of All Source News, an investigative platform on X dedicated to monitoring and analyzing Mexican cartel activity and cross-border security trends.</p>]]></description>
+    <content:encoded><![CDATA[<p>Here&apos;s our interview with Stefano Ritondale, founder and operator of All Source News, an investigative platform on X dedicated to monitoring and analyzing Mexican cartel activity and cross-border security trends.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/19017995-how-the-u-s-engineered-a-civil-war-between-cartels-in-mexico-5cast-20-ft-stefano-ritondale.mp3" length="58567565" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-19017995</guid>
+    <pubDate>Wed, 15 Apr 2026 09:00:00 -0700</pubDate>
+    <itunes:duration>4872</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Afroman Interview</itunes:title>
+    <title>Afroman Interview</title>
+    <itunes:summary><![CDATA[Hey guys, Here is our ad-free, longford interview with Afroman as posted on YouTube.  ]]></itunes:summary>
+    <description><![CDATA[<p>Hey guys,</p><p>Here is our ad-free, longford interview with Afroman as posted on YouTube. </p>]]></description>
+    <content:encoded><![CDATA[<p>Hey guys,</p><p>Here is our ad-free, longford interview with Afroman as posted on YouTube. </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18983479-afroman-interview.mp3" length="88963278" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18983479</guid>
+    <pubDate>Wed, 08 Apr 2026 10:00:00 -0700</pubDate>
+    <itunes:duration>7405</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title> How The FBI Buys &amp; Sells Our Private Data  - 5CAST (#18) ft. Jake Laperruque</itunes:title>
+    <title> How The FBI Buys &amp; Sells Our Private Data  - 5CAST (#18) ft. Jake Laperruque</title>
+    <itunes:summary><![CDATA[In this episode, Deputy Director of CDT’s Security and Surveillance Project Jake Laperruque reveals how the FBI is able to purchase Americans’ personal data from private companies and how that information may be used behind closed doors. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Deputy Director of CDT’s Security and Surveillance Project Jake Laperruque reveals how the FBI is able to purchase Americans’ personal data from private companies and how that information may be used behind closed doors.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Deputy Director of CDT’s Security and Surveillance Project Jake Laperruque reveals how the FBI is able to purchase Americans’ personal data from private companies and how that information may be used behind closed doors.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18951651-how-the-fbi-buys-sells-our-private-data-5cast-18-ft-jake-laperruque.mp3" length="41898782" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18951651</guid>
+    <pubDate>Thu, 02 Apr 2026 09:00:00 -0700</pubDate>
+    <itunes:duration>3365</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Exposing Horrific Conditions of I.C.E. Detention Centers - 5CAST (#17) ft. Douglas MacMillan</itunes:title>
+    <title>Exposing Horrific Conditions of I.C.E. Detention Centers - 5CAST (#17) ft. Douglas MacMillan</title>
+    <itunes:summary><![CDATA[In this episode, we sit down with Washington Post corporate accountability reporter Douglas MacMillan to discuss the privatization of ICE detention centers and the conditions detainees face inside. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we sit down with Washington Post corporate accountability reporter Douglas MacMillan to discuss the privatization of ICE detention centers and the conditions detainees face inside.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we sit down with Washington Post corporate accountability reporter Douglas MacMillan to discuss the privatization of ICE detention centers and the conditions detainees face inside.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18802853-exposing-horrific-conditions-of-i-c-e-detention-centers-5cast-17-ft-douglas-macmillan.mp3" length="41145845" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18802853</guid>
+    <pubDate>Fri, 06 Mar 2026 10:00:00 -0800</pubDate>
+    <itunes:duration>3232</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Meet the Anti AIPAC Democrat Taking on the Establishment - 5CAST (#16) ft. Nida Allam</itunes:title>
+    <title>Meet the Anti AIPAC Democrat Taking on the Establishment - 5CAST (#16) ft. Nida Allam</title>
+    <itunes:summary><![CDATA[Here's a sit-down interview with Nina Allam, who is currently running for North Carolina's 4th congressional district. ]]></itunes:summary>
+    <description><![CDATA[<p>Here&apos;s a sit-down interview with Nina Allam, who is currently running for North Carolina&apos;s 4th congressional district.</p>]]></description>
+    <content:encoded><![CDATA[<p>Here&apos;s a sit-down interview with Nina Allam, who is currently running for North Carolina&apos;s 4th congressional district.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18785613-meet-the-anti-aipac-democrat-taking-on-the-establishment-5cast-16-ft-nida-allam.mp3" length="42041226" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18785613</guid>
+    <pubDate>Tue, 03 Mar 2026 15:00:00 -0800</pubDate>
+    <itunes:duration>3488</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Shia LaBeouf Interview</itunes:title>
+    <title>Shia LaBeouf Interview</title>
+    <itunes:summary><![CDATA[Here is an interview we conducted with Shia LaBeouf a week after his Mardi Gras arrest in New Orleans. It's not a traditional 5CAST, but much like in the case of our Hunter Biden interview, I figure we'd throw it on the feed anyway. Enjoy! ]]></itunes:summary>
+    <description><![CDATA[<p>Here is an interview we conducted with Shia LaBeouf a week after his Mardi Gras arrest in New Orleans. It&apos;s not a traditional 5CAST, but much like in the case of our Hunter Biden interview, I figure we&apos;d throw it on the feed anyway. Enjoy!</p>]]></description>
+    <content:encoded><![CDATA[<p>Here is an interview we conducted with Shia LaBeouf a week after his Mardi Gras arrest in New Orleans. It&apos;s not a traditional 5CAST, but much like in the case of our Hunter Biden interview, I figure we&apos;d throw it on the feed anyway. Enjoy!</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18770862-shia-labeouf-interview.mp3" length="51286148" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18770862</guid>
+    <pubDate>Sun, 01 Mar 2026 14:00:00 -0800</pubDate>
+    <itunes:duration>4265</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Interviewing the Congressman Behind the Epstein File Drop - 5CAST (#15) ft. Ro Khanna </itunes:title>
+    <title>Interviewing the Congressman Behind the Epstein File Drop - 5CAST (#15) ft. Ro Khanna </title>
+    <itunes:summary><![CDATA[Here is our sit-down with Congressman Ro Khanna, who was one of the lawmakers behind the Epstein Transparency Act. Enjoy.  ]]></itunes:summary>
+    <description><![CDATA[<p>Here is our sit-down with Congressman Ro Khanna, who was one of the lawmakers behind the Epstein Transparency Act. Enjoy. </p>]]></description>
+    <content:encoded><![CDATA[<p>Here is our sit-down with Congressman Ro Khanna, who was one of the lawmakers behind the Epstein Transparency Act. Enjoy. </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18719605-interviewing-the-congressman-behind-the-epstein-file-drop-5cast-15-ft-ro-khanna.mp3" length="55657607" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18719605</guid>
+    <pubDate>Fri, 20 Feb 2026 11:00:00 -0800</pubDate>
+    <itunes:duration>4629</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Will the US Acquire Greenland? 5CAST (#14) ft. Maya Tekeli</itunes:title>
+    <title>Will the US Acquire Greenland? 5CAST (#14) ft. Maya Tekeli</title>
+    <itunes:summary><![CDATA[In this episode, we sit down with NYT journalist Maya Tekeli to discuss the possibility of the US acquiring Greenland and the potential implications of that reality. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we sit down with NYT journalist Maya Tekeli to discuss the possibility of the US acquiring Greenland and the potential implications of that reality.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we sit down with NYT journalist Maya Tekeli to discuss the possibility of the US acquiring Greenland and the potential implications of that reality.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18613279-will-the-us-acquire-greenland-5cast-14-ft-maya-tekeli.mp3" length="36314581" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18613279</guid>
+    <pubDate>Mon, 02 Feb 2026 12:00:00 -0800</pubDate>
+    <itunes:duration>3017</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Nick Shirley Interview</itunes:title>
+    <title>Nick Shirley Interview</title>
+    <itunes:summary><![CDATA[In this interview, we speak with Nick Shirley about his reporting on alleged fraud connected to daycare programs in Minnesota, a story that became one of the most widely engaged digital journalism pieces in recent years. ]]></itunes:summary>
+    <description><![CDATA[<p>In this interview, we speak with Nick Shirley about his reporting on alleged fraud connected to daycare programs in Minnesota, a story that became one of the most widely engaged digital journalism pieces in recent years.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this interview, we speak with Nick Shirley about his reporting on alleged fraud connected to daycare programs in Minnesota, a story that became one of the most widely engaged digital journalism pieces in recent years.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18495222-nick-shirley-interview.mp3" length="45967688" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18495222</guid>
+    <pubDate>Mon, 12 Jan 2026 10:00:00 -0800</pubDate>
+    <itunes:duration>3822</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Budd from Philly Streets, 2 Years Later</itunes:title>
+    <title>Budd from Philly Streets, 2 Years Later</title>
+    <itunes:summary><![CDATA[Two years after meeting Budd on the streets of Philadelphia, where he was struggling with addiction to Tranq, we sat down with him again to hear how his life has changed as he works toward recovery. ]]></itunes:summary>
+    <description><![CDATA[<p>Two years after meeting Budd on the streets of Philadelphia, where he was struggling with addiction to Tranq, we sat down with him again to hear how his life has changed as he works toward recovery.</p>]]></description>
+    <content:encoded><![CDATA[<p>Two years after meeting Budd on the streets of Philadelphia, where he was struggling with addiction to Tranq, we sat down with him again to hear how his life has changed as he works toward recovery.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18076064-budd-from-philly-streets-2-years-later.mp3" length="74521122" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18076064</guid>
+    <pubDate>Sun, 26 Oct 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>5812</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title> Is The War in Gaza Really Over? - 5CAST (#13) Ft. James Gelvin</itunes:title>
+    <title> Is The War in Gaza Really Over? - 5CAST (#13) Ft. James Gelvin</title>
+    <itunes:summary><![CDATA[We sat down with UCLA professor James Gelvin to discuss the latest in the Israel-Palestine conflict and the fragility of the ceasefire agreement. ]]></itunes:summary>
+    <description><![CDATA[<p>We sat down with UCLA professor James Gelvin to discuss the latest in the Israel-Palestine conflict and the fragility of the ceasefire agreement.</p>]]></description>
+    <content:encoded><![CDATA[<p>We sat down with UCLA professor James Gelvin to discuss the latest in the Israel-Palestine conflict and the fragility of the ceasefire agreement.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/18063674-is-the-war-in-gaza-really-over-5cast-13-ft-james-gelvin.mp3" length="27807591" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18063674</guid>
+    <pubDate>Thu, 23 Oct 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>2308</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Pete Buttigieg Interview</itunes:title>
+    <title>Pete Buttigieg Interview</title>
+    <itunes:summary><![CDATA[We sat down with Former U.S. Secretary of Transportation Pete Buttigieg to discuss AI, NYC's mayoral election, Tucker Carlson's "fake gay" accusation, and more. ]]></itunes:summary>
+    <description><![CDATA[<p>We sat down with Former U.S. Secretary of Transportation Pete Buttigieg to discuss AI, NYC&apos;s mayoral election, Tucker Carlson&apos;s &quot;fake gay&quot; accusation, and more.</p>]]></description>
+    <content:encoded><![CDATA[<p>We sat down with Former U.S. Secretary of Transportation Pete Buttigieg to discuss AI, NYC&apos;s mayoral election, Tucker Carlson&apos;s &quot;fake gay&quot; accusation, and more.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17939741-pete-buttigieg-interview.mp3" length="61029897" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17939741</guid>
+    <pubDate>Wed, 01 Oct 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>5077</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Fight for Legal MDMA - 5CAST (#12) ft. Hamilton Morris</itunes:title>
+    <title>The Fight for Legal MDMA - 5CAST (#12) ft. Hamilton Morris</title>
+    <itunes:summary><![CDATA[We sat down with Hamilton Morris from Hamilton's Pharmacopeia to discuss Vice, psychedelic reporting, and how far a paid activist group went to block MDMA from medicinal use. ]]></itunes:summary>
+    <description><![CDATA[<p>We sat down with Hamilton Morris from Hamilton&apos;s Pharmacopeia to discuss Vice, psychedelic reporting, and how far a paid activist group went to block MDMA from medicinal use.</p>]]></description>
+    <content:encoded><![CDATA[<p>We sat down with Hamilton Morris from Hamilton&apos;s Pharmacopeia to discuss Vice, psychedelic reporting, and how far a paid activist group went to block MDMA from medicinal use.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17914984-the-fight-for-legal-mdma-5cast-12-ft-hamilton-morris.mp3" length="92576299" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17914984</guid>
+    <pubDate>Sat, 27 Sep 2025 08:00:00 -0700</pubDate>
+    <itunes:duration>7706</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title> The Last Person to Debate Charlie Kirk (Exclusive Interview)</itunes:title>
+    <title> The Last Person to Debate Charlie Kirk (Exclusive Interview)</title>
+    <itunes:summary><![CDATA[Shout out to Hunter Kozak for the great interview, and thanks to all of the C5 viewers for dreaming of a custer-free planet. ]]></itunes:summary>
+    <description><![CDATA[<p>Shout out to Hunter Kozak for the great interview, and thanks to all of the C5 viewers for dreaming of a custer-free planet.</p>]]></description>
+    <content:encoded><![CDATA[<p>Shout out to Hunter Kozak for the great interview, and thanks to all of the C5 viewers for dreaming of a custer-free planet.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17836664-the-last-person-to-debate-charlie-kirk-exclusive-interview.mp3" length="31340060" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17836664</guid>
+    <pubDate>Fri, 12 Sep 2025 19:00:00 -0700</pubDate>
+    <itunes:duration>2603</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Life After Bumfights &amp; Indecline&#39;s War on America: 5CAST w/ Andrew Callaghan (#11)</itunes:title>
+    <title>Life After Bumfights &amp; Indecline&#39;s War on America: 5CAST w/ Andrew Callaghan (#11)</title>
+    <itunes:summary><![CDATA[In this episode, we talk with Indecline, an American art collective known for graffiti and controversial political commentary, to explore how their work has changed over the years. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we talk with Indecline, an American art collective known for graffiti and controversial political commentary, to explore how their work has changed over the years.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we talk with Indecline, an American art collective known for graffiti and controversial political commentary, to explore how their work has changed over the years.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17647451-life-after-bumfights-indecline-s-war-on-america-5cast-w-andrew-callaghan-11.mp3" length="69646973" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17647451</guid>
+    <pubDate>Sun, 10 Aug 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>5795</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Hunter Biden Interview</itunes:title>
+    <title>Hunter Biden Interview</title>
+    <itunes:summary><![CDATA[Andrew sits down with Hunter Biden to discuss the infamous laptop scandal, his crack addiction and recovery, the 2024 election, and much more in this wide ranging interview. ]]></itunes:summary>
+    <description><![CDATA[<p>Andrew sits down with Hunter Biden to discuss the infamous laptop scandal, his crack addiction and recovery, the 2024 election, and much more in this wide ranging interview.</p>]]></description>
+    <content:encoded><![CDATA[<p>Andrew sits down with Hunter Biden to discuss the infamous laptop scandal, his crack addiction and recovery, the 2024 election, and much more in this wide ranging interview.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17538577-hunter-biden-interview.mp3" length="138462517" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17538577</guid>
+    <pubDate>Mon, 21 Jul 2025 06:00:00 -0700</pubDate>
+    <itunes:duration>11530</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Are We on the Brink of WW3? :5CAST w/ Andrew Callaghan (#9) ft. James Gelvin</itunes:title>
+    <title>Are We on the Brink of WW3? :5CAST w/ Andrew Callaghan (#9) ft. James Gelvin</title>
+    <itunes:summary><![CDATA[In this 5cast, we cover the recent escalation between Israel, Iran, and the United States. Our correspondent Agat provides on-the-ground coverage from Israel shortly after the start of the bombings. We also sit down with James Gelvin to break down the situation and whether we're truly on the cusp of a third world war. ]]></itunes:summary>
+    <description><![CDATA[<p>In this 5cast, we cover the recent escalation between Israel, Iran, and the United States. Our correspondent Agat provides on-the-ground coverage from Israel shortly after the start of the bombings. We also sit down with James Gelvin to break down the situation and whether we&apos;re truly on the cusp of a third world war.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this 5cast, we cover the recent escalation between Israel, Iran, and the United States. Our correspondent Agat provides on-the-ground coverage from Israel shortly after the start of the bombings. We also sit down with James Gelvin to break down the situation and whether we&apos;re truly on the cusp of a third world war.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17431028-are-we-on-the-brink-of-ww3-5cast-w-andrew-callaghan-9-ft-james-gelvin.mp3" length="49970217" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17431028</guid>
+    <pubDate>Tue, 01 Jul 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>4155</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Dark Truth about US Copper Mining: 5CAST w/ Andrew Callaghan (#8) ft. Naelyn Pike</itunes:title>
+    <title>The Dark Truth about US Copper Mining: 5CAST w/ Andrew Callaghan (#8) ft. Naelyn Pike</title>
+    <itunes:summary><![CDATA[This episode breaks down the U.S.’s growing reliance on copper and how it affects the Apache people of Oak Flat, where a huge source of the material was found underneath their sacred land. ]]></itunes:summary>
+    <description><![CDATA[<p>This episode breaks down the U.S.’s growing reliance on copper and how it affects the Apache people of Oak Flat, where a huge source of the material was found underneath their sacred land.</p>]]></description>
+    <content:encoded><![CDATA[<p>This episode breaks down the U.S.’s growing reliance on copper and how it affects the Apache people of Oak Flat, where a huge source of the material was found underneath their sacred land.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17404235-the-dark-truth-about-us-copper-mining-5cast-w-andrew-callaghan-8-ft-naelyn-pike.mp3" length="73556925" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17404235</guid>
+    <pubDate>Thu, 26 Jun 2025 09:00:00 -0700</pubDate>
+    <itunes:duration>6121</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Living in Walter White&#39;s House &amp; Dodging Pizzas: 5CAST w/ Andrew Callaghan (#7) ft. Joanne Quintana</itunes:title>
+    <title>Living in Walter White&#39;s House &amp; Dodging Pizzas: 5CAST w/ Andrew Callaghan (#7) ft. Joanne Quintana</title>
+    <itunes:summary><![CDATA[In this episode, we sit down with the owner of the iconic 'Breaking Bad' Walter White house and discuss the trials and tribulations of living in such a famed spot.  ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we sit down with the owner of the iconic &apos;Breaking Bad&apos; Walter White house and discuss the trials and tribulations of living in such a famed spot. </p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we sit down with the owner of the iconic &apos;Breaking Bad&apos; Walter White house and discuss the trials and tribulations of living in such a famed spot. </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17300853-living-in-walter-white-s-house-dodging-pizzas-5cast-w-andrew-callaghan-7-ft-joanne-quintana.mp3" length="33968277" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17300853</guid>
+    <pubDate>Sun, 08 Jun 2025 11:00:00 -0700</pubDate>
+    <itunes:duration>2822</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How a Method Actor Fooled the Internet: 5CAST w/ Andrew Callaghan (#6) ft. William Banks</itunes:title>
+    <title>How a Method Actor Fooled the Internet: 5CAST w/ Andrew Callaghan (#6) ft. William Banks</title>
+    <itunes:summary><![CDATA[In this episode, we delve into the bizarre world of William Banks to unravel how he blurred the lines between performance and reality, tricked the internet into thinking he was in prison, and the ethics of lying for a good cause.  ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we delve into the bizarre world of William Banks to unravel how he blurred the lines between performance and reality, tricked the internet into thinking he was in prison, and the ethics of lying for a good cause. </p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we delve into the bizarre world of William Banks to unravel how he blurred the lines between performance and reality, tricked the internet into thinking he was in prison, and the ethics of lying for a good cause. </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17183954-how-a-method-actor-fooled-the-internet-5cast-w-andrew-callaghan-6-ft-william-banks.mp3" length="76651516" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17183954</guid>
+    <pubDate>Sun, 18 May 2025 12:00:00 -0700</pubDate>
+    <itunes:duration>6384</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>How L.A. Sheriff Deputy Gangs Terrorize the Public: 5CAST w/ Andrew Callaghan (#5) ft. Janet Asante</itunes:title>
+    <title>How L.A. Sheriff Deputy Gangs Terrorize the Public: 5CAST w/ Andrew Callaghan (#5) ft. Janet Asante</title>
+    <itunes:summary><![CDATA[In this episode, we delve into the issue of deputy gangs within the Los Angeles County Sheriff's Department and the ongoing human rights concerns at Men's Central Jail. We sit down with Janet Asante of JusticeLA to explore the deep-rooted culture of violence, lack of accountability, and the urgent need for systemic reform in L.A.'s carceral system. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we delve into the issue of deputy gangs within the Los Angeles County Sheriff&apos;s Department and the ongoing human rights concerns at Men&apos;s Central Jail. We sit down with Janet Asante of JusticeLA to explore the deep-rooted culture of violence, lack of accountability, and the urgent need for systemic reform in L.A.&apos;s carceral system.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we delve into the issue of deputy gangs within the Los Angeles County Sheriff&apos;s Department and the ongoing human rights concerns at Men&apos;s Central Jail. We sit down with Janet Asante of JusticeLA to explore the deep-rooted culture of violence, lack of accountability, and the urgent need for systemic reform in L.A.&apos;s carceral system.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17139523-how-l-a-sheriff-deputy-gangs-terrorize-the-public-5cast-w-andrew-callaghan-5-ft-janet-asante.mp3" length="64511809" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17139523</guid>
+    <pubDate>Sun, 11 May 2025 12:00:00 -0700</pubDate>
+    <itunes:duration>5373</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title> Hallucinogen Persisting Perception Disorder - 5CAST with Andrew Callaghan (#4) feat. Dr. Wesley Ryan</itunes:title>
+    <title> Hallucinogen Persisting Perception Disorder - 5CAST with Andrew Callaghan (#4) feat. Dr. Wesley Ryan</title>
+    <itunes:summary><![CDATA[In this episode, we'll discuss the under-researched neurological condition referred to as Hallucinogen Persisting Perception Disorder (H.P.P.D) and sit down with Dr. Wesley Ryan, MD, a licensed psychotherapist and published authority on the positive benefits of Ketamine therapy.  ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we&apos;ll discuss the under-researched neurological condition referred to as Hallucinogen Persisting Perception Disorder (H.P.P.D) and sit down with Dr. Wesley Ryan, MD, a licensed psychotherapist and published authority on the positive benefits of Ketamine therapy. </p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we&apos;ll discuss the under-researched neurological condition referred to as Hallucinogen Persisting Perception Disorder (H.P.P.D) and sit down with Dr. Wesley Ryan, MD, a licensed psychotherapist and published authority on the positive benefits of Ketamine therapy. </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17097037-hallucinogen-persisting-perception-disorder-5cast-with-andrew-callaghan-4-feat-dr-wesley-ryan.mp3" length="49185354" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17097037</guid>
+    <pubDate>Sun, 04 May 2025 12:00:00 -0700</pubDate>
+    <itunes:duration>4096</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Why the LA Fires Happened &amp; How to Stop Them: 5CAST with Andrew Callaghan (#3) feat. Danielle Venton</itunes:title>
+    <title>Why the LA Fires Happened &amp; How to Stop Them: 5CAST with Andrew Callaghan (#3) feat. Danielle Venton</title>
+    <itunes:summary><![CDATA[In this episode, we'll head into the field alongside Wildland Firefighter Representative Steve Gutierrez and sit down with environmental journalist Danielle Venton to discuss the true causes of the disastrous L.A. Wildfires, and most importantly what can be done to prevent the next blaze.  ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we&apos;ll head into the field alongside Wildland Firefighter Representative Steve Gutierrez and sit down with environmental journalist Danielle Venton to discuss the true causes of the disastrous L.A. Wildfires, and most importantly what can be done to prevent the next blaze. </p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we&apos;ll head into the field alongside Wildland Firefighter Representative Steve Gutierrez and sit down with environmental journalist Danielle Venton to discuss the true causes of the disastrous L.A. Wildfires, and most importantly what can be done to prevent the next blaze. </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17097018-why-the-la-fires-happened-how-to-stop-them-5cast-with-andrew-callaghan-3-feat-danielle-venton.mp3" length="53302976" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17097018</guid>
+    <pubDate>Sun, 20 Apr 2025 12:00:00 -0700</pubDate>
+    <itunes:duration>4439</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Tesla Vandals &amp; Boycott Leaders: 5CAST with Andrew Callaghan (#2) w/ Joel Lava &amp; Anti-car Activist</itunes:title>
+    <title>Tesla Vandals &amp; Boycott Leaders: 5CAST with Andrew Callaghan (#2) w/ Joel Lava &amp; Anti-car Activist</title>
+    <itunes:summary><![CDATA[In this episode, we sit down with Joel Lava, a devout Democrat and lead organizer of the nation’s first Tesla Boycott, to understand how and why the electric car company became such a target for progressive protest. We’re also joined by an anonymous anti-car activist directly involved in vandalism against Teslas and Waymo vehicles, offering a rare glimpse into the underground world of the broader anti-car resistance. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we sit down with Joel Lava, a devout Democrat and lead organizer of the nation’s first Tesla Boycott, to understand how and why the electric car company became such a target for progressive protest. We’re also joined by an anonymous anti-car activist directly involved in vandalism against Teslas and Waymo vehicles, offering a rare glimpse into the underground world of the broader anti-car resistance.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we sit down with Joel Lava, a devout Democrat and lead organizer of the nation’s first Tesla Boycott, to understand how and why the electric car company became such a target for progressive protest. We’re also joined by an anonymous anti-car activist directly involved in vandalism against Teslas and Waymo vehicles, offering a rare glimpse into the underground world of the broader anti-car resistance.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17103985-tesla-vandals-boycott-leaders-5cast-with-andrew-callaghan-2-w-joel-lava-anti-car-activist.mp3" length="79400663" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17103985</guid>
+    <pubDate>Sun, 13 Apr 2025 12:00:00 -0700</pubDate>
+    <itunes:duration>6613</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Zizian Cult &amp; Spirit of Mac Dre: 5CAST with Andrew Callaghan (#1) Feat. Jacob Hurwitz-Goodman</itunes:title>
+    <title>The Zizian Cult &amp; Spirit of Mac Dre: 5CAST with Andrew Callaghan (#1) Feat. Jacob Hurwitz-Goodman</title>
+    <itunes:summary><![CDATA[In this episode, we dive into the bizarre world of the Zizian Cult—a radical internet-born movement that's recently been linked to a string of violence across the United States. Joining us is journalist and filmmaker Jacob Hurwitz-Goodman, whose investigative work sheds light on the cult's origins, ideology, and the digital pathways that facilitated its rise. ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, we dive into the bizarre world of the Zizian Cult—a radical internet-born movement that&apos;s recently been linked to a string of violence across the United States. Joining us is journalist and filmmaker Jacob Hurwitz-Goodman, whose investigative work sheds light on the cult&apos;s origins, ideology, and the digital pathways that facilitated its rise.</p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, we dive into the bizarre world of the Zizian Cult—a radical internet-born movement that&apos;s recently been linked to a string of violence across the United States. Joining us is journalist and filmmaker Jacob Hurwitz-Goodman, whose investigative work sheds light on the cult&apos;s origins, ideology, and the digital pathways that facilitated its rise.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498614/episodes/17103760-the-zizian-cult-spirit-of-mac-dre-5cast-with-andrew-callaghan-1-feat-jacob-hurwitz-goodman.mp3" length="63065771" type="audio/mpeg" />
+    <itunes:author>Andrew Callaghan</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-17103760</guid>
+    <pubDate>Sun, 06 Apr 2025 12:00:00 -0700</pubDate>
+    <itunes:duration>5252</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
