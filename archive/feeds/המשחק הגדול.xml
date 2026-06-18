@@ -14,8 +14,8 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<title>המשחק הגדול</title>
 	<atom:link href="https://greatgame.blog/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://greatgame.blog/</link>
-	<description>פודקאסט שמנתח את משחקי הכוח שמעצבים את עולמנו, בשפה פשוטה.</description>
-	<lastBuildDate>Sat, 21 Mar 2026 17:24:22 +0000</lastBuildDate>
+	<description>משחקי הכוח שמעצבים את עולמנו.</description>
+	<lastBuildDate>Mon, 15 Jun 2026 08:50:29 +0000</lastBuildDate>
 	<language>he-IL</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,8 +52,98 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<itunes:category text="History" />
 	<podcast:podping usesPodping="true" />
 	<podcast:guid>84506701-1bf0-5345-9804-29b26e371610</podcast:guid>
-	<rawvoice:subscribe feed="https://greatgame.blog/feed/podcast/" blubrry="https://blubrry.com/greatgame/"></rawvoice:subscribe>
 <site xmlns="com-wordpress:feed-additions:1">21815421</site>	<item>
+		<title>לוחמה כלכלית עם איל השקס</title>
+		<link>https://greatgame.blog/2026/05/30/%d7%9c%d7%95%d7%97%d7%9e%d7%94-%d7%9b%d7%9c%d7%9b%d7%9c%d7%99%d7%aa/</link>
+		<pubDate>Sat, 30 May 2026 19:38:40 +0000</pubDate>
+		<guid isPermaLink="false">https://greatgame.blog/?p=19119</guid>
+		<comments>https://greatgame.blog/2026/05/30/%d7%9c%d7%95%d7%97%d7%9e%d7%94-%d7%9b%d7%9c%d7%9b%d7%9c%d7%99%d7%aa/#respond</comments>
+		<wfw:commentRss>https://greatgame.blog/2026/05/30/%d7%9c%d7%95%d7%97%d7%9e%d7%94-%d7%9b%d7%9c%d7%9b%d7%9c%d7%99%d7%aa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[המזרח התיכון]]></category>
+		<category><![CDATA[הפודקסט]]></category>
+		<category><![CDATA[איראן]]></category>
+		<category><![CDATA[ארה״ב]]></category>
+		<category><![CDATA[ישראל]]></category>
+		<category><![CDATA[סין]]></category>
+		<category><![CDATA[רוסיה]]></category>
+		<description>&lt;p&gt;פרק מיוחד! ישבתי לשיחה עם איל השקס על ספרו החדש ״חרבות כלכלה״. השקס הוא בוגר חבצלות ואחד הקולות הכי מעניינים על גיאו-כלכלה בישראל.&lt;/p&gt;
+&lt;p&gt;על מה דיברנו? מהי גיאו-כלכלה, איך תרבות משפיעה על נחישות, סנקציות חכמות וסלק (באמת!).&lt;/p&gt;
+&lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/05/30/%d7%9c%d7%95%d7%97%d7%9e%d7%94-%d7%9b%d7%9c%d7%9b%d7%9c%d7%99%d7%aa/&quot;&gt;לוחמה כלכלית עם איל השקס&lt;/a&gt;&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/05/eyal-hashkes-with-ads.mp3" length="154331347" type="audio/mpeg" />
+		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>1:47:10</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">19119</post-id>	</item>
+	<item>
+		<title>גלובליזציה 2.5</title>
+		<link>https://greatgame.blog/2026/04/21/%d7%92%d7%9c%d7%95%d7%91%d7%9c%d7%99%d7%96%d7%a6%d7%99%d7%94-2-5/</link>
+		<pubDate>Tue, 21 Apr 2026 13:30:59 +0000</pubDate>
+		<guid isPermaLink="false">https://greatgame.blog/?p=18929</guid>
+		<comments>https://greatgame.blog/2026/04/21/%d7%92%d7%9c%d7%95%d7%91%d7%9c%d7%99%d7%96%d7%a6%d7%99%d7%94-2-5/#respond</comments>
+		<wfw:commentRss>https://greatgame.blog/2026/04/21/%d7%92%d7%9c%d7%95%d7%91%d7%9c%d7%99%d7%96%d7%a6%d7%99%d7%94-2-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[הפודקסט]]></category>
+		<category><![CDATA[פלג]]></category>
+		<category><![CDATA[איראן]]></category>
+		<category><![CDATA[ארה״ב]]></category>
+		<category><![CDATA[ישראל]]></category>
+		<category><![CDATA[סין]]></category>
+		<category><![CDATA[רוסיה]]></category>
+		<description>&lt;p&gt;קשרים כלכלים מעולם לא היו מסוכנים יותר.&lt;/p&gt;
+&lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/04/21/%d7%92%d7%9c%d7%95%d7%91%d7%9c%d7%99%d7%96%d7%a6%d7%99%d7%94-2-5/&quot;&gt;גלובליזציה 2.5&lt;/a&gt;&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/04/ep-94.mp3" length="35849321" type="audio/mpeg" />
+		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>24:54</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">18929</post-id>	</item>
+	<item>
+		<title>שאגת הארי &#8211; עדכון #8</title>
+		<link>https://greatgame.blog/2026/04/14/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-8/</link>
+		<pubDate>Tue, 14 Apr 2026 10:42:56 +0000</pubDate>
+		<guid isPermaLink="false">https://greatgame.blog/?p=18901</guid>
+		<comments>https://greatgame.blog/2026/04/14/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-8/#respond</comments>
+		<wfw:commentRss>https://greatgame.blog/2026/04/14/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-8/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[המזרח התיכון]]></category>
+		<category><![CDATA[הפודקסט]]></category>
+		<category><![CDATA[איראן]]></category>
+		<category><![CDATA[ארה״ב]]></category>
+		<category><![CDATA[סין]]></category>
+		<category><![CDATA[שאגת הארי]]></category>
+		<description>&lt;p&gt;המצור הימי של טראמפ הוא רק עוד שלב במשא ומתן.&lt;/p&gt;
+&lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/04/14/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-8/&quot;&gt;שאגת הארי – עדכון #8&lt;/a&gt;&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/04/war-update-8.mp3" length="31605573" type="audio/mpeg" />
+		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>21:57</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">18901</post-id>	</item>
+	<item>
+		<title>שאגת הארי – עדכון #7</title>
+		<link>https://greatgame.blog/2026/03/31/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-7/</link>
+		<pubDate>Tue, 31 Mar 2026 13:38:54 +0000</pubDate>
+		<guid isPermaLink="false">https://greatgame.blog/?p=18837</guid>
+		<comments>https://greatgame.blog/2026/03/31/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-7/#respond</comments>
+		<wfw:commentRss>https://greatgame.blog/2026/03/31/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-7/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[המזרח התיכון]]></category>
+		<category><![CDATA[הפודקסט]]></category>
+		<category><![CDATA[איראן]]></category>
+		<category><![CDATA[ארה״ב]]></category>
+		<category><![CDATA[טורקיה]]></category>
+		<category><![CDATA[ישראל]]></category>
+		<category><![CDATA[שאגת הארי]]></category>
+		<description>&lt;p&gt;המלחמה לפני צומת החלטה - נסיגה או פלישה?&lt;/p&gt;
+&lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/03/31/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%a2%d7%93%d7%9b%d7%95%d7%9f-7/&quot;&gt;שאגת הארי – עדכון #7&lt;/a&gt;&lt;/p&gt;</description>
+		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/03/war-update-7-with-abs.mp3" length="31462631" type="audio/mpeg" />
+		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>21:51</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">18837</post-id>	</item>
+	<item>
 		<title>שאגת הארי &#8211; לאן?</title>
 		<link>https://greatgame.blog/2026/03/12/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%9c%d7%90%d7%9f/</link>
 		<pubDate>Thu, 12 Mar 2026 20:38:03 +0000</pubDate>
@@ -70,7 +160,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;ניתוח אסטרטגי של המלחמה שמשגעת את העולם. על מלחמת ההתשה האיראנית, היעד האמריקני ואיפה סין בתמונה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/03/12/%d7%a9%d7%90%d7%92%d7%aa-%d7%94%d7%90%d7%a8%d7%99-%d7%9c%d7%90%d7%9f/&quot;&gt;שאגת הארי – לאן?&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/03/where-to-the-lion-roars.mp3" length="30892116" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>21:27</itunes:duration>
@@ -94,7 +183,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/03/01/%d7%99%d7%95%d7%9d-%d7%94%d7%90%d7%a8%d7%91%d7%a2%d7%99%d7%9f-%d7%a0%d7%99%d7%aa%d7%95%d7%97-%d7%a4%d7%a8%d7%99%d7%9e%d7%99%d7%95%d7%9d/&quot;&gt;יום הארבעין [ניתוח פרימיום]&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/03/iran-analysis-to-the-great-game.mp3" length="58938850" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>40:56</itunes:duration>
@@ -116,7 +204,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;טראמפ הוא אסון לכל מה שהמחנה האמריקני הוקם עליו. אלו חדשות מעולות לעתיד מערכת הבריתות האמריקנית.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/02/05/%d7%90%d7%99%d7%96%d7%95%d7%9f-%d7%9e%d7%97%d7%93%d7%a9-2/&quot;&gt;איזון מחדש&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/02/ep-93-with-abs.mp3" length="42485468" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:30</itunes:duration>
@@ -136,7 +223,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2026/01/11/%d7%90%d7%a0%d7%93%d7%a8%d7%95-%d7%94%d7%9e%d7%99%d7%9c%d7%98%d7%95%d7%9f-%d7%98%d7%a8%d7%90%d7%9e%d7%a4/&quot;&gt;אנדרו המילטון טראמפ&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2026/01/ep-92-hamilton-trump-abs.mp3" length="49048890" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>34:04</itunes:duration>
@@ -160,7 +246,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/11/24/%d7%94%d7%97%d7%9c%d7%95%d7%9f/&quot;&gt;החלון&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/11/ep-91-window-with-ads.mp3" length="37311969" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:54</itunes:duration>
@@ -186,7 +271,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/11/02/%d7%a4%d7%a8%d7%93%d7%95%d7%a7%d7%a1-%d7%94%d7%aa%d7%99%d7%a2%d7%93%d7%95%d7%a3/&quot;&gt;פרדוקס התיעדוף&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/11/ep-90-paradox-with-ads.mp3" length="35599800" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>24:43</itunes:duration>
@@ -214,7 +298,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/07/27/%d7%a1%d7%99%d7%9f-%d7%95%d7%a9%d7%9c%d7%95%d7%a9-%d7%94%d7%91%d7%a2%d7%99%d7%95%d7%aa-%d7%a4%d7%a8%d7%a7-89/&quot;&gt;סין ושלוש הבעיות (פרק 89)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/07/ep-89-china-and-the-3-problems-with-ads.mp3" length="38988404" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>27:04</itunes:duration>
@@ -240,7 +323,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/07/13/%d7%a0%d7%a7%d7%95%d7%93%d7%aa-%d7%a4%d7%aa%d7%99%d7%97%d7%94-%d7%a4%d7%a8%d7%a7-88/&quot;&gt;נקודת פתיחה (פרק 88)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/07/ep-88-starting-point-with-ads.mp3" length="34494507" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>23:57</itunes:duration>
@@ -260,7 +342,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/07/06/%d7%94%d7%a7%d7%a9%d7%a8-%d7%a4%d7%a8%d7%a7-87/&quot;&gt;הקשר (פרק 87)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/07/ep-87-context-with-ads.mp3" length="17431741" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>12:06</itunes:duration>
@@ -282,7 +363,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/06/22/%d7%94%d7%90%d7%9d-%d7%90%d7%99%d7%a8%d7%90%d7%9f-%d7%aa%d7%a1%d7%92%d7%95%d7%a8-%d7%90%d7%aa-%d7%9e%d7%a6%d7%a8%d7%99-%d7%94%d7%95%d7%a8%d7%9e%d7%95%d7%96/&quot;&gt;האם איראן תסגור את מצרי הורמוז?&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/06/closing-hormuz.mp3" length="19214755" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>13:20</itunes:duration>
@@ -303,7 +383,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/06/17/%d7%9e%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a2%d7%a9%d7%aa%d7%94/&quot;&gt;מה ישראל עשתה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/06/what-israel-has-done.mp3" length="29821932" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>20:42</itunes:duration>
@@ -326,7 +405,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/06/15/%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%91%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%a6%d7%99%d7%a8%d7%99%d7%9d/&quot;&gt;מלחמה בשלושה צירים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/06/3-axis-with-ads.mp3" length="29110983" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>20:13</itunes:duration>
@@ -349,7 +427,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;כטב״מים מורידי חיכוך, סין מורידה ריביות, ואופ״ק מעלה את תפוקת ייצור הנפט.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/05/12/%d7%90%d7%a1%d7%a4%d7%a8%d7%a1%d7%95-%d7%96%d7%94%d7%99%d7%a8%d7%95%d7%aa-%d7%9b%d7%98%d7%91%d7%b4%d7%9e%d7%99%d7%9d/&quot;&gt;אספרסו: זהירות כטב״מים!&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/05/espresso-24.mp3" length="17196012" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>11:56</itunes:duration>
@@ -367,7 +444,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/05/07/%d7%91%d7%a7%d7%98%d7%a0%d7%94-%d7%94%d7%95%d7%93%d7%95-%d7%95%d7%a4%d7%a7%d7%99%d7%a1%d7%98%d7%9f/&quot;&gt;בקטנה: הודו ופקיסטן&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/05/short-india-pakistan.mp3" length="20513145" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>14:15</itunes:duration>
@@ -388,7 +464,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/03/09/%d7%94%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%90%d7%a0%d7%9c%d7%99%d7%a1%d7%98-%d7%94%d7%9e%d7%aa%d7%97%d7%99%d7%9c-%d7%a4%d7%a8%d7%a7-86/&quot;&gt;המדריך לאנליסט המתחיל (פרק 86)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/02/ep-86-analyst-mindset.mp3" length="44913602" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:11</itunes:duration>
@@ -412,7 +487,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/03/02/%d7%90%d7%a1%d7%a4%d7%a8%d7%a1%d7%95-%d7%98%d7%a8%d7%90%d7%9e%d7%a4-%d7%96%d7%9c%d7%a0%d7%a1%d7%a7%d7%99-%d7%95%d7%94%d7%91%d7%a2%d7%99%d7%94-%d7%94%d7%90%d7%99%d7%a8%d7%95%d7%a4%d7%90%d7%99%d7%aa/&quot;&gt;אספרסו: טראמפ, זלנסקי והבעיה האירופאית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/03/espresso-15.mp3" length="25720498" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>17:52</itunes:duration>
@@ -434,7 +508,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2025/01/26/%d7%94%d7%a9%d7%90%d7%9c%d7%94-%d7%94%d7%a1%d7%95%d7%a8%d7%99%d7%aa-%d7%a4%d7%a8%d7%a7-85/&quot;&gt;השאלה הסורית (פרק 85)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2025/01/ep-85-the-syrian-question.mp3" length="40002164" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>27:47</itunes:duration>
@@ -459,7 +532,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/11/24/%d7%91%d7%a2%d7%99%d7%aa-%d7%a6%d7%95%d7%95%d7%99-%d7%94%d7%9e%d7%a2%d7%a6%d7%a8-%d7%a9-%d7%97/&quot;&gt;בעית צווי המעצר – ש.ח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/11/peleg-215-the-arrest-warrants-problem-again.mp3" length="48831970" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>33:54</itunes:duration>
@@ -485,7 +557,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/11/10/%d7%a0%d7%95%d7%a9%d7%90%d7%99-%d7%94%d7%9e%d7%a4%d7%aa%d7%97%d7%95%d7%aa-%d7%a4%d7%a8%d7%a7-84/&quot;&gt;נושאי המפתחות (פרק 84)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/11/ep-84-the-gatekeepers-with-ads.mp3" length="58961419" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>40:57</itunes:duration>
@@ -509,7 +580,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/09/04/%d7%94%d7%9e%d7%96%d7%a8%d7%97-%d7%94%d7%aa%d7%99%d7%9b%d7%95%d7%9f-%d7%91%d7%a6%d7%95%d7%9e%d7%aa-%d7%93%d7%a8%d7%9b%d7%99%d7%9d-%d7%a4%d7%a8%d7%a7-83/&quot;&gt;המזרח התיכון בצומת דרכים (פרק 83)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/09/ep-83-the-middle-east-at-a-crossroad-with-ads.mp3" length="41913073" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:06</itunes:duration>
@@ -531,7 +601,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;רשימת מקורות נמצאת בפוסט באתר.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/08/07/%d7%94%d7%97%d7%99%d7%a9%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%90%d7%a1%d7%98%d7%a8%d7%98%d7%92%d7%99%d7%9d-%d7%a9%d7%9c-%d7%90%d7%99%d7%a8%d7%90%d7%9f-%d7%a4%d7%a8%d7%a7-%d7%9e%d7%99%d7%95%d7%97%d7%93/&quot;&gt;החישובים האסטרטגים של איראן (פרק מיוחד)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/08/special-episode-irans-strategic-calculations.mp3" length="36465602" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:19</itunes:duration>
@@ -551,7 +620,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/07/21/%d7%a0%d7%99%d7%a6%d7%97%d7%95%d7%9f-%d7%95%d7%a8%d7%a2%d7%99%d7%95%d7%9f-%d7%a4%d7%a8%d7%a7-82/&quot;&gt;ניצחון ורעיון (פרק 82)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/07/ep-82-victory-and-ideas-with-ads.mp3" length="57411627" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>39:52</itunes:duration>
@@ -573,7 +641,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/06/30/%d7%94%d7%99%d7%95%d7%9d-%d7%a9%d7%90%d7%97%d7%a8%d7%99-%d7%97%d7%9e%d7%90%d7%a1-%d7%a0%d7%99%d7%aa%d7%95%d7%97-193-%d7%a9-%d7%97/&quot;&gt;היום שאחרי חמאס (ניתוח 193) – ש.ח.&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/06/peleg-193-the-day-after-Hamas-with-ads.mp3" length="56965873" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>39:33</itunes:duration>
@@ -597,7 +664,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/06/02/%d7%94%d7%97%d7%a9%d7%99%d7%91%d7%95%d7%aa-%d7%94%d7%92%d7%99%d7%90%d7%95-%d7%90%d7%a1%d7%98%d7%a8%d7%98%d7%92%d7%99%d7%aa-%d7%a9%d7%9c-%d7%98%d7%90%d7%99%d7%95%d7%95%d7%90%d7%9f-%d7%a4%d7%a8%d7%a7-8/&quot;&gt;החשיבות הגיאו-אסטרטגית של טאיוואן (פרק 81)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/06/ep-81-the-geostrategic-importance-of-taiwan-with-ads.mp3" length="37204763" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">15023</post-id>	</item>
@@ -621,7 +687,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/05/20/%d7%91%d7%a2%d7%99%d7%aa-%d7%a6%d7%95%d7%95%d7%99-%d7%94%d7%9e%d7%a2%d7%a6%d7%a8-%d7%a0%d7%99%d7%aa%d7%95%d7%97-215-%d7%a9-%d7%97/&quot;&gt;בעית צווי המעצר (ניתוח 215) – ש.ח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/05/peleg-215-the-arrest-warrants-problem.mp3" length="43945609" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:31</itunes:duration>
@@ -646,7 +711,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/03/17/%d7%a2%d7%a1%d7%a7%d7%aa-%d7%94%d7%9e%d7%90%d7%94-%d7%a9%d7%9c-%d7%91%d7%99%d7%99%d7%93%d7%9f-%d7%a0%d7%99%d7%aa%d7%95%d7%97-201-%d7%a9-%d7%97/&quot;&gt;עסקת המאה של ביידן (ניתוח 201) – ש.ח.&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/03/peleg-201-biden-deal-of-the-century-with-ads.mp3" length="46192557" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:05</itunes:duration>
@@ -676,7 +740,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;פורסם לראשונה ב-08/02/2024&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/02/25/%d7%9e%d7%94-%d7%90%d7%99%d7%a8%d7%90%d7%9f-%d7%91%d7%a0%d7%aa%d7%94-%d7%a0%d7%99%d7%aa%d7%95%d7%97-203-%d7%a9-%d7%97/&quot;&gt;מה איראן בנתה (ניתוח 203) – ש.ח.&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/02/peleg-203-what-iran-has-built-with-ads.mp3" length="46870278" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:33</itunes:duration>
@@ -700,7 +763,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/02/05/%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94-%d7%95%d7%94%d7%97%d7%9c%d7%98%d7%94-1701-%d7%a4%d7%a8%d7%a7-80/&quot;&gt;חיזבאללה והחלטה 1701 (פרק 80)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/02/ep-80-hezbollah-resolution-1701-with-ads.mp3" length="43089837" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:55</itunes:duration>
@@ -723,7 +785,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/01/23/%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%a0%d7%92%d7%93-%d7%97%d7%9e%d7%90%d7%a1-%d7%a4%d7%a8%d7%a7-79/&quot;&gt;המלחמה נגד חמאס (פרק 79)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2024/01/ep-79-the-war-against-Hamas-ads.mp3" length="50865132" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:19</itunes:duration>
@@ -742,7 +803,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2024/01/07/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-%d7%90%d7%97%d7%a8%d7%99%d7%aa-%d7%93%d7%91%d7%a8-%d7%a8%d7%a4%d7%95%d7%91%d7%9c%d7%99%d7%a7%d7%94-2/&quot;&gt;מקיאוולי – אחרית דבר: רפובליקה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/12/ep-78-republic-with-ads.mp3" length="42851601" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:45</itunes:duration>
@@ -761,7 +821,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/12/31/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-%d7%a4%d7%a8%d7%a7-8-%d7%94%d7%9e%d7%99%d7%93%d7%94-%d7%94%d7%98%d7%95%d7%91%d7%94-%d7%a4%d7%a8%d7%a7-77-2/&quot;&gt;מקיאוולי – פרק 8: המידה הטובה (פרק 77)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/12/ep-77-virtue-with-ads.mp3" length="45657779" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:42</itunes:duration>
@@ -784,7 +843,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/11/29/%d7%90%d7%99%d7%9a-%d7%97%d7%9e%d7%90%d7%a1-%d7%99%d7%9b%d7%95%d7%9c%d7%94-%d7%9c%d7%a0%d7%a6%d7%97-%d7%a0%d7%99%d7%aa%d7%95%d7%97-192-%d7%a9-%d7%97/&quot;&gt;איך חמאס יכולה לנצח (ניתוח 192) – ש.ח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/11/peleg-192-how-hamas-could-win-ads.mp3" length="36799760" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:33</itunes:duration>
@@ -808,7 +866,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/10/13/%d7%9c%d7%90-%d7%a4%d7%97%d7%95%d7%aa-%d7%9e%d7%a0%d7%99%d7%a6%d7%97%d7%95%d7%9f-%d7%a0%d7%99%d7%aa%d7%95%d7%97-186/&quot;&gt;לא פחות מניצחון (ניתוח 186)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/10/peleg-186-nothing-less-than-victory.mp3" length="57641713" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>40:02</itunes:duration>
@@ -827,7 +884,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/10/11/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-07-%d7%a4%d7%95%d7%a8%d7%98%d7%95%d7%a0%d7%94-%d7%a4%d7%a8%d7%a7-76/&quot;&gt;מקיאוולי 07 – פורטונה (פרק 76)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/10/ep-76-Fortuna-with-ads.mp3" length="61965710" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>43:02</itunes:duration>
@@ -857,7 +913,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/10/08/%d7%9e%d7%94-%d7%9c%d7%a2%d7%a9%d7%95%d7%aa-%d7%a2%d7%9d-%d7%a2%d7%96%d7%94-%d7%a0%d7%99%d7%aa%d7%95%d7%97-66-%d7%a9-%d7%97/&quot;&gt;מה לעשות עם עזה (ניתוח 66) – ש.ח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/10/peleg-66-what-to-do-about-gaza-with-ads.mp3" length="44908587" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:11</itunes:duration>
@@ -877,7 +932,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/09/21/%d7%a9%d7%90%d7%9c%d7%aa-%d7%94%d7%92%d7%a8%d7%a2%d7%99%d7%9f-%d7%94%d7%a1%d7%a2%d7%95%d7%93%d7%99%d7%aa-%d7%a0%d7%99%d7%aa%d7%95%d7%97-180-%d7%a9-%d7%97/&quot;&gt;שאלת הגרעין הסעודית (ניתוח 180) – ש.ח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/09/peleg-180-the-saudi-nuclear-question-ads.mp3" length="37594092" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>26:06</itunes:duration>
@@ -897,7 +951,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/09/12/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-05-%d7%93%d7%a8%d7%9a-%d7%91%d7%99%d7%a0%d7%99%d7%99%d7%9d-%d7%a4%d7%a8%d7%a7-74-2/&quot;&gt;מקיאוולי 06 – חמדנות (פרק 75)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/09/ep-75-avarice.mp3" length="58788384" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>40:49</itunes:duration>
@@ -916,7 +969,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/09/05/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-04-%d7%9e%d7%97%d7%9c%d7%95%d7%a7%d7%aa-%d7%a4%d7%a8%d7%a7-73-3/&quot;&gt;מקיאוולי 05 – דרך ביניים (פרק 74)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/09/ep-74-the-golden-mean.mp3" length="49522229" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>34:23</itunes:duration>
@@ -936,7 +988,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/08/29/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-04-%d7%9e%d7%97%d7%9c%d7%95%d7%a7%d7%aa-%d7%a4%d7%a8%d7%a7-73/&quot;&gt;מקיאוולי 04 – מחלוקת (פרק 73)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/08/ep-73-division.mp3" length="74582853" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>51:47</itunes:duration>
@@ -955,7 +1006,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/08/22/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-03-%d7%90%d7%9e%d7%95%d7%9f-%d7%a4%d7%a8%d7%a7-72-2/&quot;&gt;מקיאוולי 03 – אמון (פרק 72)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/08/ep-72-trust.mp3" length="69410608" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>48:12</itunes:duration>
@@ -974,7 +1024,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/08/15/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-02-%d7%a1%d7%a4%d7%a8-%d7%a7%d7%98%d7%9f-%d7%95%d7%a0%d7%91%d7%96%d7%99-2/&quot;&gt;מקיאוולי 02 – ספר קטן ונבזי (פרק 71)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/08/ep-71-a-mean-little-book-2.mp3" length="37098183" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:46</itunes:duration>
@@ -994,7 +1043,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;בואו והצטרפו למועדון שלנו! ניתוחים בלעדים, קבוצות פייסבוק וטלגרם סגורות, סקירות שבועיות ועוד! הצטרפות למועדון בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/08/08/01-%d7%9c%d7%9e%d7%94-%d7%9c%d7%99-%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-%d7%a4%d7%a8%d7%a7-70/&quot;&gt;מקיאוולי 01 – למה לי מקיאוולי? (פרק 70)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/08/ep-70-why-machiavelli-2.mp3" length="39076802" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>27:08</itunes:duration>
@@ -1013,7 +1061,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בואו איתי לעולם המרתק של איטליה של ימי הרנסאנס, שם בין התככים, המזימות והמלחמות - נחפש גישה חדשה לפוליטיקה, אסטרטגיה ולקיחת סיכונים.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/08/01/%d7%9e%d7%a7%d7%99%d7%90%d7%95%d7%95%d7%9c%d7%99-%d7%a1%d7%93%d7%a8%d7%94-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%9e%d7%a9%d7%97%d7%a7-%d7%94%d7%92%d7%93%d7%95%d7%9c/&quot;&gt;מקיאוולי – סדרה חדשה במשחק הגדול&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/08/teaser-machiavelli-01082023-16.36.mp3" length="6410157" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>4:27</itunes:duration>
@@ -1032,7 +1079,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;הניתוח פורסם לראשונה למנויים שלנו ב-03.04.2023. רוצים גם? מוזמנים להצטרף בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/05/24/%d7%94%d7%93%d7%95%d7%9c%d7%a8-%d7%94%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%a0%d7%99-%d7%95%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%94%d7%a1%d7%97%d7%a8-%d7%94%d7%91%d7%99%d7%a0%d7%9c%d7%90%d7%95%d7%9e%d7%99-2/&quot;&gt;הדולר האמריקני ומערכת הסחר הבינלאומית (ניתוח 162) – ש.ח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/04/peleg-162-the-us-dollar-and-the-global-trade-system.mp3" length="35661240" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>24:46</itunes:duration>
@@ -1059,7 +1105,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;מוזמנים להצטרף למועדון המנויים שלנו, לתמוך בפודקסט ולהינות מניתוחים שבועיים וגישה לכל חומרי המשחק הגדול בקישור &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;כאן&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/03/01/%d7%90%d7%95%d7%98%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94-%d7%9e%d7%99%d7%93%d7%a2%d7%99%d7%aa-%d7%a4%d7%9c%d7%92-157/&quot;&gt;אוטוקרטיה מידעית (פלג 157)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/03/peleg-157-with-new-intro.mp3" length="42982631" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:51</itunes:duration>
@@ -1083,7 +1128,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בעידן של תהפוכות דיפלומטיה בת קיימא מציעה רעיון מנחה לפעילות הבינלאומית של ישראל. דיפלומטיה שלוקחת גם את העתיד בחשבון, ושואפת ליצור קשרים שיעמדו במבחן הזמן.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2023/01/12/%d7%93%d7%99%d7%a4%d7%9c%d7%95%d7%9e%d7%98%d7%99%d7%94-%d7%91%d7%aa-%d7%a7%d7%99%d7%99%d7%9e%d7%90-%d7%9c%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a4%d7%9c%d7%92-150/&quot;&gt;דיפלומטיה בת קיימא לישראל (פלג 150)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2023/01/peleg-150-sustainable-diplomacy-for-israel.mp3" length="36170941" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:07</itunes:duration>
@@ -1115,7 +1159,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;הצטרפות לפל״ג - &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;קישור&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/10/20/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%90%d7%aa%d7%9e%d7%95%d7%9c-%d7%95%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%9e%d7%97%d7%a8-%d7%a4%d7%9c%d7%92-138/&quot;&gt;מלחמת האתמול ומלחמת המחר (פלג 138)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/10/peleg-138-the-war-of-yesterday-the-war-of-tomorrow.mp3" length="51364175" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:40</itunes:duration>
@@ -1136,7 +1179,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;מלחמה היא תופעה מורכבת בה הדינמיקה של התופעה נקבעת על-ידי עצמה. מדינות שאינן נזהרות עלולות למצוא עצמן נשאבות למלחמה שהן התחילו.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/10/06/%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%9b%d7%aa%d7%95%d7%a4%d7%a2%d7%94-%d7%9e%d7%95%d7%a8%d7%9b%d7%91%d7%aa-%d7%a4%d7%9c%d7%92-137/&quot;&gt;מלחמה כתופעה מורכבת (פלג 137)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/10/peleg-137-war-as-a-complex-phenomena.mp3" length="36634249" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>25:26</itunes:duration>
@@ -1161,7 +1203,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;ביקור פלוסי בטאיוואן הביא לפרוץ משבר טאיוואן הרביעי. המתיחות בין סין וארה״ב ממשיכה לעלות, והסיכון לכלכלה העולמית משמעותי.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/08/10/%d7%a4%d7%9c%d7%92-129-%d7%9e%d7%a9%d7%91%d7%a8-%d7%98%d7%90%d7%99%d7%95%d7%95%d7%90%d7%9f-%d7%94%d7%a8%d7%91%d7%99%d7%a2%d7%99/&quot;&gt;משבר טאיוואן הרביעי (פלג 129)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/08/peleg-129-the-fourth-taiwan-crisis.mp3" length="42055388" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:12</itunes:duration>
@@ -1183,13 +1224,12 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<category><![CDATA[כלכלה]]></category>
 		<category><![CDATA[פל״ג]]></category>
 		<category><![CDATA[פתוח לקהל]]></category>
-		<description>&lt;p&gt;בעית האינפלציה במערב והתגובה המוניטרית אליה מאיימת להביא למיתון בארה״ב, משבר חוב באיחוד האירופי, ולחץ פיננסי על העולם המתפתח.&lt;/p&gt;
-&lt;p&gt;00:03:05.500 - מבוא מקרו-כלכלי&lt;br /&gt;
-00:11:01.500 - בעית האינפלציה בארה״ב&lt;br /&gt;
-00:15:30.000 - המלכוד הכפול של האיחוד האירופי&lt;/p&gt;
-&lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/06/22/%d7%91%d7%a2%d7%99%d7%aa-%d7%94%d7%90%d7%99%d7%a0%d7%a4%d7%9c%d7%a6%d7%99%d7%94-%d7%a4%d7%9c%d7%92-122/&quot;&gt;בעית האינפלציה (פלג 122)&lt;/a&gt;&lt;/p&gt;</description>
+		<description>בעית האינפלציה במערב והתגובה המוניטרית אליה מאיימת להביא למיתון בארה״ב, משבר חוב באיחוד האירופי, ולחץ פיננסי על העולם המתפתח.
+
+00:03:05 - מבוא מקרו-כלכלי
+00:11:01 - בעית האינפלציה בארה״ב
+00:15:30 - המלכוד הכפול של האיחוד האירופי</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/06/peleg-122-the-inflation-problem.mp3" length="45301050" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:27</itunes:duration>
@@ -1214,7 +1254,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;סוגיית נאט״ו לכאורה עומדת בבסיס המלחמה באוקראינה. למה נאט״ו המשיכה להתקיים אחרי התפרקות בריה״מ? ולמה היא התרחבה מזרחה על-אף הידיעה שהדבר יצור מתיחות עם הרוסים? בפרק היום נענה על שתי השאלות האלו מנקודת המבט המערבית ונראה שהסוגיה היא רק תירוץ בידי מוסקבה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/06/15/%d7%a1%d7%95%d7%92%d7%99%d7%99%d7%aa-%d7%a0%d7%90%d7%98%d7%b4%d7%95-%d7%a4%d7%a8%d7%a7-69/&quot;&gt;סוגיית נאט״ו (פרק 69)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/06/ep-69-the-nato-issue.mp3" length="31569837" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>21:55</itunes:duration>
@@ -1238,7 +1277,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;הצטרפות לפל״ג - &lt;a href=&quot;https://greatgame.blog/options/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;קישור&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/05/11/%d7%a2%d7%aa%d7%99%d7%93-%d7%9b%d7%9c%d7%9b%d7%9c%d7%aa-%d7%a1%d7%99%d7%9f-%d7%94%d7%a9%d7%a7%d7%a2%d7%94-%d7%90%d7%95-%d7%a6%d7%9e%d7%99%d7%97%d7%94-%d7%a4%d7%9c%d7%92-116/&quot;&gt;עתיד כלכלת סין: השקעה או צמיחה (פלג 116)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/05/peleg-116-china-economic-future-investment-or-growth.mp3" length="51150389" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:31</itunes:duration>
@@ -1266,7 +1304,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;המלחמה באוקראינה החלה. כוחות רוסים פלשו, תוקפים עם טנקים, מטוסים וטילי שיוט. איך הגענו לנקודה בה פוטין מכניס כוחות לאוקראינה? ומה ההשלכות?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/02/24/%d7%a4%d7%a8%d7%a7-68-%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%91%d7%90%d7%95%d7%a7%d7%a8%d7%90%d7%99%d7%a0%d7%94/&quot;&gt;המלחמה באוקראינה (פרק 68)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/02/ep-68-the-war-in-ukraine-.mp3" length="47512263" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>33:00</itunes:duration>
@@ -1295,7 +1332,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;ישראל אינה צריכה לחפש ברית אזורית נגד איראן. היא צריכה לבנות מערכת קואליציות נגד בעיות אזוריות אותן איראן מנצלת. זו המלכודת הישראלית.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/02/23/%d7%a4%d7%9c%d7%92-106-%d7%9e%d7%9c%d7%9b%d7%95%d7%93%d7%aa-%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99%d7%aa/&quot;&gt;מלכודת ישראלית (פלג 106)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/02/peleg-106-an-israeli-trap.mp3" length="38524469" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">5848</post-id>	</item>
@@ -1325,7 +1361,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;עקבנו לאורך הסדרה פוסט-אימפריום אחר העלייה והנפילה של הסדר האמריקני. מהסדר הדו-קוטבי של המלחמה הקרה, דרך הרגע החד-קוטבי של שנות ה-90׳, ועד האנרכיה של ימינו. כעת, בפרק האחרון של הסדרה, ננסה להבין מה ישראל צריכה לעשות בסביבה הבינלאומית החדשה הזו. כיצד על ישראל לנווט במים הסוערים של האנרכיה הגלובאלית?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/02/03/%d7%a4%d7%a8%d7%a7-67-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-15-%d7%97%d7%96%d7%95%d7%9f-%d7%90%d7%a1%d7%98%d7%a8%d7%98%d7%92%d7%99-%d7%9c%d7%99%d7%a9%d7%a8/&quot;&gt;פרק 67 – פוסט אימפריום (15): חזון אסטרטגי לישראל&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/02/episode-67.mp3" length="43668502" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:19</itunes:duration>
@@ -1370,7 +1405,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;סקירה עתידית של 2022: בין שיחות הגרעין בווינה, פגישות בין ארה״ב ורוסיה על עתיד הביטחון באירופה, הבחירות בארה״ב והתקדמות טכנולוגית.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2022/01/05/%d7%a4%d7%9c%d7%92-99-%d7%a1%d7%a7%d7%99%d7%a8%d7%94-%d7%a2%d7%95%d7%9c%d7%9e%d7%99%d7%aa-2022/&quot;&gt;סקירה עולמית 2022 (פלג 99)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2022/01/peleg-99-2022-yearly-review.mp3" length="54503885" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">5599</post-id>	</item>
@@ -1431,7 +1465,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;עסקנו בפרק הקודם ב״התעוררות האמריקנית״ מהרגע החד-קוטבי: ממשל טראמפ הביא את ארה״ב להפנים שהרגע החד קוטבי הסתיים ושהיא נמצאת בתחרות לכוח עם סין ורוסיה. התחרות הגיאופוליטית לא מתה, אלא קיימת ובועטת במלוא העוצמה. כעת אנו מפנים את מבטנו לעולם בכלל: איך הוא ישתנה בעקבות התחרות בין ארה״ב וסין? מה המשמעות של חזרתה של המערכת הבינלאומית למצב רב-קוטבי?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2021/12/16/%d7%a4%d7%a8%d7%a7-66-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-14-%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%91%d7%90/&quot;&gt;פרק 66 – פוסט אימפריום (14): העולם הבא&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/12/peleg-66-the-coming-world.mp3" length="79790207" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>55:24</itunes:duration>
@@ -1456,7 +1489,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;הספר ״קיסרות אדומה״ מגיש לקורא הישראלי לראשונה ניתוח מעמיק של הכלכלה והפוליטיקה הסינית, עברה ועתידה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2021/10/07/%d7%94%d7%a9%d7%a7%d7%aa-%d7%94%d7%a1%d7%a4%d7%a8-%d7%a7%d7%99%d7%a1%d7%a8%d7%95%d7%aa-%d7%90%d7%93%d7%95%d7%9e%d7%94/&quot;&gt;קיסרות אדומה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/The-red-empire-is-rising.mp3" length="2471749" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>2:25</itunes:duration>
@@ -1493,7 +1525,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;במשך 25 שנה וושינגטון והעולם היו במישורים אחרים: וושינגטון, חוגי המדיניות בה, היו שבויים של החלום החד-קוטבי. העולם לעומת זאת התאושש מהר מנפילת בריה״מ ומעצמות מתחרות לאמריקנים עלו – בראשן סין ורוסיה. במשך 25 שנה וושינגטון סיפרה לעצמה שקץ ההיסטוריה הגיע, ושההתפשטות של הדמוקרטיה בעולם היא בלתי נמנעת. עם טראמפ סוף-סוף הגיעה ההבנה שקץ ההיסטוריה לא הגיע, ושמה שמחכה לארה״ב היא תחרות חדשה לכוח עם המעצמות של אירו-אסיה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2021/07/15/%d7%a4%d7%a8%d7%a7-65-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-13-%d7%94%d7%aa%d7%97%d7%a8%d7%95%d7%aa-%d7%94%d7%97%d7%93%d7%a9%d7%94-%d7%9c%d7%9b%d7%95%d7%97/&quot;&gt;פרק 65 – פוסט אימפריום (13): התחרות החדשה לכוח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/07/episode-65-great-power-competition.mp3" length="66717616" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>59:00</itunes:duration>
@@ -1528,7 +1559,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;ראינו בפרק הקודם איך ממשל בוש הבן לקח את הרגע החד-קוטבי ובזבז אותו במדבריות של המזרח התיכון. בעקבות פיגועי ה-11/9 ארה״ב יצאה לגאול את העולם מהטרור, מאפשרת לרוסיה וסין להתחזק בפריפריה של הסדר האמריקני. בפרק היום נכיר את הנשיא שהתחיל את המפנה מהמנטאליות של הרגע החד-קוטבי. נשיא שהיה חכם מספיק להבין מה לא עובד, אך לא היה מסוגל להגדיר מה כן – ברק אובמה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2021/05/24/%d7%a4%d7%a8%d7%a7-64-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-12-%d7%a0%d7%a7%d7%95%d7%93%d7%aa-%d7%9e%d7%a4%d7%a0%d7%94/&quot;&gt;פרק 64 – פוסט אימפריום (12): נקודת מפנה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/05/episode-64-turning-point.mp3" length="39599780" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>36:55</itunes:duration>
@@ -1567,7 +1597,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 זה לא קרה. אנחנו יודעים שזה לא קרה משום שאנו חיים בעולם שנשלט עדיין ע״י מלחמה, ע״י תחרות לכוח בין וושינגטון ובייג׳ין. מדוע העולם של קץ ההיסטוריה לא התממש? משום שדווקא כאשר איומים חדשים הופיעו נגד הסדר האמריקני, ארה״ב קיבלה על עצמה אימפריום שני נגד אויב מרושע אך משני בחשיבותו לסדר העולמי: הטרור האיסלאמי. בפרק היום נכיר את האימפריום השני של ארה״ב, ואיך פיגועי ה-11 בספטמבר באמת שינו את מהלך העולם.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2021/03/21/%d7%a4%d7%a8%d7%a7-63-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-11-%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%91%d7%98%d7%a8%d7%95%d7%a8/&quot;&gt;פרק 63 – פוסט אימפריום (11): המלחמה בטרור&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/03/episode-63-the-war-on-terror.mp3" length="61449177" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>55:43</itunes:duration>
@@ -1587,7 +1616,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;לאן נעלמתי? בשתי מילים: פרויקט גדול. הסבר קצר.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2021/03/18/%d7%9c%d7%90%d7%9f-%d7%a0%d7%a2%d7%9c%d7%9e%d7%aa%d7%99/&quot;&gt;לאן נעלמתי?&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/03/where-have-you-gone.mp3" length="1909772" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:46</itunes:duration>
@@ -1619,7 +1647,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;אנחנו נמצאים בתחילתו של הפוסט-אימפריום. בפרק הקודם הכרנו את הסדר העולמי החדש שרצה בוש האב, מערכת בינלאומית שתבטיח את מאזן הכוח הגלובאלי ותובל ע״י ארה״ב. אולם החזון של בוש לא עורר תמיכה מצד הציבור האמריקני או ההנהגה שלו – ללא האיום האדום, למה שארה״ב תמשיך להיות מעורבת בסכסוכים הרחק מעבר לים? שנות ה-90׳ נתפסו כעידן חדש בסדר העולמי, עידן בו כוח יקבע לא עפ״י מספר החיילים שיש לך, אלא לפי גודל הכלכלה שלך. ברוכים הבאים לקץ ההיסטוריה של ביל קלינטון.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/11/24/%d7%a4%d7%a8%d7%a7-62-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-10-%d7%a7%d7%a5-%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94/&quot;&gt;פרק 62 – פוסט אימפריום (10): קץ ההיסטוריה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/11/ep-62-the-end-of-history.mp3" length="100520227" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>41:53</itunes:duration>
@@ -1640,7 +1667,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;התיישבתי לשיחה קצרה עם רועי גרון מהפודקסט המעולה ״כ&lt;a href=&quot;https://www.osimhistoria.com/grush&quot;&gt;שבגרוש היה חור - פודקאסט על כסף ששינה היסטוריה&lt;/a&gt;״ על גיאו-כלכלה - מהי גיאו-כלכלה? מה הקשר שלה לגיאופוליטיקה? היכן אנחנו רואים אותה ואיך היא מעצבת את חיינו?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/11/08/%d7%a4%d7%a8%d7%a7-%d7%9e%d7%99%d7%95%d7%97%d7%93-%d7%92%d7%99%d7%90%d7%95-%d7%9b%d7%9c%d7%9b%d7%9c%d7%94-%d7%a2%d7%9d-%d7%a8%d7%95%d7%a2%d7%99-%d7%92%d7%a8%d7%95%d7%9f/&quot;&gt;פרק מיוחד: גיאו-כלכלה עם רועי גרון&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/11/geoeconomics-with-roi-geron.mp3" length="38042160" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:52</itunes:duration>
@@ -1674,7 +1700,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;הנפילה המהירה של בריה״מ הפכה את ארה״ב למעצמת העל היחידה בעולם. לראשונה בהיסטוריה, מדינה אחת הסתכלה ימינה, הסתכלה שמאלה, ולא ראתה אף כוח ששווה לה. הסוף הפתאומי של האימפריום הותיר את ארה״ב מצד אחד כמעצמה החזקה בעולם, ומצד שני ללא שום מטרה ברורה להמשך מדיניות החוץ שלה. ארה״ב לא צריכה לשלוט בעולם כדי לשגשג – ועם היעלמות האיום האדום, מה יעלה בגורל המערכת שהיא בנתה במשך 40 שנה? הכול בפרק היום.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/10/01/%d7%a4%d7%a8%d7%a7-61-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-9-%d7%a1%d7%93%d7%a8-%d7%a2%d7%95%d7%9c%d7%9e%d7%99-%d7%97%d7%93%d7%a9/&quot;&gt;פרק 61 – פוסט אימפריום (9): סדר עולמי חדש&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/09/ep-61-a-new-world-order.mp3" length="132240195" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>55:06</itunes:duration>
@@ -1710,7 +1735,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;לפעמים אירוע יכול להיות היסטורי ו - ספין. בשיתוף הפעולה השני של ״המשחק הגדול״ ו״הספינר״ נראה מה המהות במהלכי הסיפוח והנרמול עם האמירויות ומה הספינים שנעשו מסביב לשני הנושאים.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/09/13/%d7%a4%d7%a8%d7%a7-%d7%9e%d7%99%d7%95%d7%97%d7%93-%d7%a1%d7%a4%d7%99%d7%9f-%d7%a2%d7%95%d7%9c%d7%9e%d7%99-2-%d7%a0%d7%a7%d7%9e%d7%aa-%d7%94%d7%90%d7%9e%d7%99%d7%a8%d7%95%d7%99%d7%95%d7%aa/&quot;&gt;פרק מיוחד: ספין עולמי 2 – נקמת האמירויות&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/09/global-spin-2.mp3" length="74683799" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:15:01</itunes:duration>
@@ -1737,7 +1761,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;ישראל אינה צריכה עוד להסתכל על הביטחון שלה ועל מקומה בעולם רק דרך קנה האקדח. עם השתלבות הכלכלות הערביות בכלכלה הגלובאלית, עם התחזקות המשק הישראלי והפיכתו למוקד משיכה גלובלי, ביטחון ישראל כבר לא נשען רק על הכוח הצבאי שלנו, אלא גם על הכוח הכלכלי, הכוח הטכנולוגי והכוח המדיני שלנו. הכוח הכלכלי, הטכנולוגי והמדיני יעזרו לנו לבסס את מקומנו במרחב הערבי, ולהגדיל את כוחנו בזירה הבינלאומית.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/09/08/%d7%a4%d7%9c%d7%b4%d7%92-30-%d7%93%d7%a8%d7%9a-%d7%a7%d7%a0%d7%94-%d7%94%d7%90%d7%a7%d7%93%d7%97-%d7%a2%d7%99%d7%95%d7%95%d7%aa%d7%99%d7%9d-%d7%91%d7%aa%d7%a4%d7%99%d7%a1%d7%aa-%d7%94%d7%91%d7%99/&quot;&gt;פלג 30: דרך קנה האקדח – עיוותים בתפיסת הביטחון של ישראל&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/10/through-the-barrel-of-a-gun-public.mp3" length="52603826" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>52:26</itunes:duration>
@@ -1767,7 +1790,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;לכל דבר טוב יש סוף, גם לאימפריום. במשך 45 שנה האמריקנים הנהיגו את העולם החופשי, שומרים עליו מפני תוקפנות סובייטית ומקדמים בו את הרעיונות של שוק חופשי, סחר חופשי ושלטון החוק. האסטרטגים בוושינגטון קיוו ליום בו בריה״מ תבין את הטעות האידיאולוגית שלה ותתחיל בדיאלוג עם המערב. הם התכוננו ליום בו בריה״מ תשלח את טורי הטנקים שלה דרך גרמניה המערבית לכבוש את אירופה. הם היו מוכנים לשוחח עם בריה״מ, הם היו מוכנים למלחמה גרעינית עם בריה״מ – הם לא היו מוכנים להיעלמות של בריה״מ.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/08/23/%d7%a4%d7%a8%d7%a7-60-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-8-%d7%94%d7%a1%d7%95%d7%a3/&quot;&gt;פרק 60 – פוסט אימפריום (8): הסוף&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/08/ep-60-the-end.mp3" length="94270693" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>39:17</itunes:duration>
@@ -1798,7 +1820,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;השלום האמריקני (״הפקס אמריקנה״) היה הגאולה של העולם מהגיאופוליטיקה שלו - עם הפקס התחילה תקופת שלום חסרת תקדים עבור אירופה ויפן ומסחר בינלאומי צומח. איך הפקס נוצר מהאימפריום? ומה יקרה כשהאימפריום יסתיים?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/07/26/%d7%a4%d7%a8%d7%a7-59-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-7-%d7%a4%d7%90%d7%a7%d7%a1-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%a0%d7%94/&quot;&gt;פרק 59 – פוסט אימפריום (7): פאקס אמריקנה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/07/ep-59-pax-americana.mp3" length="99430399" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>41:26</itunes:duration>
@@ -1831,7 +1852,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;אם בסוריה, אם בלוב, אם במזרח הים התיכון מול יוון - טורקיה בשנים האחרונות הפכה לכוח משמעותי באגן הים התיכון. הסולטן הטורקי צועד ברחבי האזור, אך לאיזו מטרה? היום נראה שגם הוא לא בדיוק יודע.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/07/15/%d7%a4%d7%9c%d7%92-22-%d7%9e%d7%90%d7%a8%d7%a9-%d7%98%d7%95%d7%a8%d7%a7%d7%99/&quot;&gt;פלג 22: מארש טורקי&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/07/peleg-22-turkish-march.mp3" length="38681435" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>37:59</itunes:duration>
@@ -1864,7 +1884,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;הכרנו את השחקנים. הכנו את הבמה. אחרי שסקרנו את הדינמיקה האלימה של העולם הרב-קוטבי, את כישלון מאזן הכוח באירופה ואת העלייה של האיום האדום במזרח, אנחנו יכולים סוף-סוף לפתוח את הסיפור של הפוסט-אימפריום בתחילתו: למה ואיך קיבלה על עצמה ארה״ב את הנהגת העולם החופשי? הכול בפרק היום.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/06/28/%d7%a4%d7%a8%d7%a7-58-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-6-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa/&quot;&gt;פרק 58 – פוסט אימפריום (6): בראשית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/06/ep-58-genesis.mp3" length="92120293" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>38:23</itunes:duration>
@@ -1894,7 +1913,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;שני ענקים גדלו בפריפריה של אירופה: ארה״ב ורוסיה. עם ההשמדה העצמית של אירופה בשתי מלחמות עולם, הבמה פונתה בשביל שני הענקים לתפוס את מקומם בעולם. באופן פרדוקסלי דווקא בריה״מ, היריבה של ארה״ב, היא שאחראית לסדר האמריקני שאנחנו חיים בו היום. איך? הכול בפרק היום.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/05/31/%d7%a4%d7%a8%d7%a7-57-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-5-%d7%94%d7%90%d7%99%d7%95%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/&quot;&gt;פרק 57 – פוסט אימפריום (5): האיום האדום&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/05/ep-57-the-red-threat.mp3" length="73080162" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:27</itunes:duration>
@@ -1926,7 +1944,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt; לא קמה בהיסטוריה אומה יותר חזקה ומשפיעה מארה״ב. גיאוגרפיה וחירות הם מקור כוחה של אמריקה והם גם מקור הפכפכות שלה - האם אמריקה צריכה להיות מגדלור רחוק לעולם, או שמא לעצב אותו בדמותה?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/04/26/%d7%a4%d7%a8%d7%a7-56-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d4-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%94/&quot;&gt;פרק 56 – פוסט אימפריום(4): אמריקה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/04/ep-56-america.mp3" length="101800227" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>42:25</itunes:duration>
@@ -1962,7 +1979,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p style=&quot;text-align: justify;&quot;&gt;ב-16/04 התקיים אירוע הלייב הראשון של פל״ג. פתחתי את האירוע בסקירת מצב הקורונה בעולם, המאמצים להשיג חיסון ולאחר מכן פתחתי את הבמה לשאלות מחברי פל״ג. דיברתי על מצב הנפט, משבר כלכלי אפשרי בהמשך ואפילו ניתוח גיאו-פוליטי של הסכסוך הישראלי-פלשתיני. מפני שאני חושב שהנושאים האלו רלוונטים לכולנו, החלטתי לפרסם את ההקלטה לכל ״המשחק הגדול״. אם אתם רוצים להשתתף באירועי לייב עתידיים, אתם מוזמנים להצטרף כמנוי לפל״ג בקישור הבא - &lt;a href=&quot;https://bit.ly/2UvoyV6&quot;&gt;קישור&lt;/a&gt;. האזנה נעימה!&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/04/20/%d7%90%d7%99%d7%a8%d7%95%d7%a2-%d7%9c%d7%99%d7%99%d7%91-%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%a9%d7%9c-%d7%a4%d7%9c%d7%b4%d7%92-%d7%a2%d7%9c-%d7%a7%d7%95%d7%a8%d7%95%d7%a0%d7%94-%d7%a0%d7%a4%d7%98/&quot;&gt;אירוע לייב ראשון של פל״ג: על קורונה, נפט וישראל-פלשתין&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/04/peleg-live-1.mp3" length="58197096" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:10:19</itunes:duration>
@@ -1986,7 +2002,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;אחד הפודקסטים האהובים עליי הוא הספינר, שמופק ע״י חגי אלקיים שלם. בספינר חגי עושה לפוליטיקה הפנימית בישראל את מה שאני עושה לזירה הבינלאומית - מסתכל מעבר לספינים לאינטרסים של המפלגות והאישים ומסביר למה בדיוק כל שחקן פוליטי מתנהג כפי שהוא מתנהג. בפרק ״ספין עולמי״ אני וחגי מדברים על איך ספינים מופיעים בזירה הבינלאומית, מדוע מדינות צריכות ספינים, איך ספין מוצלח יכול למנוע מלחמה ואיך ספין גרוע יכול לערער את הזירה הבינלאומית. נהנתי מאוד להקליט את הפרק עם חגי ומקווה שתהנו לא רק מהפרק, אלא גם מהפודקסט המעולה שלו. האזנה נעימה!&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/04/04/%d7%a4%d7%a8%d7%a7-%d7%9e%d7%99%d7%95%d7%97%d7%93-%d7%a1%d7%a4%d7%99%d7%9f-%d7%a2%d7%95%d7%9c%d7%9e%d7%99/&quot;&gt;פרק מיוחד: ספין עולמי&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/03/global-spin.mp3" length="61663988" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>1:04:34</itunes:duration>
@@ -2026,7 +2041,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;הערה - יש שגיאת הגייה בפרק, הנהר הגרמני הוא אֶלְבֶּה ולא אֶלְבָּה שהוא אי. &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/03/21/%d7%a4%d7%a8%d7%a7-55-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-%d7%9e%d7%90%d7%96%d7%9f-%d7%94%d7%9b%d7%95%d7%97/&quot;&gt;פרק 55 – פוסט אימפריום(3): מאזן הכוח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/03/ep-55-the-balance-of-power.mp3" length="85560423" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:39</itunes:duration>
@@ -2050,7 +2064,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;עם הגעת הקורונה לארץ הקודש, צריך לעשות סדר לא רק בעץ התרחישים שיוביל את החלטות הממשלה אלא גם מה עלינו לעשות בתקופה כזו עם כל-כך הרבה אי-וודאות.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/03/11/%d7%a4%d7%9c%d7%92-5-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%95%d7%94%d7%a7%d7%95%d7%a8%d7%95%d7%a0%d7%94/&quot;&gt;פלג 5: ישראל והקורונה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/03/peleg-5-israel-and-the-corona.mp3" length="29843451" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:39</itunes:duration>
@@ -2073,7 +2086,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;קופון 5% הנחה - firstpeleg, מנוי לפל״ג - &lt;a href=&quot;https://greatgame.blog/plans/%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%95%d7%aa/&quot;&gt;קישור&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/03/10/%d7%a8%d7%95%d7%a6%d7%99%d7%9d-%d7%99%d7%95%d7%aa%d7%a8-%d7%9e%d7%94%d7%9e%d7%a9%d7%97%d7%a7-%d7%94%d7%92%d7%93%d7%95%d7%9c-%d7%94%d7%9b%d7%99%d7%a8%d7%95-%d7%90%d7%aa-%d7%a4%d7%9c%d7%b4%d7%92/&quot;&gt;רוצים יותר מהמשחק הגדול? הכירו את פל״ג&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/03/hashaka.mp3" length="7426556" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>7:20</itunes:duration>
@@ -2116,7 +2128,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;העולם שלפני הסדר האמריקני היה עולם של מאבקי כוח בין המעצמות האירופיות ותחרות מסחרית חסרת פשרות. הגיע הזמן לשוב ולהכיר עולם בו ספינות סחר נתפסו לא כהבטחה לשפע אלא כמטרה לגטימית.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/03/07/%d7%a4%d7%a8%d7%a7-54-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%9e%d7%95%d7%96%d7%a8-%d7%a9%d7%9c%d7%a0%d7%95/&quot;&gt;פרק 54 – פוסט אימפריום(2): העולם הרב-קוטבי&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/03/episode-54-the-multi-polar-world.mp3" length="72320521" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:08</itunes:duration>
@@ -2146,7 +2157,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;רוצים לדעת איך ״פוסט-אימפריום״ ישפיע על המזרח התיכון? מוזמנים להרצאה ב-26.2 ב-Think&amp;Drink, כרטיסים כאן - &lt;a href=&quot;https://www.thinkdrink.co.il/%d7%a0%d7%99%d7%a6%d7%9f-%d7%93%d7%95%d7%93-%d7%a4%d7%95%d7%a7%d7%a1-9/&quot;&gt;קישור&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/02/15/%d7%a4%d7%a8%d7%a7-53-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%9e%d7%95%d7%96%d7%a8-%d7%a9%d7%9c%d7%a0%d7%95/&quot;&gt;פרק 53 – פוסט אימפריום(1): העולם המוזר שלנו&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/02/ep-53-our-strange-world.mp3" length="107040391" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>44:36</itunes:duration>
@@ -2169,7 +2179,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;מי שלא יכול לחכות לפרק הראשון, מוזמן לקבל סקירה של הסדרה במסגרת ההרצאה ״(אי) סדר עולמי חדש״. הזמנת כרטיסים כאן - &lt;a href=&quot;https://www.thinkdrink.co.il/%d7%a0%d7%99%d7%a6%d7%9f-%d7%93%d7%95%d7%93-%d7%a4%d7%95%d7%a7%d7%a1-8/&quot;&gt;קישור&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2020/01/31/%d7%98%d7%99%d7%96%d7%a8-%d7%a4%d7%95%d7%a1%d7%98-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d/&quot;&gt;טיזר: פוסט אימפריום&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2020/01/פוסט-אימפריום.mp3" length="5442254" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>5:05</itunes:duration>
@@ -2193,7 +2202,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;שנה וחצי אחרי הסדרה ״הקרטלים״, אני חוזר למקסיקו עם הרצאה חדשה ב-Think&amp;Drink, על ההסלמה במלחמה שם והתפנית המעניית בהתפתחות שלהם. הולך להיות מאוד מעניין ומאוד כיף - בואו! &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/12/01/%d7%94%d7%95%d7%93%d7%a2%d7%94-%d7%94%d7%a8%d7%a6%d7%90%d7%aa-%d7%94%d7%a7%d7%a8%d7%98%d7%9c%d7%99%d7%9d-%d7%91%d7%a2%d7%a7%d7%91%d7%95%d7%aa-%d7%94%d7%94%d7%a1%d7%9c%d7%9e%d7%94-%d7%91%d7%9e%d7%a7/&quot;&gt;הודעה: הרצאת הקרטלים – בעקבות ההסלמה במקסיקו&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2019/12/the-cartels-in-november.mp3" length="2835531" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>2:41</itunes:duration>
@@ -2234,7 +2242,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;כמעט שנה חיכיתם והנה הוא הגיע – הפרק על סין וישראל. מה המטרות של סין בהשקעות שלה בישראל? מה המטרות של ישראל מול סין? ולמה העמדה השכיחה במדינה לא מבינה נכון לא את סין, לא אותנו ולא את ארה״ב? &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/11/22/%d7%a4%d7%a8%d7%a7-52-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%95%d7%a1%d7%99%d7%9f/&quot;&gt;פרק 52 – קיסר אדום: ישראל וסין&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-52.mp3" length="110820831" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>46:11</itunes:duration>
@@ -2282,7 +2289,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;40 שנה ארה״ב מנסה לשלב את סין הקומוניסטית בסדר העולמי האמריקאי. עכשיו זה נגמר. בפרק היום נסקור את היחסים המורכבים בין סין לארה״ב ומדוע התחרות של טראמפ היא כאן כדי להישאר.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/11/14/%d7%a4%d7%a8%d7%a7-51-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%94-%d7%95%d7%a1%d7%99%d7%9f/&quot;&gt;פרק 51 – קיסר אדום: אמריקה וסין&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-51.mp3" length="59489622" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>47:46</itunes:duration>
@@ -2310,7 +2316,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;מול מתחים בבית, איומים מבחוץ, כלכלה מדשדשת ועבר של אנרכיה, למפלגה הקומוניסטית של סין לא תהיה ברירה אלא -  להדק את אחיזתה בחברה. ברוכים הבאים לסין החדשה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/11/08/%d7%a4%d7%a8%d7%a7-50-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%a1%d7%99%d7%9f-%d7%94%d7%97%d7%93%d7%a9%d7%94/&quot;&gt;פרק 50 – קיסר אדום: סין החדשה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-50.mp3" length="68266732" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>54:42</itunes:duration>
@@ -2338,7 +2343,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;אתם אולי לא מתעניינים במפלגה, אך המפלגה מתעניינת בכם. בפרק היום נראה למה המחשבות שלכם על סין הן לא שלכם, מה המפלגה עושה בשביל לקנות לבבות ולמה אף פעם אל תקבלו הזמנה לארוחת ערב בסין.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/11/02/%d7%a4%d7%a8%d7%a7-49-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%91%d7%a6%d7%a2%d7%99-%d7%94%d7%a9%d7%a4%d7%a2%d7%94/&quot;&gt;פרק 49 – קיסר אדום: מבצעי השפעה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-49.mp3" length="98089795" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>40:52</itunes:duration>
@@ -2365,7 +2369,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק היום אנחנו מפנים את מבטנו לזירה שמעטים מדברים עליה, למרות שהיא מתחממת כל הזמן – הקוטב הצפוני. מה הסינים מחפשים בקוטב הצפוני? ולמה הקוטב עתיד להיות זירה חדשה למאבקים בין מעצמות?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/10/19/%d7%a4%d7%a8%d7%a7-48-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%94%d7%a1%d7%99%d7%a0%d7%99%d7%9d-%d7%91%d7%a7%d7%95%d7%98%d7%91-%d7%94%d7%a6%d7%a4%d7%95%d7%a0%d7%99/&quot;&gt;פרק 48 – קיסר אדום: הסינים בקוטב הצפוני&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-48.mp3" length="67760586" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>28:14</itunes:duration>
@@ -2394,7 +2397,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;״דרך המשי החדשה״ היא ממש לא היוזמה האסטרטגית שמוכרים לכם. בפרק היום נראה את הטעות בגישה הנפוצה וננתח את האינטרסים האמיתים שעומדים מאחוריה ומעצבים אותה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/10/05/%d7%a4%d7%a8%d7%a7-47-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%93%d7%a8%d7%9a-%d7%94%d7%9e%d7%a9%d7%99-%d7%94%d7%97%d7%93%d7%a9%d7%94/&quot;&gt;פרק 47 – קיסר אדום: דרך המשי החדשה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-47.mp3" length="89319966" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>37:13</itunes:duration>
@@ -2419,7 +2421,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק הקודם בניתי את החשיבה האסטרטגית של סין כלפי מזרח אסיה והעולם, על בסיס ההבנה שלנו את החשיבה של שי ג׳ינפינג וההנהגה הקומוניסטית. בפרק היום נראה מדוע סין כל כך רוצה לשלוט בטאיוואן ולמה פלישה אליה תהיה הסוף של סין הקומוניסטית, לא טאיוואן.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/09/21/%d7%a4%d7%a8%d7%a7-46-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%a9%d7%90%d7%9c%d7%aa-%d7%98%d7%90%d7%99%d7%95%d7%95%d7%90%d7%9f/&quot;&gt;פרק 46 – קיסר אדום: שאלת טאיוואן&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/ep-46-the-question-of-taiwan.mp3" length="73520064" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:38</itunes:duration>
@@ -2438,7 +2439,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p&gt;מה הניע את ״אינפיניטי״ להחלטה? ומה בדיוק עושה אנליסט גיאו-פוליטי? בהכרזה הקצרה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/09/12/%d7%94%d7%9b%d7%a8%d7%96%d7%94-%d7%94%d7%a6%d7%98%d7%a8%d7%a4%d7%95%d7%aa%d7%99-%d7%9b%d7%90%d7%a0%d7%9c%d7%99%d7%a1%d7%98-%d7%92%d7%99%d7%90%d7%95-%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99-%d7%91%d7%9b/&quot;&gt;הכרזה: הצטרפותי כאנליסט גיאו-פוליטי בכיר ל״אינפיניטי״&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2019/09/על-הצטרפות-כאנליסט-1.mp3" length="5708050" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1999</post-id>	</item>
@@ -2464,7 +2464,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;העלייה של סין אחרי ״מאה שנות השפלה״ היא לא ״עוד עלייה״ - היא שינוי יסודי בסדר העולמי. בפרק היום נראה איך עצם משקלה של סין משנה את הסדר העולמי, מה הפחד שלה מפני ארה״ב ואיך היא מתכוונת להתמודד עם האיום מפני מעצמת העל היחידה של העולם.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/09/07/%d7%a4%d7%a8%d7%a7-45-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%94%d7%90%d7%a8%d7%99%d7%94-%d7%9e%d7%aa%d7%a2%d7%95%d7%a8%d7%a8/&quot;&gt;פרק 45 – קיסר אדום: האריה מתעורר&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-45.mp3" length="91920717" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>38:18</itunes:duration>
@@ -2493,7 +2492,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;כולנו שמענו מה קורה בשינג׳יאנג, אך אף אחד מאיתנו לא הבין למה זה קורה. בפרק היום של קיסר אדום נכיר את הרקע ליצירתה של מדינת משטרה שמשלבת דיכוי חברתי ורדיפה אישית עם טכנולוגית עילית של המאה ה-21.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/08/24/%d7%a4%d7%a8%d7%a7-44-%d7%9e%d7%93%d7%99%d7%a0%d7%aa-%d7%94%d7%9e%d7%a9%d7%98%d7%a8%d7%94-%d7%a9%d7%9c-%d7%a9%d7%99%d7%a0%d7%92%d7%b3%d7%99%d7%90%d7%a0%d7%92/&quot;&gt;פרק 44 – מדינת המשטרה של שינג׳יאנג&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-44.mp3" length="79846838" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>33:16</itunes:duration>
@@ -2521,7 +2519,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;הקפיצה הטכנולוגית הגדולה של סין פחות קשורה לרצון בקדמה טכנולוגית ויותר לניסיון של המפלגה להפוך את סין למדינת עולם ראשון לפני שהיא קמלה. אדבר על החסכנות הסינית, עתיד הפנסיה בסין ואיך תעשיית היי-טק בסין היא עדיין - למרות כל ההייפ - פרויקט ממשלתי.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/08/11/%d7%a4%d7%a8%d7%a7-43-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%aa%d7%95%d7%a6%d7%a8%d7%aa-%d7%a1%d7%99%d7%9f-2025/&quot;&gt;פרק 43 – קיסר אדום: תוצרת סין 2025&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-43.mp3" length="89146430" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>37:09</itunes:duration>
@@ -2549,7 +2546,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק הקודם ראינו איך התערבות ממשלתית במשק הסיני ב-2008 יצרה בועת חוב שהיקפה ורעילותה אין איש יודע. בפרק היום נראה כיצד שי והנהגת המפלגה ניסו לפתור את הבועה ואיך סכסוך הסחר עם טראמפ שיבש הכול. &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/07/27/%d7%a4%d7%a8%d7%a7-42-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%a9%d7%99-%d7%94%d7%97%d7%95%d7%91-%d7%95%d7%a1%d7%9b%d7%a1%d7%95%d7%9a-%d7%94%d7%a1%d7%97%d7%a8/&quot;&gt;פרק 42 – קיסר אדום: שי, החוב וסכסוך הסחר&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-42.mp3" length="58560260" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>24:24</itunes:duration>
@@ -2577,7 +2573,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק הקודם פירקנו את הכלכלה הסינית לארבעת השחקנים המרכזיים בה. אם אתם לא ממש זוכרים, אל דאגה – נעשה סקירה קצרה היום. בפרק היום נראה איך הדינמיקה בין השחקנים הללו יצרה את אחת מבועות האשראי הגדולות בהיסטוריה, בועה שמעתיקה כמעט אחד לאחד את כל הטעויות שהיו בבסיס משבר הסאב-פריים של 2008.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/07/13/%d7%a4%d7%a8%d7%a7-41-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%91%d7%a2%d7%99%d7%aa-%d7%94%d7%97%d7%95%d7%91/&quot;&gt;פרק 41 – קיסר אדום: בעית החוב של כלכלת סין&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-41.mp3" length="75600456" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>31:30</itunes:duration>
@@ -2601,7 +2596,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;שי ג&#039;ינפינג הצהיר שלמפלגה הקומוניסטית שתי מטרות: התחייה הלאומית של האומה הסינית והרווחה החומרית של העם הסיני. ראינו בפרק הקודם שהמפלגה הקומוניסטית מצדיקה את הדיכוי הפוליטי והאזרחי של תושבי סין בטענה שהיא דואגת לרווחה הכלכלית שלהם. לכאורה נראה שהיא עומדת לפחות בחלק הזה של העסקה – מאז שנות ה-80&#039; הכלכלה הסינית נמצאת בצמיחה מהירה, והמפלגה זוכה להערכה רבה בעולם הודות להישגים המרשימים שלה בכלכלה. אך האם באמת הסינים פיצחו את המודל לשגשוג כלכלי? לא בטוח. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/06/29/%d7%a4%d7%a8%d7%a7-40-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%90%d7%a8%d7%91%d7%a2%d7%94-%d7%a9%d7%97%d7%a7%d7%a0%d7%99%d7%9d-%d7%9b%d7%9c%d7%9b%d7%9c%d7%99%d7%9d/&quot;&gt;פרק 40 – קיסר אדום: ארבעה שחקנים כלכלים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-40.mp3" length="74160586" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:54</itunes:duration>
@@ -2630,7 +2624,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p style=&quot;text-align: justify;&quot;&gt;כולם מדווחים על זכויות האדם בסין, אך אף אחד לא מדבר על מה חושבת המפלגה הקומוניסטית עליהן. הסכנה מסין אינה נמצאת במחנות לחינוך מחדש בשינג&#039;יאנג או במערכת &quot;האשראי החברתי&quot;, אלא בעמדת המפלגה הקומוניסטית שעדיף למדינה להקריב את זכויות האזרח של יחידים, בשביל השגשוג של החברה. נשמע אבסורדי? לא בעיני הסינים ובעיני מחנה הולך וגדל של מדינות בעולם.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/06/15/%d7%a4%d7%a8%d7%a7-39-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%96%d7%9b%d7%95%d7%99%d7%95%d7%aa-%d7%90%d7%93%d7%9d-%d7%a0%d7%95%d7%a1%d7%97-%d7%a1%d7%99%d7%9f/&quot;&gt;פרק 39 – קיסר אדום: זכויות אדם נוסח סין&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-39.mp3" length="87199868" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>36:20</itunes:duration>
@@ -2660,7 +2653,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p style=&quot;text-align: justify;&quot;&gt;באוקטובר 2017 שי ג&#039;ינפינג &lt;a href=&quot;http://www.chinadaily.com.cn/china/19thcpcnationalcongress/2017-11/04/content_34115212.htm&quot;&gt;הציג בפני הקונגרס המפלגתי את דו&quot;ח העבודה שלו&lt;/a&gt; לשנים 2012-2017. בשלוש וחצי שעות של נאום שי הציג את ההישגים הגדולים של המפלגה בחמש השנים שהיו ושרטט את החזון של המפלגה לחמש השנים הבאות ואף לעתיד הרחוק. בפרק היום נזקק את השקפתו של שי ג&#039;ינפינג מתוך הנאום. אל תדאגו – הפרק לא יהיה באורך של שלוש וחצי שעות. הודות להיכרות שלנו עם &lt;a href=&quot;https://greatgame.blog/2019/03/06/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%90%d7%a8%d7%a5-%d7%95%d7%a9%d7%9e%d7%99%d7%99%d7%9d/&quot;&gt;מושגי מפתח בחשיבה המדינית הסינית&lt;/a&gt;, עם &quot;&lt;a href=&quot;https://greatgame.blog/2019/03/23/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-100-%d7%a9%d7%a0%d7%95%d7%aa-%d7%94%d7%a9%d7%a4%d7%9c%d7%94-%d7%9c%d7%90%d7%95%d7%9e%d7%99%d7%aa/&quot;&gt;מאה שנות השפלה&lt;/a&gt;&quot;, עם מאבקי הכוח במפלגה הסינית (&lt;a href=&quot;https://greatgame.blog/2019/04/07/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9c-%d7%9b%d7%95%d7%97-%d7%97%d7%9c%d7%a7-%d7%90/&quot;&gt;חלק א&#039;&lt;/a&gt; ו&lt;a href=&quot;https://greatgame.blog/2019/04/13/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9c-%d7%9b%d7%95%d7%97-%d7%97%d7%9c%d7%a7-%d7%91/&quot;&gt;חלק ב&#039;&lt;/a&gt;) ועם &lt;a href=&quot;https://greatgame.blog/2019/05/04/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%99-%d7%90%d7%aa%d7%94-%d7%a9%d7%99-%d7%92%d7%99%d7%a0%d7%a4%d7%99%d7%a0%d7%92/&quot;&gt;הביוגרפיה האישית של שי&lt;/a&gt;, יהיה לנו קל להוציא מהנאום של שי את השקפת העולם שלו, השקפת עולם שהיא תנחה אותנו בסקירת הפעילות של סין בעולם היום, אם בכלכלה, בטכנולוגיה או ב&quot;דרך המשי החדשה&quot;.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/06/01/%d7%a4%d7%a8%d7%a7-38-%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%94%d7%97%d7%96%d7%95%d7%9f-%d7%a9%d7%9c-%d7%a9%d7%99/&quot;&gt;פרק 38 – קיסר אדום: החזון של שי&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-38.mp3" length="74160586" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>30:54</itunes:duration>
@@ -2692,7 +2684,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p style=&quot;text-align: justify;&quot;&gt;אז מה יהיה לנו היום? אני ודני נשתמש במאמר שלו כבסיס לדבר על יפן הקיסרית, על פריקת העול של הצבא היפני ועל מזרח אסיה במאה שנות ההשפלה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/05/27/%d7%94%d7%9e%d7%a9%d7%97%d7%a7-%d7%94%d7%92%d7%93%d7%95%d7%9c-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%93%d7%a8-%d7%93%d7%a0%d7%99-%d7%90%d7%95%d7%a8%d7%91%d7%9a-%d7%91%d7%a2%d7%a7%d7%91%d7%95/&quot;&gt;המשחק הגדול מארח את: ד”ר דני אורבך בעקבות ההרפתקנים היפנים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2019/05/הגדול-מארח-את-דר-דני-אורבך.mp3" length="5242880" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1847</post-id>	</item>
@@ -2720,7 +2711,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;ב-2012 שי ג&#039;ינפינג היה מוכן לתפקיד הגדול הבא שלו – המזכיר הכללי של המפלגה הקומוניסטית. הנסיך האפור מפוג&#039;יאן עמד לשבת בקודקוד הכוח של סין. אף אחד לא ניחש שעם ישיבתו על הכס הוא יפתח בטיהור כמוהו לא ראתה המפלגה מאז המהפכה התרבותית של מאו.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/05/18/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%94%d7%98%d7%99%d7%94%d7%95%d7%a8-%d7%94%d7%92%d7%93%d7%95%d7%9c/&quot;&gt;פרק 37 – קיסר אדום: הטיהור הגדול&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-37.mp3" length="90134986" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>37:33</itunes:duration>
@@ -2747,7 +2737,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 &lt;p style=&quot;text-align: justify;&quot;&gt;התחלנו את &quot;קיסר אדום&quot; לפני חודשיים, במבוא לפוליטיקה הסינית. סקרנו ב-4 פרקים את ההיסטוריה והתרבות הסינית עד כמעט ימינו אנו, בדגש על הדינמיקה הפוליטית בה. דיברנו על נפילתה של שושלת צ&#039;ינג, על המהפכה הפרטית של מאו והמחנות בצמרת המפלגה הקומוניסטית. רק עכשיו, אחרי שאנחנו מבינים טוב יותר את סין, את המפלגה הקומוניסטית, אנחנו יכולים לפנות ולטפל בנושא המרכזי שלנו – &quot;הקיסר האדום&quot;, שי ג&#039;ינפינג. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/05/04/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%99-%d7%90%d7%aa%d7%94-%d7%a9%d7%99-%d7%92%d7%99%d7%a0%d7%a4%d7%99%d7%a0%d7%92/&quot;&gt;פרק 36 – קיסר אדום: מי אתה שי ג’ינפינג?&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-36.mp3" length="63439933" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>26:26</itunes:duration>
@@ -2771,7 +2760,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;חלק ב&#039; של מורשת של כוח מספר על המאבק שהתחולל על נשמתה של סין בין הרפורמים לשמרנים, על הפגנות כיכר טיאננמן ומה ההחלטה שדנג שיאו-פינג קיבל ששינתה את הכול.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/04/13/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9c-%d7%9b%d7%95%d7%97-%d7%97%d7%9c%d7%a7-%d7%91/&quot;&gt;פרק 35 – קיסר אדום: מורשת של כוח – חלק ב’&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-35.mp3" length="63200652" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>26:20</itunes:duration>
@@ -2800,7 +2788,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;1949 סימנה שלב חדש בהיסטוריה הסינית: לא עוד קיסרות, כי אם רפובליקה קומוניסטית. מה שלא השתנה הם מאבקים הכוח: כמו בחצר הקיסרית של המאות הקודמות, המפלגה הקומוניסטית רחשה מאבקי כוח בקרב צמרת המפלגה. בחלק הראשון של &quot;מורשת של כוח&quot; נכיר את המאבק שהפך לטראומה למפלגה: המהפכה התרבותית של מאו ואיך אדם אחד כמעט הצליח להשמיד את המפלגה כולה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/04/07/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%95%d7%a8%d7%a9%d7%aa-%d7%a9%d7%9c-%d7%9b%d7%95%d7%97-%d7%97%d7%9c%d7%a7-%d7%90/&quot;&gt;פרק 34 – קיסר אדום: מורשת של כוח – חלק א’&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-34.mp3" length="71100080" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>29:38</itunes:duration>
@@ -2839,7 +2826,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;במשך אלפיים שנה הסינים ראו את עצמם כמרכז העולם, הממלכה התיכונה, הלב של הסדר העולמי. הם היו בטוחים שהם-הם התרבות העליונה על כל השאר. ואז באו האירופאים. בפרק היום נדבר על &quot;100 שנות השפלה לאומית&quot;, הנרטיב מרכזי של המפלגה הקומוניסטית ונראה איך סין הפכה במספר כה מועט של שנים מאימפריה משגשגת למדינה מוכה ומושפלת.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/03/23/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-100-%d7%a9%d7%a0%d7%95%d7%aa-%d7%94%d7%a9%d7%a4%d7%9c%d7%94-%d7%9c%d7%90%d7%95%d7%9e%d7%99%d7%aa/&quot;&gt;פרק 33 – קיסר אדום: 100 שנות השפלה לאומית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2021/10/episode-33.mp3" length="79040260" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>32:56</itunes:duration>
@@ -2873,7 +2859,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק הקודם הכרנו את המערכת הפוליטית של סין ואת האדם החזק ביותר בה היום – שי ג&#039;ינפינג. שי והמהפכה שחולל הם המפתח להבין את מעשיה של סין בעולם ולשרטט את העתיד של הרפובליקה העממית של סין. אך לפני שנתקדם אל העתיד, עלינו קודם להכיר את העבר, להכיר את הרעיונות הפילוסופים והגיאוגרפיה שעיצבו את התרבות והמנטאליות הסינית. בפרק היום נדבר על העמקים הפוריים של הנהר הצהוב, על הרמות הצחיחות של מרכז אסיה ולמה הסינים מתכוונים כשהם מדברים על &quot;מנדט השמיים&quot;. &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/03/06/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%90%d7%a8%d7%a5-%d7%95%d7%a9%d7%9e%d7%99%d7%99%d7%9d/&quot;&gt;פרק 32 – קיסר אדום: ארץ ושמיים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2019/03/Episode-2.mp3" length="5242880" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1740</post-id>	</item>
@@ -2897,7 +2882,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;כולם מדברים על סין, על איך היא תכבוש את העולם או תתפוצץ כמו בועה. אבל אף אחד לא מדבר על מה באמת סין רוצה או עושה, והאם היא בכלל רוצה לכבוש את העולם? בסדרה החדשה, &quot;קיסר אדום&quot;, נצלול למעמקים של סין, נלמד את ההיסטוריה והגיאו-אסטרטגיה שלה וננסה לענות על השאלה שמנקרת בראש של כולנו – מה סין רוצה?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2019/02/15/%d7%a7%d7%99%d7%a1%d7%a8-%d7%90%d7%93%d7%95%d7%9d-%d7%9e%d7%91%d7%95%d7%90-%d7%9c%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99%d7%a7%d7%94-%d7%94%d7%a1%d7%99%d7%a0%d7%99%d7%aa/&quot;&gt;פרק 31 – קיסר אדום: מבוא לפוליטיקה הסינית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2019/02/Episode-1-Final.mp3" length="5242880" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1714</post-id>	</item>
@@ -2920,7 +2904,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;הפרק היום ישנה לחלוטין את איך אתם חושבים על ניהול סיכון ותחזיות, אם בחיים האישיים שלכם, בניהול הפיננסי שלכם או בדיונים הפוליטיים שלכם. אחרי שהכרנו בפרק הקודם את העולם המופלא של כאוס, בפרק היום נכיר תופעה שמתחבאת בכל מערכת מורכבת, כמו פצצה שממתינה לרגע שלה – ברבור שחור. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/12/09/%d7%91%d7%a8%d7%91%d7%95%d7%a8-%d7%a9%d7%97%d7%95%d7%a8/&quot;&gt;פרק 30 – ברבור שחור&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/12/d791d7a8d791d795d7a8-d7a9d797d795d7a8.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1621</post-id>	</item>
@@ -2948,7 +2931,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;כאוס. רובנו שמענו על &quot;תורת הכאוס&quot;, על &quot;אפקט הפרפר&quot;, אולי אפילו על &quot;דינמיקה כאוטית&quot;. אך מה כל זה אומר? ואיך זה משפיע לא רק על תנועת הכוכבים, אלא גם יכול לעזור לנו להבין מלחמות, את הזירה הבינלאומית ומזג האוויר? בפרקים הקרובים נדבר על כאוס, על מערכות שלא ניתנות לחיזוי ואיך הקונספטים האלה צריכים להשפיע כל חשיבה שלנו על מערכות מורכבות.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/11/11/%d7%9b%d7%90%d7%95%d7%a1/&quot;&gt;פרק 29 – כאוס&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/11/d79bd790d795d7a1.mp3" length="37915727" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:28</itunes:duration>
@@ -2988,7 +2970,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק האחרון הזהרתי שהאנרכיה שמביאים הקרטלים במקסיקו עלולה לשמש ארגוני טרור. בפרק היום, פרק הסיום, אנו פוגשים אויב וותיק, אויב שחשבנו שאנו מכירים: חיזבאללה. איך הפך ארגון הטרור הלבנוני לאימפרית פשע? ומהן ההשלכות האסטרטגיות של הפעילות הפלילית שלו עלינו ועל ארה&quot;ב? כל זאת ועוד בפרק היום. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/10/19/%d7%94%d7%a7%d7%a8%d7%98%d7%9c%d7%99%d7%9d-%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94-%d7%91%d7%a2%d7%9e/&quot;&gt;פרק 28 – הקרטלים: חיזבאללה בע”מ&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/10/d794d7a7d7a8d798d79cd799d79d-d797d799d796d791d790d79cd79cd794-d791d7a2d79e.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1593</post-id>	</item>
@@ -3006,7 +2987,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;אתם שאלתם ואני עונה - על הפודקאסט, סין, האיחוד האירופאי ועוד!&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/10/14/%d7%a4%d7%a8%d7%a7-%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa-1/&quot;&gt;פרק שאלות ותשובות #1&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/10/d7a4d7a8d7a7-d7a9d790d79cd795d7aa-d795d7aad7a9d795d791d795d7aa-1.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1521</post-id>	</item>
@@ -3023,7 +3003,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;מוזמנים להגיש שאלות לפרק שאלות ותשובות בדצמבר&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/10/03/%d7%a4%d7%a8%d7%a7-%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/&quot;&gt;פרק שאלות ותשובות&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/10/d7a4d7a8d7a7-d7a9d790d79cd795d7aa-d795d7aad7a9d795d791d795d7aa.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1502</post-id>	</item>
@@ -3057,7 +3036,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;הקרטלים נמצאים בנדל&quot;ן הכי רגיש לביטחון הלאומי של ארה&quot;ב: מרכז אמריקה. הם מפוררים את המדינה המקסיקנית בעוד היא מצליחה רק לפצל אותם לעוד ועוד ארגונים קטנים יותר ויותר. בפרק היום נלמד מדוע מרכז אמריקה כה חשובה לארה&quot;ב וננסה לראות כיצד הקרטלים עלולים לפגוע בה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/09/26/%d7%94%d7%a7%d7%a8%d7%98%d7%9c%d7%99%d7%9d-%d7%94%d7%a1%d7%9b%d7%a0%d7%94-%d7%9c%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%94/&quot;&gt;פרק 27 – הקרטלים: הסכנה לאמריקה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/09/d794d7a7d7a8d798d79cd799d79d-d794d7a1d79bd7a0d794-d79cd790d79ed7a8d799d7a7d794.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1494</post-id>	</item>
@@ -3090,7 +3068,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק היום אנו הולכים דרומה יותר, למשולש הצפוני של מרכז אמריקה. שם נראה איך פשע משתולל והתפוררות שלטון החוק, ביחד עם עוני חריף, דחפו מאות אלפים לעזוב את בתיהם ולחפש חיים טובים יותר בארה&quot;ב. אדבר על המחיר האנושי והפוליטי שהנדידה ההמונית הזו הביאה על מקסיקו וארה&quot;ב ומה האיום שנוצר עם עלייתו של אנדראס מנואל לופז אוברדור כנשיא הנבחר של מקסיקו.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/09/01/%d7%94%d7%a7%d7%a8%d7%98%d7%9c%d7%99%d7%9d-%d7%9e%d7%a9%d7%95%d7%9c%d7%a9-%d7%94%d7%93%d7%9e%d7%99%d7%9d/&quot;&gt;פרק 26 – הקרטלים: משולש הדמים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/09/d794d7a7d7a8d798d79cd799d79d-d79ed7a9d795d79cd7a9-d794d793d79ed799d79d.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1472</post-id>	</item>
@@ -3120,7 +3097,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;אני שמח להגיש בפניכם את הסדרה החדשה: &quot;הקרטלים&quot;, שתעסוק בסיפור עלייתם של הקרטלים של מקסיקו, בתהליך ההתפתחות שלהם ובהשפעה הגיאופוליטית שלהם על מקסיקו בפרט והאמריקות בכלל. נדבר על קוקאין, על אבולוציה והשוק החופשי. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/08/11/%d7%94%d7%a7%d7%a8%d7%98%d7%9c%d7%99%d7%9d-%d7%a0%d7%a2%d7%99%d7%9d-%d7%9c%d7%94%d7%9b%d7%99%d7%a8/&quot;&gt;פרק 25 – הקרטלים: נעים להכיר&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2018/08/d794d7a7d7a8d798d79cd799d79d-d7a0d7a2d799d79d-d79cd794d79bd799d7a8.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1460</post-id>	</item>
@@ -3147,7 +3123,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. גם ב-itunes: קישור. תאהבו אותו, תשנאו אותו, תעריצו או תבוזו לו – ראש ממשלת ישראל בנימין נתניהו הוא דיפלומט פנטסטי. הפרק היום מוקדש ללימוד מדיניות החוץ של נתניהו (כן, יש כזו) ומה השלב הבא שנדרש בשביל לשדרג את מעמד ישראל בעולם. נדבר על machtpolitik, העוצמה הטכנולוגית שלנו ומדוע ישראל צריכה לפתוח […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/07/14/%d7%aa%d7%99%d7%a7%d7%95%d7%9f-%d7%a2%d7%95%d7%9c%d7%9d-%d7%9e%d7%93%d7%99%d7%a0%d7%99%d7%95%d7%aa-%d7%94%d7%97%d7%95%d7%a5-%d7%a9%d7%9c-%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95-%d7%95%d7%94%d7%a9%d7%9c/&quot;&gt;פרק 24 – תיקון עולם: מדיניות החוץ של נתניהו והשלב הבא&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2018/07/d7aad799d7a7d795d79f-d7a2d795d79cd79d.mp3" length="25775405" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1455</post-id>	</item>
@@ -3177,7 +3152,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;רק גאון אסטרטגי כמו פוטין יצליח להוציא את מדינת היהודים - פרייארית. בפרק היום אחשוף את המשחק שרוסיה משחקת איתנו ועם האיראנים, על האפשרויות שלנו בסוריה ולמה ייעוץ חקלאי הוא מה שצריך לשלוח לכורדים במזרח המדינה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/06/23/%d7%a4%d7%a8%d7%99%d7%99%d7%90%d7%a8%d7%99%d7%9d-%d7%90%d7%99%d7%9a-%d7%a8%d7%95%d7%a1%d7%99%d7%94-%d7%9e%d7%a9%d7%97%d7%a7%d7%aa-%d7%90%d7%99%d7%aa%d7%a0%d7%95-%d7%95%d7%a2%d7%9d-%d7%94%d7%90%d7%99/&quot;&gt;פרק 23 – פרייארים: איך רוסיה משחקת איתנו ועם האיראנים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2018/06/d7a4d7a8d799d799d790d7a8d799d79d.mp3" length="25600370" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1416</post-id>	</item>
@@ -3208,7 +3182,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;אנו מגיעים לסיומה של הסדרה &quot;העולם על-פי מוסקבה&quot; ובפרק האחרון נאזין למנהיג הבלתי מעורער של המעצמה הרוסית: ולדימיר פוטין. מהי הביקורת של פוטין על הסדר העולמי? מהם הפגמים החמורים בו? וכיצד ניתן לתקן אותם?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/05/29/%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%a2%d7%9c-%d7%a4%d7%99-%d7%9e%d7%95%d7%a1%d7%a7%d7%91%d7%94-%d7%94%d7%91%d7%99%d7%a7%d7%95%d7%a8%d7%aa-%d7%a9%d7%9c-%d7%a4%d7%95%d7%98%d7%99%d7%9f/&quot;&gt;פרק 22 – העולם על-פי מוסקבה: הביקורת של פוטין&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2018/05/d794d7a2d795d79cd79d-d7a2d79c-d7a4d799-d79ed795d7a1d7a7d791d794-d794d791d799d7a7d795d7a8d7aa-d7a9d79c-d7a4d795d798d799d79f.mp3" length="26268322" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1407</post-id>	</item>
@@ -3238,7 +3211,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק היום של המשחק הגדול נדבר על איך רוסיה הפכה מהאיום הקונבנציונאלי הכי גדול על אירופה, לאיום ההיברידי הכי גדול עליה. נדבר על איך היא משתמשת ברשתות חברתיות, במדיה, בכוחות מיוחדים ושכירי חרב בשביל לנהל את המלחמה שלה נגד המערב.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/04/27/%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%a2%d7%9c-%d7%a4%d7%99-%d7%9e%d7%95%d7%a1%d7%a7%d7%91%d7%94-%d7%a8%d7%95%d7%a1%d7%99%d7%94-%d7%9e%d7%9b%d7%94-%d7%a9%d7%a0%d7%99%d7%aa/&quot;&gt;פרק 21 – העולם על-פי מוסקבה: רוסיה מכה שנית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2018/04/d794d7a2d795d79cd79d-d7a2d79c-d7a4d799-d79ed795d7a1d7a7d791d794-d7a8d795d7a1d799d794-d79ed79bd794-d7a9d7a0d799d7aa.mp3" length="28091040" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1403</post-id>	</item>
@@ -3274,7 +3246,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;מאז 1946, ארה&quot;ב ביצעה 81 מבצעים לשינוי שלטון במדינות מסביב לעולם. בפרק היום נחדור ללב הפרנויה הרוסית - מדוע פוטין חושב שכל מפגין הוא סוכן אמריקאי, שכל מהומה היא מזימה אמריקאית?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/04/03/%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%a2%d7%9c-%d7%a4%d7%99-%d7%9e%d7%95%d7%a1%d7%a7%d7%91%d7%94-%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%94%d7%99%d7%91%d7%a8%d7%99%d7%93%d7%99%d7%aa/&quot;&gt;פרק 20 – העולם על-פי מוסקבה: מלחמה היברידית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2018/04/d794d7a2d795d79cd79d-d7a2d79c-d7a4d799-d79ed795d7a1d7a7d791d794-d79ed79cd797d79ed794-d794d799d791d7a8d799d793d799d7aa.mp3" length="41424679" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1396</post-id>	</item>
@@ -3312,7 +3283,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרקים הקרובים אנו צוללים לעולם של הגיאוסטרטגיה הרוסית ומעלים משם אוצרות חבויים. ובפרק היום - האם ארה&quot;ב היא לא הגולם החביב שכולנו חושבים שהיא?&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2018/02/24/%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%a2%d7%9c-%d7%a4%d7%99-%d7%9e%d7%95%d7%a1%d7%a7%d7%91%d7%94-%d7%90%d7%99%d7%9e%d7%a4%d7%a8%d7%99%d7%95%d7%9d-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%a0%d7%95%d7%9d/&quot;&gt;פרק 19 – העולם על-פי מוסקבה: אימפריום אמריקנום&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2018/02/d794d7a2d795d79cd79d-d7a2d79c-d7a4d799-d79ed795d7a1d7a7d791d794-d790d799d79ed7a4d7a8d799d795d79d-d790d79ed7a8d799d7a7d7a0d795d79d.mp3" length="37402935" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>37:11</itunes:duration>
@@ -3346,7 +3316,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. להאזנה ב-itunes – קישור. בפרק היום אנו שבים אל איראן ומשמרות המהפכה, היריב הכי גדול שלנו כיום. עם הרקע הנחוץ על מבנה הכוח באיראן ועל החלום הסיני, נוכל סוף-סוף לשרטט את עתידה של המדינה: אם להיות מעצמה מרכז אסיאתית החיה בשלום עם העולם, או אם להיכנס למלחמה לא רק איתנו, אלא […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/12/30/%d7%90%d7%99%d7%a8%d7%90%d7%9f-%d7%9c%d7%90%d7%9f/&quot;&gt;פרק 18 – איראן לאן?&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/12/d790d799d7a8d790d79f-d79cd790d79f.mp3" length="39377429" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1388</post-id>	</item>
@@ -3374,7 +3343,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;איך צרכנות סינית עומדת לשנות את העולם, וכיצד היא כבר עשתה זאת באפריקה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/11/18/%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%94%d7%95%d7%90-%d7%a9%d7%97%d7%95%d7%a8/&quot;&gt;פרק 17 – העתיד הוא שחור&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/11/d794d7a2d7aad799d793-d794d795d790-d7a9d797d795d7a8.mp3" length="32002481" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1382</post-id>	</item>
@@ -3394,7 +3362,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;איך כוח הפך להיות מילת המפתח בפוליטיקה המודרנית, גם הפנימית וגם זו של מדיניות החוץ? בפרק הלא ענייני היום נדבר על הפילוסופיה של בית הקלפים ומה אפשר ללמוד על הפוליטיקה של ימינו דרך המראה שמעמידה הסדרה מולנו.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/10/21/%d7%a4%d7%a8%d7%a7-%d7%9c%d7%90-%d7%a2%d7%a0%d7%99%d7%99%d7%a0%d7%99-%d7%94%d7%a4%d7%99%d7%9c%d7%95%d7%a1%d7%95%d7%a4%d7%99%d7%94-%d7%a9%d7%9c-%d7%91%d7%99%d7%aa-%d7%94%d7%a7%d7%9c%d7%a4%d7%99%d7%9d/&quot;&gt;פרק לא ענייני: הפילוסופיה של בית הקלפים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/10/d7a4d7a8d7a7-d79cd790-d7a2d7a0d799d799d7a0d799-d794d7a4d799d79cd795d7a1d795d7a4d799d794-d7a9d79c-d791d799d7aa-d794d7a7d79cd7a4d799d79d.mp3" length="29401494" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1351</post-id>	</item>
@@ -3422,7 +3389,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;הפרק היום היה אמור להיות על המלחמה בסוריה ולאן אני חוזה שתתקדם. אבל מפעם לפעם קורה שלא אני כותב את הפרק, אלא הפרק כותב את עצמו. בפרק היום לא נדבר על סוריה, אלא על השחקנית הכי חשובה במזרח התיכון – איראן. ונדבר לא על היכולות הצבאיות שלה, או קמפיין הטרור שלה, אלא על משהו הרבה יותר מהותי – על העובדה שאין איראן אחת, אלא שתיים. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/10/12/%d7%93%d7%99%d7%a7%d7%98%d7%98%d7%95%d7%a8%d7%94-%d7%91%d7%9e%d7%a1%d7%95%d7%95%d7%94-%d7%9e%d7%91%d7%a0%d7%94-%d7%94%d7%9b%d7%95%d7%97-%d7%a9%d7%9c-%d7%90%d7%99%d7%a8%d7%90%d7%9f/&quot;&gt;פרק 16 – דיקטטורה במסווה: מבנה הכוח של איראן&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="http://media.blubrry.com/greatgame/feedlydd.files.wordpress.com/2017/10/d793d799d7a7d798d798d795d7a8d794-d791d79ed7a1d795d795d794-d79ed791d7a0d794-d794d79bd795d797-d791d790d799d7a8d790d79f.mp3" length="178" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1341</post-id>	</item>
@@ -3451,7 +3417,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;בפרק היום נעסוק במלחמה הארוכה ביותר של ארה&quot;ב, נדבר על מכרות נחושת שוממים ואיך הטאליבן – מארגוני הטרור המושמצים בעולם – זוכה לבעלי ברית באסלאמאבאד, טהרן ואפילו מוסקבה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/09/01/%d7%94%d7%90%d7%aa%d7%92%d7%a8-%d7%90%d7%a4%d7%92%d7%a0%d7%99%d7%a1%d7%98%d7%9f/&quot;&gt;פרק 15 – האתגר: אפגניסטן&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/09/d794d790d7aad792d7a8-d790d7a4d792d7a0d799d7a1d798d79f.mp3" length="33678895" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1282</post-id>	</item>
@@ -3478,7 +3443,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;לכבוד הביקור ההיסטורי של ראש ממשלת הודו החודש, הפרק יוקדש לדמוקרטיה הגדולה בעולם – הודו. מהי המציאות הגיאופוליטית של הודו? מה החשיבות שלה במשחק הגדול? מה האתגרים איתם היא מתמודדות? ואיך מדינת ישראל יכולה לעזור בהן? כל זאת ועוד בפרק היום. בואו נתחיל.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/07/29/%d7%94%d7%a2%d7%a0%d7%a7-%d7%94%d7%90%d7%a1%d7%99%d7%90%d7%aa%d7%99-%d7%94%d7%90%d7%97%d7%a8/&quot;&gt;פרק 14 – הענק האסיאתי האחר&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/07/d794d7a2d7a0d7a7-d794d790d7a1d799d790d7aad799-d794d790d797d7a8.mp3" length="25629021" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1271</post-id>	</item>
@@ -3507,7 +3471,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;הפרק היום מוקדש לאחת המדינות המוזרות בתבל: יפן. נדבר על חוקת יפן, האיזון הדרוש במזרח אסיה ואיך טראמפ יכול להיות מתנה לראש ממשלת יפן שינזו אבה.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/06/10/%d7%94%d7%a9%d7%9e%d7%a9-%d7%a9%d7%95%d7%91-%d7%a2%d7%95%d7%9c%d7%94/&quot;&gt;פרק 13 – השמש שוב עולה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/06/d7a9d795d791-d794d7a9d79ed7a9-d7a2d795d79cd794.mp3" length="32062663" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1241</post-id>	</item>
@@ -3540,7 +3503,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;האביב הגיע, הטבע פורח, טראמפ מצייץ והגיע הזמן לבחון את התרומה שיכולה להיות לו במשחק הגדול. בפרק היום נעסוק בדרישה שלו שבעלות הברית של ארה&quot;ב &quot;צריכות לשלם&quot;, נתהה למה אירופה הפכה למדינת חסות ונבין מה הקשר בין הסדר הליבראלי והעצמות בגוף שלנו. &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/04/22/%d7%94%d7%a2%d7%a6%d7%9e%d7%95%d7%aa-%d7%a9%d7%9c-%d7%90%d7%99%d7%a8%d7%95%d7%a4%d7%94/&quot;&gt;פרק 12 – העצמות של אירופה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/04/d794d7a2d7a6d79ed795d7aa-d7a9d79c-d790d799d7a8d795d7a4d794.mp3" length="25577789" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1230</post-id>	</item>
@@ -3570,7 +3532,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;מדוע המזרח התיכון קורס? ומה ישראל יכולה לעשות בנידון? הסתכלות היסטורית-גיאוגרפית, בשביל לשרטט את עתיד המזרח התיכון.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/03/25/%d7%9b%d7%97%d7%95%d7%9c-%d7%9c%d7%91%d7%9f-%d7%a2%d7%95%d7%9c%d7%94/&quot;&gt;פרק 11 – כחול לבן עולה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/03/d79bd797d795d79c-d79cd791d79f-d7a2d795d79cd794.mp3" length="29682769" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1182</post-id>	</item>
@@ -3604,7 +3565,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 ביחד נצלול למשחק בין גיאוגרפיה ופוליטיקה (הבסיס לגיאופוליטיקה) ומשם נעלה ונביט על העולם כולו כמערכת גיאופוליטית אחת. נבין מדוע האמריקאים ניהלו מלחמות נגד בריה&quot;מ בוויטנאם ונשרטט את הקווים לסדר העולמי החדש שמתחיל להופיע.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2017/02/10/%d7%94%d7%90%d7%99-%d7%94%d7%a2%d7%95%d7%9c%d7%9e%d7%99/&quot;&gt;פרק 10 – האי העולמי&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2017/02/d794d790d799-d794d7a2d795d79cd79ed799.mp3" length="24634828" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1068</post-id>	</item>
@@ -3632,7 +3592,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;  להורדת הפרק – קישור. רוסיה. סין. ארה”ב. אם תפתחו את מהדורות החדשות, תקראו באתרים, התמונה שתעלה היא של שקיעה ועלייה – ארה”ב, מעצמת העל היחידה, שוקעת, בעוד סין ורוסיה עולות. ארה”ב מפסידה בסוריה ועיראק, במזרח אירופה ומזרח אסיה, בעוד סין ורוסיה מנצחות. לכאורה, אנו בפתחו של עידן חדש, עידן של סדר אירו-אסיאתי בהובלת סין […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/12/26/%d7%90%d7%99-%d7%a1%d7%93%d7%a8-%d7%a2%d7%95%d7%9c%d7%9e%d7%99-%d7%97%d7%93%d7%a9/&quot;&gt;פרק 9 – אי-סדר עולמי חדש&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/12/d790d799-d7a1d793d7a8-d7a2d795d79cd79ed799-d797d793d7a9.mp3" length="26180694" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1059</post-id>	</item>
@@ -3652,7 +3611,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/11/12/%d7%a4%d7%95%d7%93%d7%a7%d7%a1%d7%98-%d7%91%d7%96%d7%a7-%d7%9e%d7%97%d7%a9%d7%91%d7%94-%d7%a2%d7%9c-%d7%98%d7%a8%d7%90%d7%9e%d7%a4/&quot;&gt;פודקסט-בזק: מחשבה על טראמפ&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/11/d79ed797d7a9d791d794-d7a2d79c-d798d7a8d790d79ed7a4.mp3" length="6342563" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">1055</post-id>	</item>
@@ -3677,7 +3635,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדה ישירה של הפרק – קישור. “רק לשחקן בעל היוזמה יש את הזכות לתקוף” אמר וילהלם שטייניץ, אלוף השחמט העולמי הראשון. בפרק היום נשתמש בשניים ממשחקי הלוח הכי פופולאריים בעולם: שחמט ומונופול בשביל להסביר למה ארה”ב מאבדת נקודות, בעוד רוסיה עושה את כל המהלכים. בואו נתחיל. “שואה” היא מילה שנאמרה הרבה מאז ספטמבר האחרון. “יש […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/11/05/%d7%a9%d7%97%d7%9e%d7%98-%d7%a8%d7%95%d7%a1%d7%99/&quot;&gt;פרק 8 – שחמט רוסי&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/11/פרק-8-שחמט-רוסי.mp3" length="24726599" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">970</post-id>	</item>
@@ -3703,7 +3660,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. קישורים שימושיים: מפה של צפון-מזרח-אסיה ריצ’ארד הס והבעיה הצפון קוריאנית ה-5 בספטמבר 2016 היה אמור להיות היום של סין. התכנסות ה-G20, הפורום של הכלכלות החזקת בעולם, היה אמור להיות סמל למעמד הרפובליקה העממית. על-אף הסכסוך בים סין הדרומי והמזרחי, על-אף האטה בכלכלה – כנס ה-G20 היה מוכיח שסין עדיין יכולה להיות […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/09/30/%d7%95%d7%aa%d7%95%d7%93%d7%94-%d7%9c%d7%a7%d7%99%d7%9d-%d7%9c%d7%9e%d7%94-%d7%90%d7%a8%d7%94%d7%91-%d7%91%d7%a2%d7%93-%d7%a6-%d7%a7%d7%95%d7%a8%d7%99%d7%90%d7%94-%d7%92%d7%a8%d7%a2%d7%99%d7%a0/&quot;&gt;פרק 7 – ותודה לקים! למה ארה”ב בעד צ. קוריאה גרעינית&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/09/d795d7aad795d793d794-d79cd7a7d799d79d.mp3" length="22274048" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">960</post-id>	</item>
@@ -3727,7 +3683,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדה ישירה – קישור. בפרק הקודם דיברנו על שלושת כללי הכוח של יחסים בינלאומיים: א’ כוח קשה ערכו גדול יותר מכוח רך, ב’ מי שיש לו מוכנות להשתמש בו ינצח ו-ג’ מה שאינו משפיע על מאזן הכוח הוא לא מעניין. יישמנו את הכללים לאירועים אקטואליים וראינו כיצד לפשט מצב בעזרת מאזן הכוח הקשה. בפרק היום […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/09/03/%d7%a2%d7%9c-%d7%a8%d7%95%d7%9e%d7%90%d7%99%d7%9d-%d7%95%d7%97%d7%a9%d7%9e%d7%95%d7%a0%d7%90%d7%99%d7%9d/&quot;&gt;פרק 6 – על רומאים וחשמונאים&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/09/d7a8d795d79ed790d799d79d-d795d797d7a9d79ed795d7a0d790d799d79d.mp3" length="18716767" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">957</post-id>	</item>
@@ -3752,7 +3707,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. מאמר מלווה: חברים. חם. ולא רק מבחינת הטמפרטורות: ניסיון ההפיכה בטורקיה, הטרור באירופה והסכסוך בים סין הדרומי הן כולן סוגיות בוערות. אבל דווקא כשהחום עולה, כדאי לקחת צעד אחורה ולנסות ולהבין את התמונה הגדולה. מהם העקרונות השולטים ביחסים בינלאומיים? אלו שיקולים עושות מדינות במדיניות החוץ שלהן? ולמה כדאי להקדיש תשומת לב […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/07/30/%d7%a9%d7%9c%d7%95%d7%a9%d7%aa-%d7%9b%d7%9c%d7%9c%d7%99-%d7%94%d7%9b%d7%95%d7%97-%d7%a9%d7%9c-%d7%94%d7%9e%d7%a9%d7%97%d7%a7-%d7%94%d7%92%d7%93%d7%95%d7%9c/&quot;&gt;פרק 5 – שלושת כללי הכוח של המשחק הגדול&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/07/d7a9d79cd795d7a9d7aa-d79bd79cd79cd799-d794d79bd795d797-d7a9d79c-d794d79ed7a9d797d7a7-d794d792d793d795d79c.mp3" length="18276678" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">950</post-id>	</item>
@@ -3778,7 +3732,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. מפה של האוקיינוס הארקטי. דוגמה של בוקעת קרח. הבנייה הצבאית של רוסיה בחוג הארקטי. מאמר נלווה: חודש מאי האחרון הוכרז “כחודש החם בהיסטוריה”, עם טמפ’ ממוצעת גבוהה בכמעט 0.9 מעלות צלזיוס מהממוצע של המאה האחרונה. כולנו שמענו על זה – במהדורת החדשות, בעיתונים, באינטרנט. כולם הצביעו על הידיעה כעוד הוכחה “שהנה! כדור […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/07/02/%d7%9e%d7%97%d7%a4%d7%a9%d7%99%d7%9d-%d7%a0%d7%a4%d7%98-%d7%90%d7%a6%d7%9c-%d7%a1%d7%a0%d7%98%d7%94/&quot;&gt;פרק 4 – מחפשים נפט אצל סנטה&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/07/d794d7a6d7a4d795d79f-d7a0d7a4d7aad797.mp3" length="19440654" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">898</post-id>	</item>
@@ -3804,7 +3757,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. לינקים שימושיים: מערכת הסייבר נגד גיאורגיה – סקירה של ה-CCU על המערכה נגד גיאורגיה, בדגש על ההכנה המוקדמת שנעשתה והסינכרון בין התקיפה הצבאית הפיזית ומתקפת הסייבר. חייל הברונזה של טלין מפה של מזרח אירופה  &lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/05/27/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%a1%d7%99%d7%99%d7%91%d7%a8-%d7%90%d7%99%d7%9a-%d7%a0%d7%a8%d7%90%d7%aa-%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%a9%d7%9c-%d7%90%d7%aa%d7%9e%d7%95%d7%9c/&quot;&gt;פרק 3 – מלחמת סייבר: איך נראת המלחמה של אתמול?&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/05/d79cd795d797d79ed7aa-d7a1d799d799d791d7a8.mp3" length="34221783" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">889</post-id>	</item>
@@ -3830,7 +3782,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;להורדת הפרק – קישור. לינקים שימושיים: מספר הלוחמים הזרים בסוריה ועיראק, כולל ארצות מקור – מצרפת יצאו 1,700 איש וחזרו 250. מה יקרה כשלרוסיה וסעודיה יחזרו מעל 2,000 טרוריסטים? רוסיה שולחת את הג’יאהדיסטים שלה לסוריה מתקפות הטרור בצפון הקווקאז ירדו ב-50% – מעניין למה. רקע על המדינה האיסלאמית – מאמר שעושה הרבה סדר בכל מה שקשור […]&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/04/21/%d7%91%d7%a2%d7%93-%d7%93%d7%90%d7%a2%d7%a9/&quot;&gt;פרק 2 – תנו לדאע”ש לכסח&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/04/d7aad7a0d795-d79cd793d790d7a2d7a9-d79cd79bd7a1d797.mp3" length="23884822" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 <post-id xmlns="com-wordpress:feed-additions:1">833</post-id>	</item>
@@ -3854,7 +3805,6 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 		<description>&lt;p&gt;ים סין הדרומי הוא ״הים הקריבי״ של סין. אם תצליח לשלוט בו, הוא יפתח את דרכה להפוך להגמון אירו-אסיאתי.&lt;/p&gt;
 &lt;p&gt;פורסם לראשונה ב-&lt;a href=&quot;https://greatgame.blog/2016/03/26/%d7%94%d7%9e%d7%90%d7%91%d7%a7-%d7%9c%d7%a2%d7%95%d7%a6%d7%9e%d7%94-%d7%99%d7%9d-%d7%a1%d7%99%d7%9f-%d7%94%d7%93%d7%a8%d7%95%d7%9e%d7%99-%d7%95%d7%a2%d7%aa%d7%99%d7%93%d7%94-%d7%a9%d7%9c-%d7%a1%d7%99/&quot;&gt;ים סין הדרומי ועתידה של סין (פרק 1)&lt;/a&gt;&lt;/p&gt;</description>
 		<enclosure url="https://media.blubrry.com/greatgame/greatgame.blog/wp-content/uploads/2016/03/d799d79d-d7a1d799d79f-d794d793d7a8d795d79ed799.mp3" length="20722992" type="audio/mpeg" />
-		<itunes:author>ניצן דוד פוקס</itunes:author>
 		<itunes:image href="https://greatgame.blog/wp-content/uploads/2024/11/pod_logo.jpg" />
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>21:35</itunes:duration>
