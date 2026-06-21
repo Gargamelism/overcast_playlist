@@ -15,7 +15,7 @@
     <atom:link href="https://feed.podbean.com/HDSR/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://HDSR.podbean.com</link>
     <description>Brought to you by the award winning journal, Harvard Data Science Review, our podcast highlights news, policy, and business through the lens of data science. Each episode is a “case study” into how data is used to lead, mislead, manipulate, and inform the important decisions facing us today.</description>
-    <pubDate>Fri, 27 Feb 2026 14:06:51 -0500</pubDate>
+    <pubDate>Sun, 31 May 2026 20:36:54 -0400</pubDate>
     <generator>https://podbean.com/?v=5.5</generator>
     <language>en</language>
         <copyright>Copyright 2021 All rights reserved.</copyright>
@@ -41,6 +41,138 @@
         <width>144</width>
         <height>144</height>
     </image>
+    <item>
+        <title>The Judgment of Paris at 50: Wine, Wisdom, and What We Still Don’t Know</title>
+        <itunes:title>The Judgment of Paris at 50: Wine, Wisdom, and What We Still Don’t Know</itunes:title>
+        <link>https://HDSR.podbean.com/e/the-judgment-of-paris-at-50-wine-wisdom-and-what-we-still-don-t-know/</link>
+                    <comments>https://HDSR.podbean.com/e/the-judgment-of-paris-at-50-wine-wisdom-and-what-we-still-don-t-know/#comments</comments>        <pubDate>Sun, 31 May 2026 20:36:54 -0400</pubDate>
+        <guid isPermaLink="false">HDSR.podbean.com/cb450adb-9ffa-3c18-a4c0-ffa0f657891f</guid>
+                                    <description><![CDATA[<p>This month’s episode of the Harvard Data Science Review Podcast uncorks the fascinating intersection of wine, judgment, and data science. Economist and wine expert Orley Ashenfelter and Master of Wine Susan Lin join us to explore the enduring legacy of the 1976 “Judgment of Paris,” the blind tasting that reshaped perceptions of wine quality and transformed the global wine industry.</p>
+<p> From statistical analysis of wine rankings to the psychology of taste perception, the conversation examines how experts evaluate wine and why even trained judges often disagree. Ashenfelter reflects on decades of wine tasting data and the role of probability, humility, and climate modeling in understanding wine quality, while Lin shares insights from her groundbreaking research on how music influences the perception of champagne.</p>
+<p>Together, they explore the complex relationship between sensory experience, human judgment, and data, revealing that wine may be as much about context, memory, and emotion as it is about chemistry and statistics.</p>
+<p>Our guests:</p>
+<ul>
+<li style="font-weight:400;">Orley Ashenfelter is the Joseph Douglas Green 1895 Professor of Economics at Princeton University, transferred to emeritus status in 2024. Orley is known for his seminal research in labor economics, econometrics, and law and economics</li>
+<li style="font-weight:400;">Susan R. Lin is a Master of Wine and a Master of Fine Arts in Classical Piano and Musicology. She creates memorable experiences through music and wine.</li>
+</ul>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>This month’s episode of the <em>Harvard Data Science Review Podcast</em> uncorks the fascinating intersection of wine, judgment, and data science. Economist and wine expert Orley Ashenfelter and Master of Wine Susan Lin join us to explore the enduring legacy of the 1976 “Judgment of Paris,” the blind tasting that reshaped perceptions of wine quality and transformed the global wine industry.</p>
+<p> From statistical analysis of wine rankings to the psychology of taste perception, the conversation examines how experts evaluate wine and why even trained judges often disagree. Ashenfelter reflects on decades of wine tasting data and the role of probability, humility, and climate modeling in understanding wine quality, while Lin shares insights from her groundbreaking research on how music influences the perception of champagne.</p>
+<p>Together, they explore the complex relationship between sensory experience, human judgment, and data, revealing that wine may be as much about context, memory, and emotion as it is about chemistry and statistics.</p>
+<p>Our guests:</p>
+<ul>
+<li style="font-weight:400;">Orley Ashenfelter is the Joseph Douglas Green 1895 Professor of Economics at Princeton University, transferred to emeritus status in 2024. Orley is known for his seminal research in labor economics, econometrics, and law and economics</li>
+<li style="font-weight:400;">Susan R. Lin is a Master of Wine and a Master of Fine Arts in Classical Piano and Musicology. She creates memorable experiences through music and wine.</li>
+</ul>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/d8gijfqxcmitb2mr/HDSR_052026_FIX_Notitle.mp3" length="42781683" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[This month’s episode of the Harvard Data Science Review Podcast uncorks the fascinating intersection of wine, judgment, and data science. Economist and wine expert Orley Ashenfelter and Master of Wine Susan Lin join us to explore the enduring legacy of the 1976 “Judgment of Paris,” the blind tasting that reshaped perceptions of wine quality and transformed the global wine industry.
+ From statistical analysis of wine rankings to the psychology of taste perception, the conversation examines how experts evaluate wine and why even trained judges often disagree. Ashenfelter reflects on decades of wine tasting data and the role of probability, humility, and climate modeling in understanding wine quality, while Lin shares insights from her groundbreaking research on how music influences the perception of champagne.
+Together, they explore the complex relationship between sensory experience, human judgment, and data, revealing that wine may be as much about context, memory, and emotion as it is about chemistry and statistics.
+Our guests:
+
+Orley Ashenfelter is the Joseph Douglas Green 1895 Professor of Economics at Princeton University, transferred to emeritus status in 2024. Orley is known for his seminal research in labor economics, econometrics, and law and economics
+Susan R. Lin is a Master of Wine and a Master of Fine Arts in Classical Piano and Musicology. She creates memorable experiences through music and wine.
+]]></itunes:summary>
+        <itunes:author>Harvard Data Science Review</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>1781</itunes:duration>
+                <itunes:episode>65</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>What Can We Learn From The Histories of AI:  A Conversation With Stephanie Dick</title>
+        <itunes:title>What Can We Learn From The Histories of AI:  A Conversation With Stephanie Dick</itunes:title>
+        <link>https://HDSR.podbean.com/e/what-can-we-learn-from-the-histories-of-ai-a-conversation-with-stephanie-dick/</link>
+                    <comments>https://HDSR.podbean.com/e/what-can-we-learn-from-the-histories-of-ai-a-conversation-with-stephanie-dick/#comments</comments>        <pubDate>Thu, 30 Apr 2026 14:48:31 -0400</pubDate>
+        <guid isPermaLink="false">HDSR.podbean.com/8bc826ea-c188-3bed-922f-dc8d4d5c2d91</guid>
+                                    <description><![CDATA[<p>What can history teach us about today’s AI revolution? In this month’s episode of the Harvard Data Science Review Podcast, we are joined by Stephanie Dick, a historian of science and technology, to explore how past ideas about knowledge and intelligence shape today’s AI systems. </p>
+<p>Drawing on examples from early AI, including facial recognition and police databanks, Dick shows that technical decisions are never purely technical—they reflect assumptions about knowledge, people, and power. Tracing AI through three historical “acts,” she challenges the idea that contemporary AI systems represent a clean break from the past.</p>
+<p>Dick also questions the pursuit of artificial general intelligence, emphasizing instead that intelligence is plural, embodied, and fundamentally relational.</p>
+<p>This conversation offers a fresh perspective for anyone building, studying, or thinking about AI today.</p>
+<p>Our guest:</p>
+<ul>
+<li style="font-weight:400;">Stephanie Dick is an historian, speaker, and writer who works at the intersections of mathematics, computing, and artificial Intelligence. She is also an assistant professor in the School of Communication at Simon Fraser University and the co-editor of HDSR’s <a href='https://hdsr.mitpress.mit.edu/mining-the-past'>Mining the Past</a> column. </li>
+</ul>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>What can history teach us about today’s AI revolution? In this month’s episode of the <em>Harvard Data Science Review </em>Podcast, we are joined by Stephanie Dick, a historian of science and technology, to explore how past ideas about knowledge and intelligence shape today’s AI systems. </p>
+<p>Drawing on examples from early AI, including facial recognition and police databanks, Dick shows that technical decisions are never purely technical—they reflect assumptions about knowledge, people, and power. Tracing AI through three historical “acts,” she challenges the idea that contemporary AI systems represent a clean break from the past.</p>
+<p>Dick also questions the pursuit of artificial general intelligence, emphasizing instead that intelligence is plural, embodied, and fundamentally relational.</p>
+<p>This conversation offers a fresh perspective for anyone building, studying, or thinking about AI today.</p>
+<p>Our guest:</p>
+<ul>
+<li style="font-weight:400;">Stephanie Dick is an historian, speaker, and writer who works at the intersections of mathematics, computing, and artificial Intelligence. She is also an assistant professor in the School of Communication at Simon Fraser University and the co-editor of <em>HDSR’</em>s <a href='https://hdsr.mitpress.mit.edu/mining-the-past'>Mining the Past</a> column. </li>
+</ul>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/zv6kiz37bf7qjsrr/HDSR_042026_Final.mp3" length="64676226" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[What can history teach us about today’s AI revolution? In this month’s episode of the Harvard Data Science Review Podcast, we are joined by Stephanie Dick, a historian of science and technology, to explore how past ideas about knowledge and intelligence shape today’s AI systems. 
+Drawing on examples from early AI, including facial recognition and police databanks, Dick shows that technical decisions are never purely technical—they reflect assumptions about knowledge, people, and power. Tracing AI through three historical “acts,” she challenges the idea that contemporary AI systems represent a clean break from the past.
+Dick also questions the pursuit of artificial general intelligence, emphasizing instead that intelligence is plural, embodied, and fundamentally relational.
+This conversation offers a fresh perspective for anyone building, studying, or thinking about AI today.
+Our guest:
+
+Stephanie Dick is an historian, speaker, and writer who works at the intersections of mathematics, computing, and artificial Intelligence. She is also an assistant professor in the School of Communication at Simon Fraser University and the co-editor of HDSR’s Mining the Past column. 
+]]></itunes:summary>
+        <itunes:author>Harvard Data Science Review</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2693</itunes:duration>
+                <itunes:episode>64</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
+    <item>
+        <title>Spiritual Enlightenment and AI Enhancement: Can They Align?</title>
+        <itunes:title>Spiritual Enlightenment and AI Enhancement: Can They Align?</itunes:title>
+        <link>https://HDSR.podbean.com/e/spiritual-enlightenment-and-ai-enhancement-can-they-align/</link>
+                    <comments>https://HDSR.podbean.com/e/spiritual-enlightenment-and-ai-enhancement-can-they-align/#comments</comments>        <pubDate>Mon, 30 Mar 2026 14:27:33 -0400</pubDate>
+        <guid isPermaLink="false">HDSR.podbean.com/f4a4893b-ae4d-30a1-bb5d-35bb144c3b27</guid>
+                                    <description><![CDATA[<p>In this month’s episode of the Harvard Data Science Review Podcast, we explore a timeless yet increasingly urgent question: What does it mean to flourish as a human being in an age of artificial intelligence?</p>
+<p>We are joined by experts Noreen Herzfeld and Tyler VanderWeele, who together bring empirical, philosophical, and theological perspectives to a wide-ranging conversation on human well-being, relationships, and the role of technology in each.</p>
+<p>The guests examine whether AI can support human flourishing—or whether it may erode the very capacities that make flourishing possible. They discuss the limits of AI in addressing deeper human longings for meaning and transcendence, the risks of replacing human connection with artificial interaction, and the ethical responsibilities of developers in shaping these tools.</p>
+<p>This episode invites listeners to reflect on what it truly means to live well in a technological age. Join in and add your voice to the conversation.</p>
+<p>The episode also highlights Dr. VanderWeele’s recent Psychology Today article, <a href='https://www.psychologytoday.com/us/blog/human-flourishing/202603/can-we-remain-human-in-the-age-of-ai'>“Can We Remain Human in the Age of AI”</a> and Dr. Herzfeld’s <a href='https://www.csbsju.edu/sot/person/noreen-herzfeld/'>recent writings</a>.</p>
+<p>Our guests:</p>
+<ul>
+<li style="font-weight:400;">Noreen Herzfeld is the director of the Benedictine Spirituality and the Environment program at Saint John’s School of Theology and Seminary.</li>
+<li style="font-weight:400;">Tyler VanderWeele is the John L. Loeb and Frances Lehman Loeb Professor of Epidemiology and the director of the Human Flourishing Program and the co-director of the Initiative on Health, Spirituality, and Religion at Harvard University.</li>
+</ul>
+<p> </p>
+]]></description>
+                                                            <content:encoded><![CDATA[<p>In this month’s episode of the <em>Harvard Data Science Review </em>Podcast, we explore a timeless yet increasingly urgent question: What does it mean to flourish as a human being in an age of artificial intelligence?</p>
+<p>We are joined by experts Noreen Herzfeld and Tyler VanderWeele, who together bring empirical, philosophical, and theological perspectives to a wide-ranging conversation on human well-being, relationships, and the role of technology in each.</p>
+<p>The guests examine whether AI can support human flourishing—or whether it may erode the very capacities that make flourishing possible. They discuss the limits of AI in addressing deeper human longings for meaning and transcendence, the risks of replacing human connection with artificial interaction, and the ethical responsibilities of developers in shaping these tools.</p>
+<p>This episode invites listeners to reflect on what it truly means to live well in a technological age. Join in and add your voice to the conversation.</p>
+<p>The episode also highlights Dr. VanderWeele’s recent Psychology Today article, <a href='https://www.psychologytoday.com/us/blog/human-flourishing/202603/can-we-remain-human-in-the-age-of-ai'>“Can We Remain Human in the Age of AI”</a> and Dr. Herzfeld’s <a href='https://www.csbsju.edu/sot/person/noreen-herzfeld/'>recent writings</a>.</p>
+<p>Our guests:</p>
+<ul>
+<li style="font-weight:400;">Noreen Herzfeld is the director of the Benedictine Spirituality and the Environment program at Saint John’s School of Theology and Seminary.</li>
+<li style="font-weight:400;">Tyler VanderWeele is the John L. Loeb and Frances Lehman Loeb Professor of Epidemiology and the director of the Human Flourishing Program and the co-director of the Initiative on Health, Spirituality, and Religion at Harvard University.</li>
+</ul>
+<p> </p>
+]]></content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/qd2wgt6y4y3g9k6x/HDSR_March_Mix7rh66.mp3" length="49085976" type="audio/mpeg"/>
+        <itunes:summary><![CDATA[In this month’s episode of the Harvard Data Science Review Podcast, we explore a timeless yet increasingly urgent question: What does it mean to flourish as a human being in an age of artificial intelligence?
+We are joined by experts Noreen Herzfeld and Tyler VanderWeele, who together bring empirical, philosophical, and theological perspectives to a wide-ranging conversation on human well-being, relationships, and the role of technology in each.
+The guests examine whether AI can support human flourishing—or whether it may erode the very capacities that make flourishing possible. They discuss the limits of AI in addressing deeper human longings for meaning and transcendence, the risks of replacing human connection with artificial interaction, and the ethical responsibilities of developers in shaping these tools.
+This episode invites listeners to reflect on what it truly means to live well in a technological age. Join in and add your voice to the conversation.
+The episode also highlights Dr. VanderWeele’s recent Psychology Today article, “Can We Remain Human in the Age of AI” and Dr. Herzfeld’s recent writings.
+Our guests:
+
+Noreen Herzfeld is the director of the Benedictine Spirituality and the Environment program at Saint John’s School of Theology and Seminary.
+Tyler VanderWeele is the John L. Loeb and Frances Lehman Loeb Professor of Epidemiology and the director of the Human Flourishing Program and the co-director of the Initiative on Health, Spirituality, and Religion at Harvard University.
+
+ ]]></itunes:summary>
+        <itunes:author>Harvard Data Science Review</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>2044</itunes:duration>
+                <itunes:episode>63</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item>
     <item>
         <title>Better Data, Better Date?</title>
         <itunes:title>Better Data, Better Date?</itunes:title>
