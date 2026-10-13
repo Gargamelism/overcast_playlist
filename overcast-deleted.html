@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en" color-mode="user">
+
+<head>
+    <link rel="icon" href="https://overcast.fm/favicon.ico">
+    <style>
+        /* MVP.css v1.15 - https://github.com/andybrewer/mvp */
+
+:root {
+    --active-brightness: 0.85;
+    --border-radius: 5px;
+    --box-shadow: 0 2px 5px;
+    --color-accent: #118bee15;
+    --color-bg: #fff;
+    --color-bg-secondary: #e9e9e9;
+    --color-link: #118bee;
+    --color-secondary: #920de9;
+    --color-secondary-accent: #920de90b;
+    --color-shadow: #d4d4d4;
+    --color-table: #118bee;
+    --color-text: #000;
+    --color-text-secondary: #999;
+    --color-scrollbar: #e9e9e9;
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --hover-brightness: 1.2;
+    --justify-important: center;
+    --justify-normal: left;
+    --line-height: 1.5;
+    --width-card: 285px;
+    --width-card-medium: 460px;
+    --width-card-wide: 800px;
+    --width-content: 1024px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root[color-mode="user"] {
+        --color-accent: #0097fc4f;
+        --color-bg: #333;
+        --color-bg-secondary: #555;
+        --color-link: #0097fc;
+        --color-secondary: #e20de9;
+        --color-secondary-accent: #e20de94f;
+        --color-shadow: #bbbbbb20;
+        --color-table: #0097fc;
+        --color-text: #f7f7f7;
+        --color-text-secondary: #aaa;
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}
+
+/* Layout */
+article aside {
+    background: var(--color-secondary-accent);
+    border-left: 4px solid var(--color-secondary);
+    padding: 0.01rem 0.8rem;
+}
+
+body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-family);
+    line-height: var(--line-height);
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+}
+
+footer,
+header,
+main {
+    margin: 0 auto;
+    max-width: var(--width-content);
+    padding: 1rem 1rem;
+}
+
+hr {
+    background-color: var(--color-bg-secondary);
+    border: none;
+    height: 1px;
+    margin: 2rem 0;
+    width: 100%;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section img,
+article img {
+    width: var(--width-card);
+    height: var(--width-card);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    margin: 0.5em 1em 0 0;
+}
+
+section > div {
+    display: flex;
+}
+
+section pre {
+    overflow: auto;
+}
+
+section aside {
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    margin: 1rem;
+    padding: 1.25rem;
+    width: var(--width-card);
+}
+
+section aside:hover {
+    box-shadow: var(--box-shadow) var(--color-bg-secondary);
+}
+
+[hidden] {
+    display: none;
+}
+
+/* Headers */
+article header,
+div header,
+main header {
+    padding-top: 0;
+}
+
+header {
+    text-align: var(--justify-important);
+}
+
+header a b,
+header a em,
+header a i,
+header a strong {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+header nav img {
+    margin: 1rem 0;
+}
+
+section header {
+    padding-top: 0;
+    width: 100%;
+}
+
+/* Nav */
+nav {
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+    margin-bottom: 7rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 0.5rem;
+    position: relative;
+    text-align: left;
+}
+
+/* Nav Dropdown */
+nav ul li:hover ul {
+    display: block;
+}
+
+nav ul li ul {
+    background: var(--color-bg);
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    display: none;
+    height: auto;
+    left: -2px;
+    padding: .5rem 1rem;
+    position: absolute;
+    top: 1.7rem;
+    white-space: nowrap;
+    width: auto;
+    z-index: 1;
+}
+
+nav ul li ul::before {
+    /* fill gap above to make mousing over them easier */
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -0.5rem;
+    height: 0.5rem;
+}
+
+nav ul li ul li,
+nav ul li ul li a {
+    display: block;
+}
+
+/* Typography */
+code,
+samp {
+    background-color: var(--color-accent);
+    border-radius: var(--border-radius);
+    color: var(--color-text);
+    display: inline-block;
+    margin: 0 0.1rem;
+    padding: 0 0.5rem;
+}
+
+details {
+    margin: 1.3rem 0;
+}
+
+details summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: var(--line-height);
+    text-wrap: balance;
+}
+main > h1 {
+    margin-left: 1.5em;
+}
+
+main > h1::before {
+    content: "🗓";
+    margin-right: 0.3em;
+}
+
+mark {
+    padding: 0.1rem;
+}
+
+ol li,
+ul li {
+    padding: 0.2rem 0;
+}
+
+.description {
+    height: var(--width-card);
+    overflow: scroll;
+}
+
+.description > *:first-child {
+    margin-top: 0;
+}
+
+
+p {
+    margin: 0.75rem 0;
+    padding: 0;
+    width: 100%;
+}
+
+header > h2, header > p {
+    margin: 0;
+}
+
+
+pre {
+    margin: 1rem 0;
+    max-width: var(--width-card-wide);
+    padding: 1rem 0;
+}
+
+pre code,
+pre samp {
+    display: block;
+    max-width: var(--width-card-wide);
+    padding: 0.5rem 2rem;
+    white-space: pre-wrap;
+}
+
+small {
+    color: var(--color-text-secondary);
+}
+
+sup {
+    background-color: var(--color-secondary);
+    border-radius: var(--border-radius);
+    color: var(--color-bg);
+    font-size: xx-small;
+    font-weight: bold;
+    margin: 0.2rem;
+    padding: 0.2rem 0.3rem;
+    position: relative;
+    top: -2px;
+}
+
+/* Links */
+a {
+    color: var(--color-link);
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:hover {
+    filter: brightness(var(--hover-brightness));
+}
+
+a:active {
+    filter: brightness(var(--active-brightness));
+}
+
+h2 > a {
+    color: inherit;
+}
+h2 > a:hover {
+    text-shadow: var(--color-link) 0px 0 1px;
+}
+
+button,
+input[type="submit"] {
+    font-family: var(--font-family);
+}
+
+button:hover,
+input[type="submit"]:hover {
+    cursor: pointer;
+    filter: brightness(var(--hover-brightness));
+}
+
+button:active,
+input[type="submit"]:active {
+    filter: brightness(var(--active-brightness));
+}
+
+article aside a {
+    color: var(--color-secondary);
+}
+
+/* Images */
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+figure img {
+    max-width: 100%;
+}
+
+figure figcaption {
+    color: var(--color-text-secondary);
+}
+
+/* Forms */
+button:disabled,
+input:disabled {
+    background: var(--color-bg-secondary);
+    border-color: var(--color-bg-secondary);
+    color: var(--color-text-secondary);
+    cursor: not-allowed;
+}
+
+button[disabled]:hover,
+input[type="submit"][disabled]:hover {
+    filter: none;
+}
+
+form {
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    display: block;
+    max-width: var(--width-card-wide);
+    min-width: var(--width-card);
+    padding: 1.5rem;
+    text-align: var(--justify-normal);
+}
+
+form header {
+    margin: 1.5rem 0;
+    padding: 1.5rem 0;
+}
+
+input,
+label,
+select,
+textarea {
+    display: block;
+    font-size: inherit;
+    max-width: var(--width-card-wide);
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    display: inline-block;
+}
+
+input[type="checkbox"]+label,
+input[type="radio"]+label {
+    display: inline-block;
+    font-weight: normal;
+    position: relative;
+    top: 1px;
+}
+
+input[type="range"] {
+    padding: 0.4rem 0;
+}
+
+input,
+select,
+textarea {
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    margin-bottom: 1rem;
+    padding: 0.4rem 0.8rem;
+}
+
+input[type="text"],
+input[type="password"]
+textarea {
+    width: calc(100% - 1.6rem);
+}
+
+input[readonly],
+textarea[readonly] {
+    background-color: var(--color-bg-secondary);
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 0.2rem;
+}
+
+/* Popups */
+dialog {
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow) var(--color-shadow);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    z-index: 999;
+}
+
+/* Tables */
+table {
+    border: 1px solid var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    border-spacing: 0;
+    display: inline-block;
+    max-width: 100%;
+    overflow-x: auto;
+    padding: 0;
+    white-space: nowrap;
+}
+
+table td,
+table th,
+table tr {
+    padding: 0.4rem 0.8rem;
+    text-align: var(--justify-important);
+}
+
+table thead {
+    background-color: var(--color-table);
+    border-collapse: collapse;
+    border-radius: var(--border-radius);
+    color: var(--color-bg);
+    margin: 0;
+    padding: 0;
+}
+
+table thead tr:first-child th:first-child {
+    border-top-left-radius: var(--border-radius);
+}
+
+table thead tr:first-child th:last-child {
+    border-top-right-radius: var(--border-radius);
+}
+
+table thead th:first-child,
+table tr td:first-child {
+    text-align: var(--justify-normal);
+}
+
+table tr:nth-child(even) {
+    background-color: var(--color-accent);
+}
+
+/* Quotes */
+blockquote {
+    display: block;
+    font-size: x-large;
+    line-height: var(--line-height);
+    margin: 1rem auto;
+    max-width: var(--width-card-medium);
+    padding: 1.5rem 1rem;
+    text-align: var(--justify-important);
+}
+
+blockquote footer {
+    color: var(--color-text-secondary);
+    display: block;
+    font-size: small;
+    line-height: var(--line-height);
+    padding: 1.5rem 0;
+}
+
+/* Scrollbars */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-scrollbar) transparent;
+}
+
+*::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: var(--color-scrollbar);
+    border-radius: 10px;
+}
+
+    </style>
+    <script>
+        function searchEps(searchString) {
+  const divs = Array.from(document.getElementsByTagName('section'));
+  divs.forEach(div => {
+    const matches = div.innerText.toLowerCase().includes(searchString.toLowerCase());
+    if (matches) {
+        div.style.display = 'flex';
+    } else {
+        div.style.display = 'none';
+    }
+  });
+}
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deleted Episodes Overcast Episodes</title>
+</head>
+
+<body>
+<nav style="text-align: center; padding: 1rem; border-bottom: 1px solid var(--border); margin-bottom: 1rem;">
+    <a href="overcast-played.html" style="margin: 0 1rem;">Recently Played</a>
+    <a href="overcast-starred.html" style="margin: 0 1rem;">Starred Episodes</a>
+    <a href="overcast-deleted.html" style="margin: 0 1rem;">Deleted Episodes</a>
+</nav>
+<main>
+    <input
+            type="text"
+            id="episode-search"
+            oninput="searchEps(this.value)"
+            placeholder="Search episodes..."
+            aria-label="Search episodes"
+    />
+    <h1><script>document.write(new Date("2026-09-09T01:22:37-04:00").toLocaleDateString())</script></h1><hr /><section>
+    <header>
+        <h2><a href="https://freakonomics.com">679. Why Does Vanderbilt Keep Winning?</a></h2>
+        <p>Freakonomics Radio &#8226;
+            <script>document.write(new Date("2026-06-26T10:00:00+00:00").toLocaleString())</script>
+        </p>
+    </header>
+    <div>
+        <img src="https://image.simplecastcdn.com/images/2be48404-a43c-4fa8-a32c-760a3216272e/fab1584e-8ea9-4efa-9650-5e595861b2cd/3000x3000/image.jpg?aid=rss_feed"/>
+        <div class="description">
+            <p>It’s a hard time to run a university: public trust is low, political pressure is high, and finances are fragile. But Daniel Diermeier, who trained as a political scientist, has Vanderbilt humming. How? He says the key is choosing magnets over wedges.<br>
+  </p>
+<ul>
+ <li><strong>SOURCES:</strong>
+  <ul>
+   <li><a href="https://www.vanderbilt.edu/chancellor/biography-diermeier/" rel="noopener noreferrer">Daniel Diermeier</a>, chancellor of Vanderbilt University.</li>
+  </ul></li>
+</ul>
+<p> </p>
+<ul>
+ <li><strong>RESOURCES:</strong>
+  <ul>
+   <li>"<a href="https://www.chronicle.com/article/higher-eds-new-crisis-managers" rel="noopener noreferrer">Higher Ed’s New Crisis Managers</a>," by Lee Gardner <i>(The Chronicle of Higher Education,</i> 2026).</li>
+   <li>"<a href="https://www.persuasion.community/p/we-analyzed-university-syllabi-theres" rel="noopener noreferrer">Professors Need to Diversify What They Teach</a>," by Jon Shields, Yuval Avnur, and Stephanie Muravchik <i>(Persuasion,</i> 2025).</li>
+   <li>"<a href="https://www.aacu.org/newsroom/a-call-for-constructive-engagement" rel="noopener noreferrer">A Call for Constructive Engagement</a>," <i>(American Association of Colleges and Universities,</i> 2025).</li>
+   <li>"<a href="https://americananthro.org/advocacy-statements/2020-statement-on-anthropology-and-human-rights/" rel="noopener noreferrer">2020 Statement on Anthropology and Human Rights</a>," <i>(American Anthropological Association,</i> 2020).</li>
+   <li><a href="https://amzn.to/43Yzf5w" rel="noopener noreferrer"><i>The New Jim Crow: Mass Incarceration in the Age of Colorblindness</i></a><i>, </i>by Michelle Alexander (2010).</li>
+   <li>"<a href="https://provost.uchicago.edu/sites/default/files/documents/reports/KalvenRprt_0.pdf" rel="noopener noreferrer">Kalven Committee: Report on the University’s Role in Political and Social Action</a>," <i>(The University of Chicago,</i> 1967).</li>
+  </ul></li>
+</ul>
+<p> </p>
+<ul>
+ <li><strong>EXTRAS:</strong>
+  <ul>
+   <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdMQ0RUWCXYQNI0sdz2kj46nOL-diutRkjJ8WxJIXp0n2EHaA/viewform" rel="noopener noreferrer">Sign up here</a> to pre-screen our new video show.</li>
+   <li>"'<a href="https://freakonomics.com/podcast/a-low-moment-in-higher-education/" rel="noopener noreferrer">A Low Moment in Higher Education</a>,'" by <i>Freakonomics Radio</i> (2024).</li>
+   <li>"'<a href="https://freakonomics.com/podcast/if-were-all-in-it-for-ourselves-who-are-we/" rel="noopener noreferrer">If We’re All in It for Ourselves, Who Are We?'</a>" by <i>Freakonomics Radio </i>(2024).</li>
+   <li>"<a href="https://freakonomics.com/podcast/do-boycotts-work/" rel="noopener noreferrer">Do Boycotts Work?</a>" by <i>Freakonomics Radio </i>(2016).</li>
+  </ul></li>
+</ul><br></br> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>
+        </div>
+    </div>
+    <hr/>
+</section><h1><script>document.write(new Date("2025-08-03T01:27:54-04:00").toLocaleDateString())</script></h1><hr /><section>
+    <header>
+        <h2><a href="http://www.judithkatz.me">חושבים טוב 193 - הילה קורח: למה אנחנו מפחדים להשתנות – ואיך משתחררים מזה?</a></h2>
+        <p>חושבים טוב &#8226;
+            <script>document.write(new Date("2025-06-09T03:00:00+00:00").toLocaleString())</script>
+        </p>
+    </header>
+    <div>
+        <img src="https://image.simplecastcdn.com/images/3feeca48-b20b-4539-8c8e-fd59620b90d5/f290b75a-0ab5-49b1-82e1-e68d5998767e/3000x3000/d7-a4-d7-a8-d7-a7-20193-20-d7-94-d7-99-d7-9c-d7-94-20-d7-a7-d7-95-d7-a8-d7-97-20-d7-a7-d7-90-d7-91-d7-a8-20-d7-a8-d7-99-d7-91-d7-95-d7-a2-d7-99.jpg?aid=rss_feed"/>
+        <div class="description">
+            <p>״דרכים קלות - לא מובילות למקומות מיוחדים״<br></br>האם אפשר לעזוב משהו שמוגדר כהצלחה, מבלי להרגיש כמו כישלון? כמה נרשמה לעצמנו לחרוג מהסיפור של ״מי שאנחנו אמורים להיות״? ומה דרוש, כשסוף סוף נרצה לקחת צעד חדש?</p><p>בשיחה לייב מול קהל (!) הילה קורח ואני צוללות לתוך איך להשתנות ולהשתנות. קראנו לזה שיחה פתוחה וכנה, והתייצבנו מול האומץ והפחד - לשנות ולהשתנות. <br></br><br></br>הילה מספרת על הזיגזגים שבין תקשורת לרפואה, על הפחד מהתגובות של העולם, ועל הרגע שבו הבינה מה היא באמת רוצה להיות כשתהיה גדולה. יחד שאלנו למה אנחנו חייבים את הכותרת הזאת, למי אנחנו חייבים את התשובה ״מה אתה״? מה קורה כשתחושת הבטן לא מסתדרת לנו עם מה שצריך באופן הגיוני (איזה סטיקר שינה להילה את התפיסה?), מה עושים עם כל הקולות האלה שעוצרים אותנו מלזוז ופשוט לנסות?</p><p>הפרק הוא הוא מקום למצוא בו אומץ, להקשיב לסימנים שהגוף (זועק לפעמים) נותן. להעז גם לעצור את מה שהתחלנו, גם כשאנחנו מקבלים על זה מבט עקום. ואיך לצד הפחד, יש בהתנסות ובחידוש, גם כיף ותחושת חיים מתפרצת.</p><p>הפרק הזה יזכיר לכם, שמותר, ואפילו רצוי, מידי פעם לשנות את דעתכם, ולעשות משהו חדש. לחצו פליי.</p><p><i>*****</i><br></br>צילום ועריכה: טל פישי דוידוביץ׳</p><p>*************</p><p><a href="https://www.instagram.com/hilakorach/">האינסטגרם של הילה קורח</a></p><p>*************</p><p>האירועים הקרובים:</p><p><a href="https://lp.vp4.me/wg18">10.6 | כתיבה ככלי מרפא | סדנה אונליין</a></p><p><a href="https://did.li/FCwgT">16.6 |  שיחה עם ליאת יקיר - קיצור תולדות האהבה והמיניות | תאו, הרצליה</a></p><p><a href="https://lp.smoove.io/1981">8.7 |  כח העל שלי - שלום חוזקות, להתראות חולשות  | הרצאה אונליין</a></p><p><a href="https://did.li/8Ih6q">16.7 |  קשה להשגה - ערב על חיפוש אהבה בעולם מבלבל | שיחה עם מעיין בוימן משיטה  | היכל בעיר, הרצליה</a></p><p><a href="https://bit.ly/3Hu67ex">4.8 |  לא רציונלי ולא מקדם - על מחשבות מעכבות ושקט נפשי | זאפה תל אביב</a></p><p>*************</p><p><a href="https://www.screenz.live/tv-shows/title/3/yhvdyt-kts-myyndpvlnsqvrs-mqyp-lytsyrt-shqt-npshy">״הקול בראש״ - קורס דיגיטלי של 17 פרקים</a></p><p><a href="https://www.judithkatz.me/lecturent">לצפייה אונליין! הרצאות מוקלטות שלי מחכות באתר</a></p><p>*************</p><p>רוצים להזמין הרצאה או סדנה שלי אצלכם בחברה, בארגון או לאירוע פרטי?</p><p>דברו עם ניצן ב- <a href="https://api.whatsapp.com/message/L2V7YZEDSJRVN1?autoload=1&app_absent=0">050-526-0526</a> או <a href="mailto:office@judithkatz.me">office@judithkatz.me</a></p><p><br></br>*************</p><p>רוצים להישאר מעודכנים?</p><p>פתחתי קבוצות שקטות בהן תקבלו עדכונים על פוסטים, סדנאות, הרצאות, פרקים חדשים, הרצאות מצולמות בלי תלות במצבי רוח של אלגוריתמים ברשתות חברתיות.</p><p>להצטרפות לקבוצה השקטה לחצו <a href="https://chat.whatsapp.com/Kqb7C43RwVTG5GpvkDuRGK">כאן</a>.</p><p>להרשמה לניוזלטר לחצו <a href="https://www.judithkatz.me/newsletter">כאן</a>.</p><p>*************</p><p>אם השיחה הזאת נגעה בכם, ממליצה לכם גם להאזין גם לפרקים האלו:</p><p><a href="https://pod.link/1189744258/episode/75b687de087ae9838737884524d7b7a2">חושבים טוב 88 - הילה קורח! איך היא עושה את זה? על חיים שהם גם וגם (וגם)</a></p><p><a href="https://tinyurl.com/43xn9ezm">חושבים טוב 186 - החוויה הפסיכדלית בטיפול - מחקר פורץ דרך והתנסות אישית עם ד״ר איתמר כהן</a></p><p><a href="https://pod.link/1189744258/episode/387678a19c173cc94f5ad4865177733c">חושבים טוב 170 - זריקת מוטיבציה: להבין את מנגנון הדופמין ולהשפיע עליו עם מלי אלקובי</a></p><p><a href="https://pod.link/1189744258/episode/3be9e400584676b61e4e6b8d3619ee49">חושבים טוב 73 - למתוח את גבולות האפשר - למה כדאי לנסות דברים חדשים? עם מלי אלקובי</a></p><p><a href="https://pod.link/1189744258/episode/aaaa665d54ccaf1291b5c8e18c273212">חושבים טוב 154 - איך להתמודד עם אגו, כח, ופוליטיקה בעבודה? עם נילי גולדפיין</a></p><p><a href="https://pod.link/1189744258/episode/b44d9ed88b93387eb9f7bd6ba99d48ca">חושבים טוב 149 - איך לקבל ביקורת ולהישאר בחיים? עם ליאור פרנקל</a></p><p><a href="https://pod.link/1189744258/episode/79b503a62c8a33d17dfcfec7c7420513">חושבים טוב 151 - איך לשדרג לעצמך את הגרסה? עם ליאור פרנקל</a></p>
+
+        </div>
+    </div>
+    <hr/>
+</section><h1><script>document.write(new Date("2025-06-05T11:45:46-04:00").toLocaleDateString())</script></h1><hr /><section>
+    <header>
+        <h2><a href="https://gimletmedia.com/science-vs/">Creatine: A Hack To Get Jacked?</a></h2>
+        <p>Science Vs &#8226;
+            <script>document.write(new Date("2025-06-05T09:00:00+00:00").toLocaleString())</script>
+        </p>
+    </header>
+    <div>
+        <img src="https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/ef3c9794d719932e0de154184674b35e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"/>
+        <div class="description">
+            Fitness buffs online can’t stop raving about creatine. They say it is THE supplement to get you shredded in no time — and that it can even boost your brain and memory too. Are they right? We dive into the science of creatine and talk to anatomy Professor Darryn Willoughby, physicist Dr. Ali Gordji-Nejad, and psychology researcher Julia Fabienne Sandkühler.
+
+
+
+Find our transcript here: <a href="https://bit.ly/ScienceVsCreatine">https://bit.ly/ScienceVsCreatine</a>
+
+
+
+In this episode, we cover:
+
+(00:00) The hype around creatine
+
+(02:40) How creatine builds muscle
+
+(08:41) Are the gains all muscle? 
+
+(17:23) Does creatine help with sleep deprivation? 
+
+(22:10) Does creatine boost cognition?
+
+(27:05) Is creatine safe?
+
+
+
+This episode was produced by Michelle Dang, with help from Wendy Zukerman, Meryl Horn, Rose Rimler, and Ekedi Fausther-Keeys. We’re edited by Blythe Terrell. Fact checking by Marlowe Starling. Mix and sound design by Bobby Lord. Music written by Emma Munger, So Wylie, Peter Leonard, Bumi Hidaka and Bobby Lord. A special thanks to the researchers we reached out to, including Dr. Imtiaz Desai and Prof. Phil Chilibeck. Thanks to Larry Lee and Lee Physical Therapy & Wellness.
+
+
+
+Science Vs is a Spotify Studios Original. Listen for free on Spotify or wherever you get your podcasts. Follow us and tap the bell for episode notifications. 
+Learn more about your ad choices. Visit podcastchoices.com/adchoices
+        </div>
+    </div>
+    <hr/>
+</section><h1><script>document.write(new Date("2025-01-23T12:05:58-05:00").toLocaleDateString())</script></h1><hr /><section>
+    <header>
+        <h2><a href="https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-922-%d7%a4%d7%a8%d7%95%d7%a4%d7%b3-%d7%9e%d7%95%d7%a8-%d7%a4%d7%a8%d7%a5-%d7%95%d7%a7%d7%90%d7%a4%d7%90%d7%95%d7%95/">פרק #922 - פרופ׳ מור פרץ וקאפאוו</a></h2>
+        <p>גיקונומי &#8226;
+            <script>document.write(new Date("2024-07-21T17:59:18+03:00").toLocaleString())</script>
+        </p>
+    </header>
+    <div>
+        <img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2024-07-21_at_175715ahi8x.jpeg"/>
+        <div class="description">
+            <p class="p1 sh-color-black sh-color" dir="rtl">מור פרץ נפצע בעת שירותו הצבאי. הוא ניצל את חודשי השיקום הארוכים כדי להתחיל ללמוד לתואר הראשון בהנדסת חשמל במכללת סמי שמעון. הישג האקדמים הפכו אותו לראשון שממשיך מהמכללה לתארים גבוהים באונ׳ במחלקה להנדסת חשמל. לאחר שהשלים את הדוקטורט בבן גוריון, המשיך לפוסט בקנדה היכן שמחקריו אודות ניצולת אנרגיה באלקטורניקה מודרנית העניקו לו את האפשרות לעבוד או ללמד היכן שירצה, אך מור בחר לחזור לבאר שבע, היכן שהקים את המרכז לאלקטרוניקת הספק ומעגלים מוכללים. אחרי יותר ממאה מאמרים, פרופ׳ פרץ החליט להקים סטארטאפ משלו שעוסק בטעינה מרחוק. דיברנו על הקריירה האקדמית המרשימה שלו ועל חברת קאפאוו, שמנסה לייעל מרכזים לוגיסטיים ומפעלים ברחבי העולם.</p>
+
+ 
+
+נותני החסות לפרק:
+<a href="https://www.catonetworks.com/careers/">הפרק בחסות חברת Cato Networks</a>
+<a href="https://geekonomy.net/2024/04/30/geekonomy886/">הפרק עם ישי יובל מקייטו</a>
+
+ 
+
+לינקים מהפרק:
+<a href="https://capow.energy/">האתר של חברת קאפאוו</a>
+ 
+        </div>
+    </div>
+    <hr/>
+</section><h1><script>document.write(new Date("2024-09-30T01:21:00-04:00").toLocaleDateString())</script></h1><hr /><section>
+    <header>
+        <h2><a href="https://podcasters.spotify.com/pod/show/russian-language-arts/episodes/Learning-Russian-through-Stories--Hunting-Story-eomsel">Learning Russian through Stories · Hunting Story</a></h2>
+        <p>Learning Russian through Stories &#8226;
+            <script>document.write(new Date("2021-01-11T22:37:58+00:00").toLocaleString())</script>
+        </p>
+    </header>
+    <div>
+        <img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11777676/11777676-1610109593286-6a6edf8291fd7.jpg"/>
+        <div class="description">
+            <p>Russian listening skills practice. Listen to a funny short story <em>"Hunting Story"</em> in Russian. The transcript of the story is available on the <a href="https://youtu.be/rgrDgtNjowI"><strong>YouTube</strong></a> channel <strong>"Russian Language Arts".<br>
+<br>
+Transcript (detail)</strong></p>
+<p>Жил был охо́тник. Его́ зва́ли Фёдор. Он о́чень люби́л расска́зывать ра́зные интере́сные исто́рии из свое́й жи́зни.  </p>
+<p><strong>Translation of Expressions </strong> <br>
+<em>жил был охотник</em> – there was once a hunter <br>
+<em>его звали Фёдор</em> – his name was Fyodor <br>
+<em>он очень любил рассказывать</em> – he enjoyed to tell <br>
+<em>разные интересные истории</em> – various interesting stories <br>
+<em>из своей жизни</em> – of his life</p>
+
+        </div>
+    </div>
+    <hr/>
+</section><h1><script>document.write(new Date("2024-07-21T17:39:36-04:00").toLocaleDateString())</script></h1><hr /><section>
+    <header>
+        <h2><a href="https://omny.fm/shows/it-could-happen-here/it-could-happen-here-weekly-59">It Could Happen Here Weekly 59</a></h2>
+        <p>Behind the Bastards &#8226;
+            <script>document.write(new Date("2022-11-12T05:01:00+00:00").toLocaleString())</script>
+        </p>
+    </header>
+    <div>
+        <img src="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/image.jpg?t=1751824393&size=Large"/>
+        <div class="description">
+            <p>All of this week's episodes of It Could Happen Here put together in one large file.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>
+        </div>
+    </div>
+    <hr/>
+</section>
+</main>
+<footer>
+    <p><a href="https://github.com/hbmartin/overcast-to-sqlite/issues">Make suggestions or report bugs here</a></p>
+    <p><small>Made with ❤️ by your friendly neighborhood <a href="https://www.linkedin.com/in/harold-martin-98526971/">hbmartin</a></small>
+    </p>
+</footer>
+</body>
+
+</html>
